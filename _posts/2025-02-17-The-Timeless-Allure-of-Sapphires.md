@@ -3,7 +3,7 @@ layout: post
 title: The Timeless Allure of Sapphires: A Deep Dive into History, Science, and Styles
 subtitle: Exploring the Radiant Intersection of Geology and Jewelry
 categories: Gemstones, Mining
-tags: sapphires, gemstones, jewelry, minerals
+tags: [sapphires, gemstones, jewelry, minerals]
 ---
 
 ## Introduction
