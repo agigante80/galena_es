@@ -1,4 +1,3 @@
-```markdown
 ---
 title: The Timeless Allure of Sapphires: A Deep Dive into History, Science, and Styles
 subtitle: Exploring the Radiant Intersection of Geology and Jewelry
@@ -52,4 +51,3 @@ The enduring allure of sapphires lies not only in their stunning beauty but also
 For more detailed insights, visit [GIA's Guide to Sapphires](https://www.gia.edu/sapphire).
 
 Let the world of sapphires ignite your curiosity, offering a glimpse into nature's most artful creations and the stories they tell. As you explore, may you find that the journey through gemstones paints life in colors more vivid and inspiring than ever before.
-```
