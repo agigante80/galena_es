@@ -1,5 +1,5 @@
 ---
-title: The Allure of Amethyst: A Gemstone's Journey
+title: "The Allure of Amethyst: A Gemstone's Journey"
 subtitle: Explore the rich history and unique properties of Amethyst that makes it a popular choice among gem enthusiasts.
 categories: Gemstones, Geology
 tags: Amethyst, Gemstones, Geology, Mineralogy
@@ -32,4 +32,3 @@ For further exploration into the world of amethyst and other gemstones, the [Min
 
 # Conclusion
 The allure of amethyst lies not only in its enchanting violet hue but also in the rich tapestry of history, geology, and mysticism that surrounds it. Whether you're a gem enthusiast, a geology lover, or simply someone drawn to the beauty of nature's treasures, the story of amethyst offers a fascinating glimpse into the heart of our planet. As we continue to explore and appreciate the world of minerals and gemstones, let us remember to tread gently, honoring the precious gift that Mother Earth has bestowed upon us.
-```
