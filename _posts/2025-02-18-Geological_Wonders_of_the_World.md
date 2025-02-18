@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Geological Wonders of the World
 subtitle: Explore the planet's most breathtaking geological formations and the minerals within them.
