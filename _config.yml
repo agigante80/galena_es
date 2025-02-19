@@ -151,7 +151,7 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
+ header_pages:
    - index.html
    - archives.html
    - categories.html
@@ -160,8 +160,8 @@ yat:
    - disclaimer.html
 
 # Page default value
-# defaults:
-#   home:
+ defaults:
+   home:
      heading: "Galena.es: The Future of Geology"
      subheading: "Exploring Minerals, Gemstones, and Mining with the Power of AI"
      banner: "/assets/images/banners/Galena_-_Huallanca,_Bologesi,_Ancash,_Peru.jpg"
