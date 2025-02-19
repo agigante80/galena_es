@@ -2,11 +2,11 @@
 layout: post
 title: "Jewelry Trends and Their Impact on Gemstone Demand"
 subtitle: "An intriguing exploration into how global jewelry trends influence the demand and value of certain gemstones."
-excerpt_image: assets/images/Jewelry_Trends_and_Gemstone_Choices.png
+excerpt_image: https://galena.es/assets/images/Jewelry_Trends_and_Gemstone_Choices.png
 categories: Geology, Fashion
 tags: [Jewelry Trends, Gemstones, Market Demand, Value]
 ---
-![banner](assets/images/Jewelry_Trends_and_Gemstone_Choices.png)
+![banner](https://galena.es/assets/images/Jewelry_Trends_and_Gemstone_Choices.png)
 
 # Introduction
 The world of jewelry is a captivating blend of fashion, art, and geology. The choice of gemstones used in jewelry designs often reflects not only aesthetic preferences but also global trends and market dynamics. This article delves into the intriguing correlation between jewelry trends and the demand and value of certain gemstones.

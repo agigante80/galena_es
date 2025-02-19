@@ -2,11 +2,11 @@
 layout: post
 title: "Untold Tales of Famous Gems"
 subtitle: "Explore the intriguing history and legends associated with the world's most renowned gemstones."
-excerpt_image: assets/images/Untold_Tales_of_Famous_Gems.png
+excerpt_image: https://galena.es/assets/images/Untold_Tales_of_Famous_Gems.png
 categories: Geology, History
 tags: [Gemstones, Legends, History, Mining]
 ---
-![banner](assets/images/Untold_Tales_of_Famous_Gems.png)
+![banner](https://galena.es/assets/images/Untold_Tales_of_Famous_Gems.png)
 
 # Introduction
 Delve into the fascinating world of gemstones as we uncover the untold tales of some of the most famous gems in history. Learn about the origin, discovery, and the enchanting legends that surround them.
