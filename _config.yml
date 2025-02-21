@@ -157,7 +157,6 @@ header_pages:
    - categories.html
    - tags.html
    - about.md
-   - disclaimer.html
 
 # Page default value
 defaults:
