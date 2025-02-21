@@ -10,9 +10,19 @@ from markdown_it import MarkdownIt
 from markdown_it.renderer import RendererHTML
 
 # The following variables must be set as environment variables for security reasons.
-# OPENAI_API_KEY=""
-# TELEGRAM_BOT_TOKEN=""
-# TELEGRAM_CHAT_ID=""
+# if you use github secrets, you can set them in the repository settings as Environment variables.
+# If you run the script locally, you can set them in the terminal before running the script.
+# export OPENAI_API_KEY=""
+# export TELEGRAM_BOT_TOKEN=""
+# export TELEGRAM_CHAT_ID=""
+# If you use Windows, you can set them in the terminal before running the script.
+# set OPENAI_API_KEY=""
+# set TELEGRAM_BOT_TOKEN=""
+# set TELEGRAM_CHAT_ID=""
+# If you want to set them in the script for TESTING purposes, you can uncomment the following lines.
+# OPENAI_API_KEY = ""
+# TELEGRAM_BOT_TOKEN = ""
+# TELEGRAM_CHAT_ID = ""
 
 # Settting the variables for managing the topics
 AI_TOPICS_DIRECTORY = "AI_content/"
