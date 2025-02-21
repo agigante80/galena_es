@@ -6,6 +6,7 @@ on:
       - master
   schedule:
     - cron: '30 8 * * 1,3,5' # Runs at 08:30 AM Madrid time (UTC+1 or UTC+2 depending on daylight saving)
+    workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   generate_article:

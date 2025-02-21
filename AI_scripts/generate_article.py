@@ -10,11 +10,15 @@ from markdown_it import MarkdownIt
 from markdown_it.renderer import RendererHTML
 
 # The following variables must be set as environment variables for security reasons.
-#
-# if you use github secrets, you can set them in the repository settings as repository variable.
 # OPENAI_API_KEY
 # TELEGRAM_BOT_TOKEN
 # TELEGRAM_CHAT_ID
+# 
+# In Github, you can set them in the repository settings:
+# - Go to your repository on GitHub.
+# - Click on the "Settings" tab.
+# - In the left sidebar, click on "Secrets and variables" and then "Actions".
+# - Click the "New repository secret" button.
 #
 #  If you run the script locally, you can set them in the terminal before running the script.
 # export OPENAI_API_KEY=""
