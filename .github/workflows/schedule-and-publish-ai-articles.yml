@@ -36,4 +36,4 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add -A
         git commit -m "Add generated article and image"
-        git push
+        git push origin master
