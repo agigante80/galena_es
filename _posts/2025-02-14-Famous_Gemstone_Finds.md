@@ -3,7 +3,7 @@ layout: post
 title: "Famous Gemstone Finds That Shaped History"
 subtitle: "Unveiling the tales behind the world's most significant gemstone discoveries and their global impact"
 excerpt_image: https://galena.es/assets/images/Famous_Gemstone_Finds.png
-categories: History, Geology
+categories: [History, Geology]
 tags: [Gemstones, Mining, Historical Finds, Geology]
 ---
 ![banner](https://galena.es/assets/images/Famous_Gemstone_Finds.png)

@@ -3,7 +3,7 @@ layout: post
 title: "Unearthed Realities: Mining's Impact on Local Communities"
 subtitle: "Exploring the socio-economic and environmental implications of mining on nearby communities."
 excerpt_image: https://galena.es/assets/images/Impact_of_Mining_on_Local_Communities.png
-categories: Geology, Socioeconomics
+categories: [Geology, Socioeconomics]
 tags: [Mining, Community Impact, Environment, Sustainability]
 ---
 

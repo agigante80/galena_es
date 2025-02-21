@@ -3,7 +3,7 @@ layout: post
 title: "The Ancient Craft of Lapidary"
 subtitle: "An inside look at the fascinating world of lapidary, the art of cutting and polishing gemstones."
 excerpt_image: https://galena.es/assets/images/The_Art_of_Lapidary.png
-categories: Geology, Artisan Crafts
+categories: [Geology, Artisan Crafts]
 tags: [Lapidary, Gemstones, Geology, Craftsmanship]
 ---
 

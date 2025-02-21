@@ -3,7 +3,7 @@ layout: post
 title: "Jewelry Trends and Their Impact on Gemstone Demand"
 subtitle: "An intriguing exploration into how global jewelry trends influence the demand and value of certain gemstones."
 excerpt_image: https://galena.es/assets/images/Jewelry_Trends_and_Gemstone_Choices.png
-categories: Geology, Fashion
+categories: [Geology, Fashion]
 tags: [Jewelry Trends, Gemstones, Market Demand, Value]
 ---
 ![banner](https://galena.es/assets/images/Jewelry_Trends_and_Gemstone_Choices.png)

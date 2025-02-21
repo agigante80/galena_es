@@ -3,7 +3,7 @@ layout: post
 title: "Fluorescent Minerals: The Hidden Glow of the Underground"
 subtitle: "Uncover the enchanting world of fluorescent minerals and the science behind their ethereal glow."
 excerpt_image: https://galena.es/assets/images/Fluorescent_Minerals_and_Their_Glow.png
-categories: Geology, Mineralogy
+categories: [Geology, Mineralogy]
 tags: [Fluorescent Minerals, Geology, Mineralogy, UV Light]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Diamonds vs Moissanites: A Detailed Comparison"
 subtitle: "Exploring the differences between natural diamonds and lab-created moissanites in terms of structure and value."
 excerpt_image: https://galena.es/assets/images/Diamonds_vs_Moissanites.png
-categories: Minerals, Gemstones
+categories: [Minerals, Gemstones]
 tags: [Diamonds, Moissanites, Gemstones, Earth Sciences]
 ---
 
