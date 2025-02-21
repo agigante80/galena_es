@@ -263,7 +263,7 @@ Below the required structure and elements::
    title: "<title of the generated article, do not use any symbol in the title, max 50 characters>"
    subtitle: "<summary of the generated article, max 140 characters>"
    excerpt_image: {WEBSITE}{image_path}
-   categories: <2 categories, comma separated for the generated article>
+   categories: [<2 categories, comma separated for the generated article>]
    tags: [<4 keywords, comma separated for the generated article>]
    ---
 ![banner]({WEBSITE}{image_path})
