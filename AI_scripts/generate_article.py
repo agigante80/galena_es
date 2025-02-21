@@ -309,8 +309,14 @@ Below the required structure and elements::
         article_file.write(article_content)
     logging.info(f"✅ Article for '{topic_idea}' created and saved to {article_file_path}")
     
+    # Extract categories from the front matter
+    categories = re.search(r'categories: \[(.*?)\]', article_content).group(1).replace(' ', '').split(',')
+    category_path = '/'.join(categories).lower()
+
+    # Construct the article URL
+    article_url = f"{WEBSITE}/{category_path}/{current_date.replace('-', '/')}/{topic_idea.replace(' ', '_')}.html"
+    
     # Notify via Telegram with the full URL of the article
-    article_url = f"{WEBSITE}{article_file_path.replace('_posts/', 'posts/')}"
     send_telegram_message(bot_token, chat_id, f"New article for '{topic_idea}' has been generated and saved. Read it here: {article_url}")
     
     return article_file_path
