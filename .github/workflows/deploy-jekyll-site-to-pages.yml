@@ -10,8 +10,6 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["master"]
-  paths:
-    - '_posts/**'  # Trigger on changes to the _posts directory
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
