@@ -66,7 +66,7 @@ yat:
 
 # Google analytics - GA4
 google_analytics: G-KM50L046E8
-enableDNT: "false"
+enableDNT: "true"
 
 # If you want to generate website sitemap, you can set true
 sitemap: true
@@ -164,7 +164,7 @@ header_pages:
    - archives.html
    - categories.html
    - tags.html
-   - about.md
+   - about.html
 
 # Page default value
 defaults:
