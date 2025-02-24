@@ -48,7 +48,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://galena.es" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "assets/images/favicon-32x32.png" # the favicon for your site
+favicon: "assets/favicon/favicon_galena_32x32.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -171,7 +171,7 @@ defaults:
    home:
      heading: "Galena.es: The Future of Geology"
      subheading: "Exploring Minerals, Gemstones, and Mining with the Power of AI"
-     banner: "/assets/images/banners/Galena_-_Huallanca,_Bologesi,_Ancash,_Peru.jpg"
+     banner: "/assets/images/banners/Galena_banner_02-1784x392.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also

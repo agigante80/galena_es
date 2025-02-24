@@ -8,6 +8,8 @@ import requests
 import re
 from markdown_it import MarkdownIt
 from markdown_it.renderer import RendererHTML
+from PIL import Image
+from io import BytesIO
 
 # The following variables must be set as environment variables for security reasons.
 # OPENAI_API_KEY
@@ -221,31 +223,43 @@ Requirements:
 """
     client = OpenAI(
         api_key=api_key,  # Pass the api_key directly
-    )    
+    )
     response = client.images.generate(
-    model="dall-e-3",
-    prompt=prompt,
-    n=1,
-    size='512x512' # other options '256x256', '512x512', '1024x1024', '1024x1792', '1792x1024'
+        model="dall-e-3",
+        prompt=prompt,
+        n=1,
+        size='1024x1024'  # other options '256x256', '512x512', '1024x1024', '1024x1792', '1792x1024'
+        temperature=0.8,
     )
     # Extract the URL of the generated image
     image_url = response.data[0].url
     logging.info("Generated Image URL: " + image_url)
-    
-    # Download the image
+
+    # Download the original image
     image_response = requests.get(image_url)
     if image_response.status_code == 200:
-        image_path = os.path.join(file_path, f"{topic_idea.replace(' ', '_')}.png")
-        with open(image_path, 'wb') as image_file:
+        original_image_path = os.path.join(file_path, f"{topic_idea.replace(' ', '_')}_1024x1024.png")
+        with open(original_image_path, 'wb') as image_file:
             image_file.write(image_response.content)
-        logging.info(f"✅ Image downloaded and saved to {image_path}")
+        logging.info(f"✅ Original image downloaded and saved to {original_image_path}")
+        
+        # Resize the image
+        with Image.open(BytesIO(image_response.content)) as original_image:
+            resized_dimensions = (512, 512)  # Change dimensions as required
+            resized_image = original_image.resize(resized_dimensions)
+            
+            # Save the resized image
+            resized_image_path = os.path.join(file_path, f"{topic_idea.replace(' ', '_')}.png")
+            resized_image.save(resized_image_path)
+            logging.info(f"✅ Resized image saved to {resized_image_path}")
     else:
         logging.error(f"❌ Failed to download image. Status code: {image_response.status_code}")
+        return None
 
     # Notify via Telegram
     send_telegram_message(bot_token, chat_id, f"New image for '{topic_idea}' has been generated and saved.")
 
-    return image_path
+    return resized_image_path
 
 def get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id):
     prompt = f"""
