@@ -66,7 +66,7 @@ yat:
 
 # Google analytics - GA4
 google_analytics: G-KM50L046E8
-enableDNT: "true"
+enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
 sitemap: true
@@ -198,7 +198,7 @@ defaults:
 #   text_size: 350          # Words default size
 
 # Pagination setting
-# paginate: 5
+paginate: 10
 
 # Photo previewer settings (PhotoSwipe 5)
 # the options please refer to: https://photoswipe.com/options/
