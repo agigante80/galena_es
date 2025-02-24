@@ -237,7 +237,8 @@ Requirements:
     # Download the original image
     image_response = requests.get(image_url)
     if image_response.status_code == 200:
-        original_image_path = os.path.join(file_path, f"{topic_idea.replace(' ', '_')}_1024x1024.png")
+        sanitized_topic = topic_idea.replace(' ', '_').replace("'", "")
+        original_image_path = os.path.join(file_path, f"{sanitized_topic}_1024x1024.png")
         with open(original_image_path, 'wb') as image_file:
             image_file.write(image_response.content)
         logging.info(f"✅ Original image downloaded and saved to {original_image_path}")
@@ -248,7 +249,7 @@ Requirements:
             resized_image = original_image.resize(resized_dimensions)
             
             # Save the resized image
-            resized_image_path = os.path.join(file_path, f"{topic_idea.replace(' ', '_')}.png")
+            resized_image_path = os.path.join(file_path, f"{sanitized_topic}.png")
             resized_image.save(resized_image_path)
             logging.info(f"✅ Resized image saved to {resized_image_path}")
     else:

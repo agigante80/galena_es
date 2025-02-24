@@ -2,12 +2,12 @@
 layout: post
 title: "Opal: Australia's National Gemstone"
 subtitle: "Discover how unique conditions make Australia the world's leading source of opals."
-excerpt_image: https://galena.es/assets/images/Opal_Australia's_National_Gemstone.png
+excerpt_image: https://galena.es/assets/images/Opal_Australias_National_Gemstone.png
 categories: [Geology, Gemstones]
 tags: [Opal, Australia, Minerals, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Opal_Australia's_National_Gemstone.png)
+![banner](https://galena.es/assets/images/Opal_Australias_National_Gemstone.png)
 
 # Introduction
 

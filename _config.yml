@@ -171,7 +171,7 @@ defaults:
    home:
      heading: "Galena.es: The Future of Geology"
      subheading: "Exploring Minerals, Gemstones, and Mining with the Power of AI"
-     banner: "/assets/images/banners/Galena_banner_02-1784x392.png"
+     banner: "/assets/images/banners/Galena_banner_03-1784x1024.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
