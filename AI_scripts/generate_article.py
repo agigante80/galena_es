@@ -228,8 +228,7 @@ Requirements:
         model="dall-e-3",
         prompt=prompt,
         n=1,
-        size='1024x1024'  # other options '256x256', '512x512', '1024x1024', '1024x1792', '1792x1024'
-        temperature=0.8,
+        size='1024x1024',  # other options '256x256', '512x512', '1024x1024', '1024x1792', '1792x1024'
     )
     # Extract the URL of the generated image
     image_url = response.data[0].url
