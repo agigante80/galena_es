@@ -223,6 +223,7 @@ Requirements:
         api_key=api_key,  # Pass the api_key directly
     )    
     response = client.images.generate(
+    model="dall-e-3",
     prompt=prompt,
     n=1,
     size='512x512' # other options '256x256', '512x512', '1024x1024', '1024x1792', '1792x1024'
