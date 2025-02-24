@@ -43,7 +43,7 @@ jobs:
           python AI_scripts/generate_article.py
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v4a9ddd6f338a97768b8006bf671dfbad383215f4
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
           bundler-cache: true
