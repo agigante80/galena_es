@@ -263,7 +263,7 @@ Requirements:
 
 def get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id):
     prompt = f"""
-Create a blog article of approximately 1200 words in GitHub Flavored Markdown format. 
+Create a blog article of approximately between 1200 to 2000 words in GitHub Flavored Markdown format. 
 The article is for a blog related to the world of minerals, mining, or gemstones. 
 The Audience: Geology enthusiasts, educators, and general readers interested in earth sciences
 
