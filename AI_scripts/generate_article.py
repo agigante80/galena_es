@@ -325,8 +325,16 @@ Below the required structure and elements::
     logging.info(f"✅ Article for '{topic_idea}' created and saved to {article_file_path}")
     
     # Extract categories from the front matter
-    categories = re.search(r'categories: \[(.*?)\]', article_content).group(1).split(',')
-    category_path = ''.join(categories).lower()
+    categories_match = re.search(r'categories: \[(.*?)\]', article_content)
+    if categories_match:
+        # Split the categories by ',' and strip any whitespace around each category
+        categories = [category.strip() for category in categories_match.group(1).split(',')]
+        
+        # Convert spaces to '%20' and ampersands to '%26'
+        categories = [category.replace(' ', '%20').replace('&', '%26') for category in categories]
+        
+        # Join categories with a '/'
+        category_path = '/'.join(categories).lower()
 
     # Construct the article URL
     article_url = f"{WEBSITE}/{category_path}/{current_date.replace('-', '/')}/{topic_idea.replace(' ', '_')}.html"
