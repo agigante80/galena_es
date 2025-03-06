@@ -275,8 +275,19 @@ def notify_indexnow(api_key, website, url):
         "keyLocation": f"{website}/{api_key}.txt",
         "urlList": [url]
     }
-    response = requests.post(indexnow_api_url, json=data, headers=headers)
-    return response.ok
+
+    # Send the POST request
+    try:
+        response = requests.post(indexnow_api_url, json=data, headers=headers)
+
+        # Log the HTTP status code and response content
+        logging.info(f"IndexNow Response Status Code: {response.status_code}")
+        logging.info(f"IndexNow Response Text: {response.text}")
+
+        return response.ok
+    except requests.exceptions.RequestException as e:
+        logging.error("IndexNow Request failed: %s", e)
+        return False
 
 def get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id):
     prompt = f"""
