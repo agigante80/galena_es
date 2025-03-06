@@ -265,7 +265,16 @@ Requirements:
     return resized_image_path
 
 def notify_indexnow(api_key, website, url):
-    indexnow_api_url = "https://api.indexnow.org/indexnow"
+    # List of URLs for different search engines
+    indexnow_servers = [
+        "https://api.indexnow.org/indexnow",
+        "https://www.bing.com/indexnow",
+        "https://searchadvisor.naver.com/indexnow",
+        "https://search.seznam.cz/indexnow",
+        "https://yandex.com/indexnow",
+        "https://indexnow.yep.com/indexnow"
+    ]
+
     headers = {
         "Content-Type": "application/json; charset=utf-8"
     }
@@ -276,18 +285,24 @@ def notify_indexnow(api_key, website, url):
         "urlList": [url]
     }
 
-    # Send the POST request
-    try:
-        response = requests.post(indexnow_api_url, json=data, headers=headers)
+    for server_url in indexnow_servers:
+        try:
+            # Send the POST request to each server
+            response = requests.post(server_url, json=data, headers=headers)
 
-        # Log the HTTP status code and response content
-        logging.info(f"IndexNow Response Status Code: {response.status_code}")
-        logging.info(f"IndexNow Response Text: {response.text}")
+            # Log the HTTP status code and response content for each server
+            logging.info(f"IndexNow Sent request to {server_url}")
+            logging.info(f"IndexNow Response Status Code: {response.status_code}")
+            logging.info(f"IndexNow Response Text: {response.text}")
 
-        return response.ok
-    except requests.exceptions.RequestException as e:
-        logging.error("IndexNow Request failed: %s", e)
-        return False
+            # Check if response was successful
+            if not response.ok:
+                logging.warning(f"IndexNow Request to {server_url} failed.")
+                
+        except requests.exceptions.RequestException as e:
+            logging.error("IndexNow Request to %s failed: %s", server_url, e)
+    
+    return True  # Return True if all requests were sent
 
 def get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id):
     prompt = f"""
