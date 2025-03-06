@@ -54,6 +54,9 @@ LOG_FULL_PATH = ""
 # Settting the variables for the website
 WEBSITE = "https://galena.es/"
 
+# Settting the variables for the IndexNow API
+INDEXNOW_API_KEY = "b0877b4c780a40a28c67e0985cbc022f"
+
 # Set up logging.
 # The logging configuration checks if LOG_FULL_PATH is set. 
 # If it is not set, logging is configured to use the default settings, which log to the console. 
@@ -261,6 +264,20 @@ Requirements:
 
     return resized_image_path
 
+def notify_indexnow(api_key, website, url):
+    indexnow_api_url = "https://api.indexnow.org/indexnow"
+    headers = {
+        "Content-Type": "application/json; charset=utf-8"
+    }
+    data = {
+        "host": website,
+        "key": api_key,
+        "keyLocation": f"{website}/{api_key}.txt",
+        "urlList": [url]
+    }
+    response = requests.post(indexnow_api_url, json=data, headers=headers)
+    return response.ok
+
 def get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id):
     prompt = f"""
 Create a blog article of approximately between 1200 to 2000 words in GitHub Flavored Markdown format. 
@@ -342,6 +359,8 @@ Below the required structure and elements::
     # Notify via Telegram with the full URL of the article
     send_telegram_message(bot_token, chat_id, f"New article for '{topic_idea}' has been generated and saved. Read it here: {article_url}")
     
+    notify_indexnow(api_key='INDEXNOW_API_KEY', website=WEBSITE, url=article_url)
+
     return article_file_path
 
 def check_and_load_env_variables():
