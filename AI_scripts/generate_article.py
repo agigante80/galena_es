@@ -55,6 +55,9 @@ LOG_FULL_PATH = ""
 WEBSITE = "https://galena.es/"
 
 # Settting the variables for the IndexNow API
+# This is your own IndexNow API key. You can get it by signing up at https://indexnow.org/
+# If you don't want to use IndexNow, you can leave this variable empty.
+# remember to generate as well a file with the api key.txt and the key in the root of the website
 INDEXNOW_API_KEY = "b0877b4c780a40a28c67e0985cbc022f"
 
 # Set up logging.
@@ -385,7 +388,9 @@ Below the required structure and elements::
     # Notify via Telegram with the full URL of the article
     send_telegram_message(bot_token, chat_id, f"New article for '{topic_idea}' has been generated and saved. Read it here: {article_url}")
     
-    notify_indexnow(api_key='INDEXNOW_API_KEY', website=WEBSITE, url=article_url)
+    # Only notify IndexNow if the API key is provided
+    if INDEXNOW_API_KEY:
+        notify_indexnow(api_key=INDEXNOW_API_KEY, website=WEBSITE, url=article_url)
 
     return article_file_path
 
