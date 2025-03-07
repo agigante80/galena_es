@@ -7,7 +7,7 @@ categories: [Gemstones, History]
 tags: [Jade, Imperial Gem, Mineralogy, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Jade_The_Imperial_Gem.png)
+![banner](https://galena.es/assets/images/Jade_The_Imperial_Gem.png "Image of Jade - The Imperial Gem")
 
 # Introduction
 
