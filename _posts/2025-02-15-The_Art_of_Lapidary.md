@@ -7,7 +7,7 @@ categories: [Geology, Artisan Crafts]
 tags: [Lapidary, Gemstones, Geology, Craftsmanship]
 ---
 
-![banner](https://galena.es/assets/images/The_Art_of_Lapidary.png)
+![banner](https://galena.es/assets/images/The_Art_of_Lapidary.png "Image showcasing the intricate craft of lapidary, highlighting the skillful process of cutting and polishing gemstones into stunning works of art, blending geology with artisan craftsmanship.")
 
 # Introduction
 

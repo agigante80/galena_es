@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Emerging_Tech_in_Gemstone_Identif
 categories: [Gemstones, Technology]
 tags: [gemstone identification, emerging technology, grading gemstones, earth sciences]
 ---
-![banner](https://galena.es/assets/images/Emerging_Tech_in_Gemstone_Identification.png)
+![banner](https://galena.es/assets/images/Emerging_Tech_in_Gemstone_Identification.png "Image exploring emerging technologies in gemstone identification, showcasing innovative tools and methods transforming the grading and verification process in the gemstone industry.")
 
 # Emerging Technology in Gemstone Identification
 

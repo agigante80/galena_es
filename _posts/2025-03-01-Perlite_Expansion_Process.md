@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Perlite_Expansion_Process.png
 categories: [Mineral Processing, Geology]
 tags: [Perlite, Expansion Process, Volcanic Glass, Mineralogy]
 ---
-![banner](https://galena.es/assets/images/Perlite_Expansion_Process.png)
+![banner](https://galena.es/assets/images/Perlite_Expansion_Process.png "Image showcasing the perlite expansion process, highlighting the transformation of volcanic glass into a lightweight, porous mineral through heat treatment, essential for various industrial applications.")
 
 # The Perlite Expansion Process: A Geological Marvel
 

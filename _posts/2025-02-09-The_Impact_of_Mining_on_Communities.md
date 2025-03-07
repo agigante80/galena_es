@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/The_Impact_of_Mining_on_Communiti
 categories: [Mining, Socio-Economics]
 tags: [Mining, Communities, Environment, Socio-Economic Impact]
 ---
-![banner](https://galena.es/assets/images/The_Impact_of_Mining_on_Communities.png)
+![banner](https://galena.es/assets/images/The_Impact_of_Mining_on_Communities.png "Image exploring the socio-economic and environmental impacts of mining on local communities, highlighting both the positive and negative consequences of mining activities.")
 
 ## Introduction
 

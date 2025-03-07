@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Cobalt_and_Electric_Vehicles.png
 categories: [Energy, Minerals]
 tags: [Electric Vehicles, Cobalt Mining, Renewable Energy, Geology]
 ---
-![banner](https://galena.es/assets/images/Cobalt_and_Electric_Vehicles.png)
+![banner](https://galena.es/assets/images/Cobalt_and_Electric_Vehicles.png "Illustration highlighting cobalt's role in electric vehicles, featuring mining operations, cobalt processing, and its use in lithium-ion batteries for sustainable transportation.")
 
 # Introduction
 

@@ -7,7 +7,7 @@ categories: [minerals, drilling operations]
 tags: [bentonite, drilling, geology, earth sciences]
 ---
 
-![banner](https://galena.es/assets/images/Bentonite_in_Drilling_Fluids.png)
+![banner](https://galena.es/assets/images/Bentonite_in_Drilling_Fluids.png "Image illustrating the essential role of bentonite clay in drilling operations, showcasing its use in drilling fluids for stabilizing boreholes, enhancing mud properties, and supporting efficient drilling processes.")
 
 # Introduction
 

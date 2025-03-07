@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Pyrite_in_Modern_Industry.png
 categories: [Industrial Minerals, Modern Mining]
 tags: [Pyrite, Mining, Industrial Uses, Geology]
 ---
-![banner](https://galena.es/assets/images/Pyrite_in_Modern_Industry.png)
+![banner](https://galena.es/assets/images/Pyrite_in_Modern_Industry.png "Visual representation of pyrite's role in modern industry, featuring its crystalline structure, mining processes, and applications in various fields like manufacturing and energy.")
 
 # Introduction
 

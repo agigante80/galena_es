@@ -7,7 +7,7 @@ categories: [Mineralogy, Earth Sciences]
 tags: [Hutchinsonite, Geology, Mineralogists, Sulfosalt Minerals]
 ---
 
-![banner](https://galena.es/assets/images/The_Unique_Nature_of_Hutchinsonite.png)
+![banner](https://galena.es/assets/images/The_Unique_Nature_of_Hutchinsonite.png "Image illustrating Hutchinsonite, a rare mineral with its distinct red to brown crystalline structures, highlighting its unique composition and significance in mineralogy.")
 
 # Introduction
 

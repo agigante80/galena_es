@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Famous_Gemstone_Finds.png
 categories: [History, Geology]
 tags: [Gemstones, Mining, Historical Finds, Geology]
 ---
-![banner](https://galena.es/assets/images/Famous_Gemstone_Finds.png)
+![banner](https://galena.es/assets/images/Famous_Gemstone_Finds.png "Image highlighting famous gemstone discoveries throughout history, showcasing the impact these finds have had on global culture, economy, and the field of geology.")
 
 # Introduction
 Gemstones have a rich history, often entwined with myths, legends, and historical events. Their beauty and rarity have fascinated humanity for centuries. This post explores the stories behind some of the world's most famous gemstone finds and their impact on society.

@@ -7,7 +7,7 @@ categories: [Geology, Mineralogy]
 tags: [Fluorescent Minerals, Geology, Mineralogy, UV Light]
 ---
 
-![banner](https://galena.es/assets/images/Fluorescent_Minerals_and_Their_Glow.png)
+![banner](https://galena.es/assets/images/Fluorescent_Minerals_and_Their_Glow.png "Image showcasing the enchanting glow of fluorescent minerals under UV light, highlighting the science behind their ethereal luminescence and their fascinating role in geology and mineralogy.")
 
 ## Introduction
 

@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Jewelry_Trends_and_Gemstones.png
 categories: [Jewelry Trends, Gemstones]
 tags: [Trends, Gemstones, Fashion, Jewelry]
 ---
-![banner](https://galena.es/assets/images/Jewelry_Trends_and_Gemstones.png)
+![banner](https://galena.es/assets/images/Jewelry_Trends_and_Gemstones.png "Image showcasing contemporary jewelry trends, highlighting the modern allure and evolving role of gemstones in fashion and jewelry design.")
 
 # Introduction
 

@@ -7,7 +7,7 @@ categories: [Mining Techniques, Mineral Processing]
 tags: [Galena, Mining, Recovery Techniques, Innovation]
 ---
 
-![banner](https://galena.es/assets/images/Innovative_Recovery_Techniques_for_Galena.png)
+![banner](https://galena.es/assets/images/Innovative_Recovery_Techniques_for_Galena.png "Image depicting innovative recovery techniques for Galena, illustrating advanced methods for efficiently mining and processing the mineral to maximize yield and optimize resource extraction.")
 
 # Introduction
 

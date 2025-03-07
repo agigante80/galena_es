@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Amethyst_Purple_Majesty.png
 categories: [Geology, History]
 tags: [Amethyst, Gemstones, Geology, History]
 ---
-![banner](https://galena.es/assets/images/Amethyst_Purple_Majesty.png)
+![banner](https://galena.es/assets/images/Amethyst_Purple_Majesty.png "Image showcasing the mesmerizing beauty of Amethyst, illustrating its geological formation and historical significance as a vibrant and prized gemstone throughout time.")
 
 # Introduction
 Welcome to a captivating exploration of one of the most admired crystals in the world, the Amethyst. This purple quartz, in its myriad shades, from lilac to deep violet, has fascinated civilisations across time and space. But how does this enchanting gemstone form, and what is the historical significance behind its majestic color? Let's delve in to find out.

@@ -7,7 +7,7 @@ categories: [Mineralogy, Geoscience]
 tags: [Galena, Mineral, Mining, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Galena_Mineral_Deep_Dive.png)
+![banner](https://galena.es/assets/images/Galena_Mineral_Deep_Dive.png "Image exploring the significance of Galena as a cornerstone mineral in early human civilization, highlighting its unique properties, historical uses, and its global importance in mineralogy and earth sciences.")
 
 # Introduction
 

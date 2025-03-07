@@ -7,7 +7,7 @@ categories: [Geology, Earth Science]
 tags: [gemstones, geology, earth science, minerals]
 ---
 
-![banner](https://galena.es/assets/images/Gemstones_for_Beginners.png)
+![banner](https://galena.es/assets/images/Gemstones_for_Beginners.png "Image providing an introductory guide to gemstones, offering a simple and accessible overview of their fascinating world, from geology to appreciation in earth sciences.")
 
 # Introduction
 

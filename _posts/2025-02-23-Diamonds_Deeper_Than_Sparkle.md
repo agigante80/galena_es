@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Diamonds_Deeper_Than_Sparkle.png
 categories: [Geology, Industry]
 tags: [Diamonds, Mining, Industrial Uses, Earth Sciences]
 ---
-![banner](https://galena.es/assets/images/Diamonds_Deeper_Than_Sparkle.png)
+![banner](https://galena.es/assets/images/Diamonds_Deeper_Than_Sparkle.png "Image revealing the geological process behind diamond formation, showcasing the deep Earth conditions that create diamonds and their diverse industrial uses beyond jewelry.")
 
 # Introduction
 

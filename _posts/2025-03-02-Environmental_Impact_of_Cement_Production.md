@@ -7,7 +7,7 @@ categories: [Environment, Industry]
 tags: [cement production, carbon emissions, mining, sustainability]
 ---
 
-![banner](https://galena.es/assets/images/Environmental_Impact_of_Cement_Production.png)
+![banner](https://galena.es/assets/images/Environmental_Impact_of_Cement_Production.png "Image depicting the environmental impact of cement production, featuring industrial facilities, emissions, and sustainable practices aimed at reducing carbon footprints.")
 
 ## Introduction
 

@@ -7,7 +7,7 @@ categories: [Energy, Mining]
 tags: [Fossil Fuels, Renewable Energy, Mining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Fossil_Fuels_Vs_Renewable.png)
+![banner](https://galena.es/assets/images/Fossil_Fuels_Vs_Renewable.png "Image contrasting fossil fuels and renewable energy sources from a mining perspective, highlighting the debate over their environmental impact, resource extraction, and the role of geology in shaping energy trends.")
 
 # Introduction
 

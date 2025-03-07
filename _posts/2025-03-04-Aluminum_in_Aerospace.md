@@ -7,7 +7,7 @@ categories: [Aerospace Engineering, Geology]
 tags: [Aluminum, Aerospace, Mining, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Aluminum_in_Aerospace.png)
+![banner](https://galena.es/assets/images/Aluminum_in_Aerospace.png "Futuristic cross-section of a spacecraft illustrating aluminum's critical role in aerospace engineering, featuring internal components and vibrant metallic structures, highlighting aluminum's lightweight and durable properties in a space-themed setting")
 
 # Introduction
 

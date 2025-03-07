@@ -7,7 +7,7 @@ categories: [Gemstones, History]
 tags: [Lapis Lazuli, Ancient History, Gemstone Uses, Mineralogy]
 ---
 
-![banner](https://galena.es/assets/images/The_Lure_of_Lapis_Lazuli.png)
+![banner](https://galena.es/assets/images/The_Lure_of_Lapis_Lazuli.png "Image showcasing the timeless allure of Lapis Lazuli, highlighting its historical significance and use throughout ancient times to the present day as a cherished gemstone in both art and culture.")
 
 # The Timeless Allure of Lapis Lazuli
 

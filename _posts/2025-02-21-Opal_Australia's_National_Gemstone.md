@@ -7,7 +7,7 @@ categories: [Geology, Gemstones]
 tags: [Opal, Australia, Minerals, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Opal_Australias_National_Gemstone.png)
+![banner](https://galena.es/assets/images/Opal_Australias_National_Gemstone.png "Image highlighting the vibrant beauty of opals, showcasing how Australia's unique geological conditions make it the leading source of this precious gemstone.")
 
 # Introduction
 

@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Quarrying_Granite.png
 categories: [Geology, Mining]
 tags: [Granite, Quarrying, Stone cutting, Earth Science]
 ---
-![banner](https://galena.es/assets/images/Quarrying_Granite.png)
+![banner](https://galena.es/assets/images/Quarrying_Granite.png "Image depicting the quarrying of granite, showcasing large granite blocks, extraction equipment, and the rugged terrain of a granite quarry, emphasizing its use in construction and architecture.")
 
 # Introduction
 

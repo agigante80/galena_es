@@ -7,7 +7,7 @@ categories: [Mining, Earth Sciences]
 tags: [Borates, Mining, Processing, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Mining_and_Processing_Borates.png)
+![banner](https://galena.es/assets/images/Mining_and_Processing_Borates.png "Illustration of borate mining and processing, showcasing industrial equipment, mineral extraction techniques, and processed borates, highlighting their importance in industrial and everyday applications.")
 
 # Introduction
 

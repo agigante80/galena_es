@@ -7,7 +7,7 @@ categories: [Minerals, Gemstones]
 tags: [Diamonds, Moissanites, Gemstones, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Diamonds_vs_Moissanites.png)
+![banner](https://galena.es/assets/images/Diamonds_vs_Moissanites.png "Image comparing diamonds and moissanites, showcasing the differences in their structure, appearance, and value, highlighting the unique qualities of each gemstone.")
 
 ## Introduction
 

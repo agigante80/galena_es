@@ -7,7 +7,7 @@ categories: [Geology, Socioeconomics]
 tags: [Mining, Community Impact, Environment, Sustainability]
 ---
 
-![banner](https://galena.es/assets/images/Impact_of_Mining_on_Local_Communities.png)
+![banner](https://galena.es/assets/images/Impact_of_Mining_on_Local_Communities.png "Image depicting the socio-economic and environmental impact of mining on local communities, highlighting both the benefits and challenges that mining activities bring to surrounding areas.")
 
 # Unearthed Realities: Mining's Impact on Local Communities
 

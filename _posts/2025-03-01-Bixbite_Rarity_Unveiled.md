@@ -7,7 +7,7 @@ categories: [Minerals, Gemstones]
 tags: [Bixbite, Red Beryl, Gemstones, Rarity]
 ---
 
-![banner](https://galena.es/assets/images/Bixbite_Rarity_Unveiled.png)
+![banner](https://galena.es/assets/images/Bixbite_Rarity_Unveiled.png "Image showcasing the rare and striking beauty of Bixbite, also known as Red Beryl, highlighting its vibrant red color and its status as one of the world's rarest gemstones, highly sought after by collectors.")
 
 ## Introduction
 

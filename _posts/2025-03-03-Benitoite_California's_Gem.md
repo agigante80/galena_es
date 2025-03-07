@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Benitoite_Californias_Gem.png
 categories: [Minerals, Gemstones]
 tags: [Benitoite, California, Gemstones, Geology]
 ---
-![banner](https://galena.es/assets/images/Benitoite_Californias_Gem.png)
+![banner](https://galena.es/assets/images/Benitoite_Californias_Gem.png "Image showcasing Benitoite, California's state gem, with its striking blue crystals, mining origins, and significance in the world of gemstones and mineralogy.")
 
 # Introduction
 

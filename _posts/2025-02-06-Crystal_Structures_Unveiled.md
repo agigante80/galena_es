@@ -7,7 +7,7 @@ categories: [Crystallography, Geology]
 tags: [crystals, crystal structure, minerals, geology]
 ---
 
-![banner](https://galena.es/assets/images/Crystal_Structures_Unveiled.png)
+![banner](https://galena.es/assets/images/Crystal_Structures_Unveiled.png "Image exploring the unique structures of crystals, showcasing how these formations determine the properties and characteristics of minerals in the fascinating field of crystallography and geology.")
 
 # Crystal Structures Unveiled
 

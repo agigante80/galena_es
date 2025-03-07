@@ -7,7 +7,7 @@ categories: [Mining, Safety]
 tags: [Mining Safety, Safety Practices, Mining Technology, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Mining_Safety_Practices.png)
+![banner](https://galena.es/assets/images/Mining_Safety_Practices.png "Image showcasing modern safety measures in mining, highlighting best practices and advanced technologies designed to protect workers and improve safety in mining operations.")
 
 ## Introduction
 

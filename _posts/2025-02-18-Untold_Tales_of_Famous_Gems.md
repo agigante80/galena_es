@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Untold_Tales_of_Famous_Gems.png
 categories: [Geology, History]
 tags: [Gemstones, Legends, History, Mining]
 ---
-![banner](https://galena.es/assets/images/Untold_Tales_of_Famous_Gems.png)
+![banner](https://galena.es/assets/images/Untold_Tales_of_Famous_Gems.png "Image illustrating the captivating history and legends behind the world's most famous gemstones, exploring their cultural significance and timeless allure.")
 
 # Introduction
 Delve into the fascinating world of gemstones as we uncover the untold tales of some of the most famous gems in history. Learn about the origin, discovery, and the enchanting legends that surround them.

@@ -8,7 +8,7 @@ categories: [Gemology, Investment]
 tags: [gemstones, grading, investment, geology]
 ---
 
-![banner](https://galena.es/assets/images/Gemstone_Grading_Basics.png)
+![banner](https://galena.es/assets/images/Gemstone_Grading_Basics.png "Image delving into the world of gemstone grading, exploring the criteria and methods used to evaluate gemstones for quality, value, and investment potential.")
 
 # Introduction
 
