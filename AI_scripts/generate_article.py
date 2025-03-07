@@ -17,6 +17,10 @@ from io import BytesIO
 # TELEGRAM_CHAT_ID
 # INDEXNOW_API_KEY
 #
+# INDEXNOW_API_KEY is the variables for the IndexNow API
+# This is your own IndexNow API key. You can get it at https://indexnow.org/
+# If you don't want to use IndexNow, you can leave this variable empty.
+#
 # In Github, you can set them in the repository settings:
 # - Go to your repository on GitHub.
 # - Click on the "Settings" tab.
@@ -54,10 +58,6 @@ LOG_FULL_PATH = ""
 
 # Settting the variables for the website
 WEBSITE = "https://galena.es/"
-
-# Settting the variables for the IndexNow API
-# This is your own IndexNow API key. You can get it at https://indexnow.org/
-# If you don't want to use IndexNow, you can leave this variable empty.
 
 # Set up logging.
 # The logging configuration checks if LOG_FULL_PATH is set. 
@@ -313,90 +313,61 @@ def notify_indexnow(api_key, website, url):
     
     return True  # Return True if all requests were sent
 
-def get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id):
+def get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id, indexnow_api_key):
     prompt = f"""
-Create a blog article of approximately between 1200 to 2000 words in GitHub Flavored Markdown format. 
-The article is for a blog related to the world of minerals, mining, or gemstones. 
-The Audience: Geology enthusiasts, educators, and general readers interested in earth sciences
-
-- Topic Idea: {topic_idea}
-- Description: {description}
-
-Below the required structure and elements::
-
-**Front Matter**: Begin the article with the following front matter format:
-   ---
-   layout: post
-   title: "<title of the generated article, do not use any symbol in the title, max 50 characters>"
-   subtitle: "<summary of the generated article, max 140 characters>"
-   excerpt_image: {WEBSITE}{image_path}
-   categories: [<2 categories, comma separated for the generated article>]
-   tags: [<4 keywords, comma separated for the generated article>]
-   ---
-![banner]({WEBSITE}{image_path})
-
-**Content**:
-   - **Introduction**: Captivating introduction.
-   - **Main Sections**: Detailed exploration and insights into topic.
-   - **Quote**: Include a quote.
-   - **Visual Elements**: A table to organize data or highlight key comparisons.
-**External Reference**: External link reference to a verified and relevant resource.
-**Conclusion**: Wrap up the article with a conclusion.
-"""
-    client = OpenAI(
-            api_key=api_key,  # Pass the api_key directly
-        )    
+    Create a blog article of approximately between 1200 to 2000 words in GitHub Flavored Markdown format.
+    The article is for a blog related to the world of minerals, mining, or gemstones.
+    The Audience: Geology enthusiasts, educators, and general readers interested in earth sciences
+    
+    - Topic Idea: {topic_idea}
+    - Description: {description}
+    
+    Below the required structure and elements::
+    
+    **Front Matter**: Begin the article with the following front matter format:
+       ---
+       layout: post
+       title: "<title of the generated article, do not use any symbol in the title, max 50 characters>"
+       subtitle: "<summary of the generated article, max 140 characters>"
+       excerpt_image: {WEBSITE}{image_path}
+       categories: [<2 categories, comma separated for the generated article>]
+       tags: [<4 keywords, comma separated for the generated article>]
+       ---
+    ![banner]({WEBSITE}{image_path})
+    
+    **Content**:
+       - **Introduction**: Captivating introduction.
+       - **Main Sections**: Detailed exploration and insights into topic.
+       - **Quote**: Include a quote.
+       - **Visual Elements**: A table to organize data or highlight key comparisons.
+    **External Reference**: External link reference to a verified and relevant resource.
+    **Conclusion**: Wrap up the article with a conclusion.
+    """
+    client = OpenAI(api_key=api_key)    
     response = client.chat.completions.create(
-     model="gpt-4",
-     messages=[
-         {"role": "system", "content": "You are a helpful assistant."},
-         {"role": "user", "content": prompt}
-     ],
-     max_tokens=3000,
-     n=1,
-     temperature=0.7,
- )
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": prompt}
+        ],
+        max_tokens=3000,
+        n=1,
+        temperature=0.7,
+    )
     article_content = response.choices[0].message.content.strip()
 
-    # Remove any additional text like ```markdown
     article_content = article_content.replace('```markdown', '').replace('```', '').replace('``', '').strip()
     
-    # Remove the first empty line if it exists
     lines = article_content.split('\n')
     if lines[0].strip() == '':
         lines = lines[1:]
     article_content = '\n'.join(lines)
 
-    # Get the current date in YYYY-MM-DD format
     current_date = datetime.now().strftime("%Y-%m-%d")
-
-    # Save the article content to a file with the date in the file name
     article_file_path = os.path.join(AI_ARTICLES_DIRECTORY, f"{current_date}-{topic_idea.replace(' ', '_')}.md")
     with open(article_file_path, 'w') as article_file:
         article_file.write(article_content)
     logging.info(f"✅ Article for '{topic_idea}' created and saved to {article_file_path}")
-    
-    # Extract categories from the front matter
-    categories_match = re.search(r'categories: \[(.*?)\]', article_content)
-    if categories_match:
-        # Split the categories by ',' and strip any whitespace around each category
-        categories = [category.strip() for category in categories_match.group(1).split(',')]
-        
-        # Convert spaces to '%20' and ampersands to '%26'
-        categories = [category.replace(' ', '%20').replace('&', '%26') for category in categories]
-        
-        # Join categories with a '/'
-        category_path = '/'.join(categories).lower()
-
-    # Construct the article URL
-    article_url = f"{WEBSITE}{category_path}/{current_date.replace('-', '/')}/{topic_idea.replace(' ', '_')}.html"
-    
-    # Notify via Telegram with the full URL of the article
-    send_telegram_message(bot_token, chat_id, f"New article for '{topic_idea}' has been generated and saved. Read it here: {article_url}")
-    
-    # Only notify IndexNow if the API key is provided
-    if INDEXNOW_API_KEY:
-        notify_indexnow(api_key=INDEXNOW_API_KEY, website=WEBSITE, url=article_url)
 
     return article_file_path
 
@@ -419,7 +390,7 @@ def initialize_files(*file_paths):
         initialize_csv(file_path)
     return file_paths
 
-def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_path_archived):
+def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_path_archived, indexnow_api_key):
     logging.info("🔄 Fetch the next topic idea and description...")
     # Fetch the next topic idea and description
     topic_idea, description = fetch_topic_and_description(file_path_new, api_key, bot_token, chat_id)
@@ -430,7 +401,7 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
     
     logging.info("🔄 Request the article content...")
     # Request the article content
-    article_file_path = get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id)
+    article_file_path = get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id, indexnow_api_key)
     
     logging.info("🔄 Add the topic idea and description to the archived topics file...")
     # Add the topic idea and description to the archived topics file
@@ -447,6 +418,32 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
     
     logging.info(f"✅ Topic '{topic_idea}' archived and removed from new topics.")
 
+    # MOVED: Construct article URL and notify via Telegram & IndexNow here (at the end of create_article_with_image)
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    
+    with open(article_file_path, 'r') as file:
+        article_content = file.read()
+
+    # Extract categories from the front matter
+    categories_match = re.search(r'categories: \[(.*?)\]', article_content)
+    if categories_match:
+        categories = [category.strip() for category in categories_match.group(1).split(',')]
+        categories = [category.replace(' ', '%20').replace('&', '%26') for category in categories]
+        category_path = '/'.join(categories).lower()
+    else:
+        category_path = "articles"  # default fallback if categories extraction fails
+        logging.warning("⚠️ Categories extraction failed. Defaulted to /articles.")
+
+    # Construct URL for your blog's format
+    article_url = f"{WEBSITE}{category_path}/{current_date.replace('-', '/')}/{topic_idea.replace(' ', '_')}.html"
+
+    send_telegram_message(bot_token, chat_id, f"New article for '{topic_idea}' has been generated and saved. Read it here: {article_url}")
+
+    if indexnow_api_key:
+        notify_indexnow(api_key=indexnow_api_key, website=WEBSITE, url=article_url)
+    else:
+        logging.warning("⚠️ No INDEXNOW_API_KEY found. IndexNow notification will not be sent.")
+
 def main():
     OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, INDEXNOW_API_KEY = check_and_load_env_variables()
     ensure_directories_exist(AI_TOPICS_DIRECTORY, AI_IMAGES_DIRECTORY, AI_ARTICLES_DIRECTORY)
@@ -456,8 +453,8 @@ def main():
     )
 
     logging.info("🔄 Initializing OpenAI requests...")
-    # get_topics_create_csv_and_notify(OPENAI_API_KEY, FILE_PATH_NEW, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)
-    create_article_with_image(OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, FILE_PATH_NEW_TOPICS, FILE_PATH_ARCHIVED_TOPICS)
+    create_article_with_image(OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, FILE_PATH_NEW_TOPICS, FILE_PATH_ARCHIVED_TOPICS, INDEXNOW_API_KEY)
+    logging.info("✅ Script completed!")
 
 if __name__ == "__main__":
     main()
