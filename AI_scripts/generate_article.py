@@ -266,8 +266,8 @@ Requirements:
 
     return resized_image_path
 
-def notify_indexnow(api_key, website, url):
-    # List of URLs for different search engines
+
+def notify_indexnow(api_key, url):
     indexnow_servers = [
         "https://api.indexnow.org/indexnow",
         "https://www.bing.com/indexnow",
@@ -276,16 +276,6 @@ def notify_indexnow(api_key, website, url):
         "https://yandex.com/indexnow",
         "https://indexnow.yep.com/indexnow"
     ]
-
-    headers = {
-        "Content-Type": "application/json; charset=utf-8"
-    }
-    data = {
-        "host": website,
-        "key": api_key,
-        "keyLocation": f"{website}/{api_key}.txt",
-        "urlList": [url]
-    }
 
     # Check if the {api_key}.txt file exists and contains the correct key
     key_file_path = f"{api_key}.txt"
@@ -296,22 +286,19 @@ def notify_indexnow(api_key, website, url):
 
     for server_url in indexnow_servers:
         try:
-            # Send the POST request to each server
-            response = requests.post(server_url, json=data, headers=headers)
+            full_url = f"{server_url}?url={url}&key={api_key}"
+            response = requests.get(full_url)
+            logging.info(f"🔄 Sent GET request to {full_url}")
+            logging.info(f"✅ Response Status Code: {response.status_code}")
+            logging.info(f"✅ Response Text: {response.text}")
 
-            # Log the HTTP status code and response content for each server
-            logging.info(f"🔄 IndexNow Sent request to {server_url}")
-            logging.info(f"✅ IndexNow Response Status Code: {response.status_code}")
-            logging.info(f"✅ IndexNow Response Text: {response.text}")
-
-            # Check if response was successful
             if not response.ok:
-                logging.warning(f"❌ IndexNow Request to {server_url} failed.")
-                
+                logging.warning(f"❌ Request to {server_url} failed.")
+
         except requests.exceptions.RequestException as e:
-            logging.error("❌ IndexNow Request to %s failed: %s", server_url, e)
-    
-    return True  # Return True if all requests were sent
+            logging.error("❌ Request to %s failed: %s", server_url, e)
+
+    return True  # Indicate that all requests were sent successfully
 
 def get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id, indexnow_api_key):
     prompt = f"""
@@ -440,7 +427,7 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
     send_telegram_message(bot_token, chat_id, f"New article for '{topic_idea}' has been generated and saved. Read it here: {article_url}")
 
     if indexnow_api_key:
-        notify_indexnow(api_key=indexnow_api_key, website=WEBSITE, url=article_url)
+        notify_indexnow(api_key=indexnow_api_key, url=article_url)
     else:
         logging.warning("⚠️ No INDEXNOW_API_KEY found. IndexNow notification will not be sent.")
 
