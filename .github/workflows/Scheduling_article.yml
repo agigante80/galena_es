@@ -46,6 +46,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # API key for OpenAI
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}  # Telegram bot token
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}  # Telegram chat ID
+          INDEXNOW_API_KEY: ${{ secrets.INDEXNOW_API_KEY }}  # API key for IndexNow
         run: |
           python AI_scripts/generate_article.py
 

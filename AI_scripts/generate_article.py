@@ -84,7 +84,7 @@ def check_env_variable_warning(var_name):
     """Checks if an environment variable is set and logs the result."""
     value = os.getenv(var_name)
     if not value:
-        logging.warning(f"⚠️ WARNING: {var_name} is missing! No Telegram messages will be sent.")
+        logging.warning(f"⚠️ WARNING: {var_name} is missing! Please set it as an environment variable.")
         return None
     else:
         logging.info(f"✅ {var_name} successfully loaded.")
