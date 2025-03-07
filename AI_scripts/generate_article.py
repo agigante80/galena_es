@@ -15,7 +15,8 @@ from io import BytesIO
 # OPENAI_API_KEY
 # TELEGRAM_BOT_TOKEN
 # TELEGRAM_CHAT_ID
-# 
+# INDEXNOW_API_KEY
+#
 # In Github, you can set them in the repository settings:
 # - Go to your repository on GitHub.
 # - Click on the "Settings" tab.
@@ -55,10 +56,8 @@ LOG_FULL_PATH = ""
 WEBSITE = "https://galena.es/"
 
 # Settting the variables for the IndexNow API
-# This is your own IndexNow API key. You can get it by signing up at https://indexnow.org/
+# This is your own IndexNow API key. You can get it at https://indexnow.org/
 # If you don't want to use IndexNow, you can leave this variable empty.
-# remember to generate as well a file with the api key.txt and the key in the root of the website
-INDEXNOW_API_KEY = "b0877b4c780a40a28c67e0985cbc022f"
 
 # Set up logging.
 # The logging configuration checks if LOG_FULL_PATH is set. 
@@ -199,7 +198,7 @@ def fetch_topic_and_description(file_path, api_key, bot_token, chat_id):
         lines = list(reader)
 
     if not lines:
-        logging.info("CSV is empty, generating new topics...")
+        logging.info("🔄 CSV is empty, generating new topics...")
         get_topics_create_csv_and_notify(api_key, file_path, bot_token, chat_id)
         return fetch_topic_and_description(file_path, api_key, bot_token, chat_id)
 
@@ -238,7 +237,7 @@ Requirements:
     )
     # Extract the URL of the generated image
     image_url = response.data[0].url
-    logging.info("Generated Image URL: " + image_url)
+    logging.info("🔄 Generated Image URL: " + image_url)
 
     # Download the original image
     image_response = requests.get(image_url)
@@ -288,22 +287,29 @@ def notify_indexnow(api_key, website, url):
         "urlList": [url]
     }
 
+    # Check if the {api_key}.txt file exists and contains the correct key
+    key_file_path = f"{api_key}.txt"
+    if not os.path.exists(key_file_path) or open(key_file_path).read().strip() != api_key:
+        with open(key_file_path, 'w') as key_file:
+            key_file.write(api_key)
+        logging.info(f"✅ Created or updated IndexNow file: {key_file_path}")
+
     for server_url in indexnow_servers:
         try:
             # Send the POST request to each server
             response = requests.post(server_url, json=data, headers=headers)
 
             # Log the HTTP status code and response content for each server
-            logging.info(f"IndexNow Sent request to {server_url}")
-            logging.info(f"IndexNow Response Status Code: {response.status_code}")
-            logging.info(f"IndexNow Response Text: {response.text}")
+            logging.info(f"🔄 IndexNow Sent request to {server_url}")
+            logging.info(f"✅ IndexNow Response Status Code: {response.status_code}")
+            logging.info(f"✅ IndexNow Response Text: {response.text}")
 
             # Check if response was successful
             if not response.ok:
-                logging.warning(f"IndexNow Request to {server_url} failed.")
+                logging.warning(f"❌ IndexNow Request to {server_url} failed.")
                 
         except requests.exceptions.RequestException as e:
-            logging.error("IndexNow Request to %s failed: %s", server_url, e)
+            logging.error("❌ IndexNow Request to %s failed: %s", server_url, e)
     
     return True  # Return True if all requests were sent
 
@@ -383,7 +389,7 @@ Below the required structure and elements::
         category_path = '/'.join(categories).lower()
 
     # Construct the article URL
-    article_url = f"{WEBSITE}/{category_path}/{current_date.replace('-', '/')}/{topic_idea.replace(' ', '_')}.html"
+    article_url = f"{WEBSITE}{category_path}/{current_date.replace('-', '/')}/{topic_idea.replace(' ', '_')}.html"
     
     # Notify via Telegram with the full URL of the article
     send_telegram_message(bot_token, chat_id, f"New article for '{topic_idea}' has been generated and saved. Read it here: {article_url}")
@@ -399,7 +405,8 @@ def check_and_load_env_variables():
     OPENAI_API_KEY = check_env_variable_error("OPENAI_API_KEY")
     TELEGRAM_BOT_TOKEN = check_env_variable_warning("TELEGRAM_BOT_TOKEN")
     TELEGRAM_CHAT_ID = check_env_variable_warning("TELEGRAM_CHAT_ID")
-    return OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+    INDEXNOW_API_KEY = check_env_variable_warning("INDEXNOW_API_KEY")
+    return OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, INDEXNOW_API_KEY
 
 def ensure_directories_exist(*directories):
     for directory in directories:
@@ -441,7 +448,7 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
     logging.info(f"✅ Topic '{topic_idea}' archived and removed from new topics.")
 
 def main():
-    OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID = check_and_load_env_variables()
+    OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, INDEXNOW_API_KEY = check_and_load_env_variables()
     ensure_directories_exist(AI_TOPICS_DIRECTORY, AI_IMAGES_DIRECTORY, AI_ARTICLES_DIRECTORY)
     FILE_PATH_NEW_TOPICS, FILE_PATH_ARCHIVED_TOPICS = initialize_files(
         os.path.join(AI_TOPICS_DIRECTORY, CSV_FILE_LIST_OF_NEW_TOPICS),
