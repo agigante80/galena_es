@@ -266,6 +266,35 @@ Requirements:
 
     return resized_image_path
 
+def generate_image_alt_text(api_key, topic_idea, description):
+    """Generate an alt text for an image based on the topic idea and description."""
+    prompt = f"""
+Create a concise and descriptive alt text for an image related to the following:
+
+- Topic Idea: {topic_idea}
+- Description: {description}
+
+The blog focuses on minerals, mining, or gemstones. The audience includes geology enthusiasts, educators, and general readers interested in earth sciences.
+
+Alt Text Example: A detailed view of a mineral vein illustrating its unique geological features.
+"""
+
+    client = OpenAI(api_key=api_key)    
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": prompt}
+        ],
+        max_tokens=100,
+        n=1,
+        temperature=0.5,
+    )
+    image_alt_text = response.choices[0].message.content.strip()
+
+    logging.info(f"✅ Generated alt text: {image_alt_text}")
+    return image_alt_text
+
 
 def notify_indexnow(api_key, url):
     indexnow_servers = [
@@ -300,7 +329,10 @@ def notify_indexnow(api_key, url):
 
     return True  # Indicate that all requests were sent successfully
 
-def get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id, indexnow_api_key):
+def get_article_content(api_key, topic_idea, description, image_path):
+    # Generate alt text for the image
+    image_alt_text = generate_image_alt_text(api_key, topic_idea, description)
+
     prompt = f"""
     Create a blog article of approximately between 1200 to 2000 words in GitHub Flavored Markdown format.
     The article is for a blog related to the world of minerals, mining, or gemstones.
@@ -308,9 +340,7 @@ def get_article_content(api_key, topic_idea, description, image_path, bot_token,
     
     - Topic Idea: {topic_idea}
     - Description: {description}
-    
-    Below the required structure and elements::
-    
+     
     **Front Matter**: Begin the article with the following front matter format:
        ---
        layout: post
@@ -320,8 +350,9 @@ def get_article_content(api_key, topic_idea, description, image_path, bot_token,
        categories: [<2 categories, comma separated for the generated article>]
        tags: [<4 keywords, comma separated for the generated article>]
        ---
-    ![banner]({WEBSITE}{image_path})
-    
+
+    ![banner]({WEBSITE}{image_path} "{image_alt_text}")
+
     **Content**:
        - **Introduction**: Captivating introduction.
        - **Main Sections**: Detailed exploration and insights into topic.
@@ -388,7 +419,7 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
     
     logging.info("🔄 Request the article content...")
     # Request the article content
-    article_file_path = get_article_content(api_key, topic_idea, description, image_path, bot_token, chat_id, indexnow_api_key)
+    article_file_path = get_article_content(api_key, topic_idea, description, image_path)
     
     logging.info("🔄 Add the topic idea and description to the archived topics file...")
     # Add the topic idea and description to the archived topics file
