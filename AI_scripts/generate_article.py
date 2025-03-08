@@ -291,7 +291,7 @@ The blog focuses on minerals, mining, or gemstones. The audience includes geolog
 
     # Extract and clean the alt text by removing "Alt text: " if present
     image_alt_text = response.choices[0].message.content.strip()
-    image_alt_text = image_alt_text.replace("Alt text: ", "").replace("Alt Text: ", "").replace("alt text: ", "").strip()
+    image_alt_text = image_alt_text.replace("Alt text: ", "").replace("Alt Text: ", "").replace("alt text: ", "").replace("'", '').strip()
 
     logging.info(f"✅ Generated alt text: {image_alt_text}")
     return image_alt_text
