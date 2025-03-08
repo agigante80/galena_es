@@ -7,7 +7,7 @@ categories: [Geology, Economy]
 tags: [US Mineral Production, Economy, Geology, Mining]
 ---
 
-![banner](https://galena.es/assets/images/US_Mineral_Production.png)
+![banner](https://galena.es/assets/images/US_Mineral_Production.png "Image exploring the diverse range of minerals produced in the United States, highlighting their economic impact and significance in the mining industry and geology.")
 
 # Exploring the Riches of US Mineral Production
 

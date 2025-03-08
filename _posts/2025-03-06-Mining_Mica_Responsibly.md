@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Mining_Mica_Responsibly.png
 categories: [Sustainability, Mining]
 tags: [Mica Mining, Ethical Mining, Sustainability, Geology]
 ---
-![banner](https://galena.es/assets/images/Mining_Mica_Responsibly.png)
+![banner](https://galena.es/assets/images/Mining_Mica_Responsibly.png "Image exploring the challenges and solutions in ethical mica mining, highlighting sustainable practices and responsible methods to promote the responsible extraction of mica.")
 
 # Introduction
 Mica, a group of silicate minerals, has been an essential component in numerous industrial applications due to its unique thermal stability and electrical properties. However, the mica mining industry has been fraught with ethical issues, including child labor, environmental damages, and health risks for miners. This article explores these challenges in-depth and discusses potential solutions to promote responsible mica mining.

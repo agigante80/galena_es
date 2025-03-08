@@ -275,8 +275,6 @@ Create a concise and descriptive alt text for an image related to the following:
 - Description: {description}
 
 The blog focuses on minerals, mining, or gemstones. The audience includes geology enthusiasts, educators, and general readers interested in earth sciences.
-
-Alt Text Example: A detailed view of a mineral vein illustrating its unique geological features.
 """
 
     client = OpenAI(api_key=api_key)    

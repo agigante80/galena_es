@@ -7,7 +7,7 @@ categories: [Gemology, Earth Sciences]
 tags: [Simonellite, Minerals, Gemology, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Simonellite_Research_and_Features.png)
+![banner](https://galena.es/assets/images/Simonellite_Research_and_Features.png "Image delving into the fascinating world of Simonellite, exploring its unique features and the latest research surrounding this rare mineral in the fields of gemology and earth sciences.")
 
 ## Introduction
 

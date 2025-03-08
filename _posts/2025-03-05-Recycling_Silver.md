@@ -7,7 +7,7 @@ categories: [Recycling, Earth Sciences]
 tags: [silver recycling, mining, sustainable practices, waste management]
 ---
 
-![banner](https://galena.es/assets/images/Recycling_Silver.png)
+![banner](https://galena.es/assets/images/Recycling_Silver.png "Image highlighting the intricate processes involved in silver recycling, showcasing the environmental and economic benefits of recycling silver from discarded products and its role in sustainable practices.")
 
 # Introduction
 

@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Osmium_in_Alloys.png
 categories: [Earth Sciences, Material Sciences]
 tags: [Osmium, Alloys, Metallurgy, Geology]
 ---
-![banner](https://galena.es/assets/images/Osmium_in_Alloys.png)
+![banner](https://galena.es/assets/images/Osmium_in_Alloys.png "Image exploring the role of osmium in the creation of alloys, highlighting its unique properties and importance in metallurgy and material science.")
 
 # Introduction
 

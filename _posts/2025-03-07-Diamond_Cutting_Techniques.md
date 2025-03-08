@@ -7,7 +7,7 @@ categories: [Geology, Gemology]
 tags: [Diamond Cutting, Gemstones, Geology, Artistry]
 ---
 
-![banner](https://galena.es/assets/images/Diamond_Cutting_Techniques.png)
+![banner](https://galena.es/assets/images/Diamond_Cutting_Techniques.png "Image showcasing the intricate art and precision of diamond cutting techniques, where craftsmanship and artistry transform raw diamonds into brilliant gemstones.")
 
 # Introduction
 

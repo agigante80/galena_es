@@ -7,7 +7,7 @@ categories: [Mineralogy, Spirituality]
 tags: [quartz, healing crystals, earth sciences, spirituality]
 ---
 
-![banner](https://galena.es/assets/images/Quartz_Healing_Properties.png)
+![banner](https://galena.es/assets/images/Quartz_Healing_Properties.png "Image exploring the cultural and spiritual significance of quartz crystals, highlighting their healing properties and role in wellness and earth sciences.")
 
 # Introduction
 

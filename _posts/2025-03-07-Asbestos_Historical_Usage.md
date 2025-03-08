@@ -6,7 +6,7 @@ excerpt_image: https://galena.es/assets/images/Asbestos_Historical_Usage.png
 categories: [Earth Sciences, History]
 tags: [Asbestos, Mining, Geology, Legislation]
 ---
-![banner](https://galena.es/assets/images/Asbestos_Historical_Usage.png)
+![banner](https://galena.es/assets/images/Asbestos_Historical_Usage.png "Image tracing the history of asbestos, exploring its past uses, and the global movement leading to its ban due to health concerns, with a focus on mining and legislation.")
 
 # Asbestos: A History of Its Usage and Ban
 
