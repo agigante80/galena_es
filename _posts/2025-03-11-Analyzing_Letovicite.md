@@ -1,17 +1,10 @@
 ---
-
 layout: post
-
 title: "Unearthing the Intricacies of Letovicite"
-
 subtitle: "A comprehensive exploration into the chemical composition, analysis, and significance of the fascinating mineral Letovicite."
-
 excerpt_image: [https://galena.es/assets/images/Analyzing_Letovicite.png](https://galena.es/assets/images/Analyzing_Letovicite.png)
-
 categories: [Mineralogy, Geochemistry]
-
 tags: [Letovicite, Mineral Analysis, Earth Sciences, Geochemistry]
-
 ---
 
 ![banner](https://galena.es/assets/images/Analyzing_Letovicite.png)
