@@ -456,6 +456,9 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
     # Construct URL for your blog's format
     article_url = f"{WEBSITE}{category_path}/{current_date.replace('-', '/')}/{topic_idea.replace(' ', '_')}.html"
 
+    # Replace single quotes with an empty string as required
+    article_url = article_url.replace("'", '')
+
     send_telegram_message(bot_token, chat_id, f"New article for '{topic_idea}' has been generated and saved. Read it here: {article_url}")
 
     if indexnow_api_key:
