@@ -309,12 +309,14 @@ def notify_indexnow(api_key, url):
         "https://indexnow.yep.com/indexnow"
     ]
 
-    # Check if the {api_key}.txt file exists and contains the correct key
-    key_file_path = f"{api_key}.txt"
-    if not os.path.exists(key_file_path) or open(key_file_path).read().strip() != api_key:
-        with open(key_file_path, 'w') as key_file:
-            key_file.write(api_key)
-        logging.info(f"✅ Created or updated IndexNow file: {key_file_path}")
+    # Check if running in GitHub Actions
+    if os.getenv('GITHUB_ACTIONS') == 'true':
+        # Check if the {api_key}.txt file exists and contains the correct key
+        key_file_path = f"{api_key}.txt"
+        if not os.path.exists(key_file_path) or open(key_file_path).read().strip() != api_key:
+            with open(key_file_path, 'w') as key_file:
+                key_file.write(api_key)
+            logging.info(f"✅ Created or updated IndexNow file: {key_file_path}")
 
     for server_url in indexnow_servers:
         try:
@@ -478,6 +480,7 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
             logging.error(f"❌ Error occurred: {e}")
             # Move the topic to the AIERROR topics file
             aierror_file_path = os.path.join(AI_TOPICS_DIRECTORY, CSV_FILE_LIST_OF_AIERROR_TOPICS)
+            initialize_csv(aierror_file_path)
             with open(aierror_file_path, 'a') as aierror_file:
                 writer = csv.writer(aierror_file)
                 writer.writerow([topic_idea, description])
