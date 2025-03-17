@@ -1,56 +1,79 @@
 name: Build and Deploy Jekyll Site to GitHub Pages
 
 on:
+  # Trigger the workflow on pushes to the master branch in '_posts/' directory
   push:
     branches:
       - master
-    paths:
-      - '_posts/**'
-  schedule:
-    - cron: '30 8 * * 1,3,5' # Runs at 08:30 AM Madrid time (UTC+1 or UTC+2 depending on daylight saving)
+
+  # Allow manual triggering of the workflow
   workflow_dispatch:
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: write  # Allows write access to repository contents
+  pages: write     # Grants permissions needed to manage GitHub Pages
+  id-token: write  # Needed for interactions that require an ID token
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: "pages"                # Grouping concurrent jobs to avoid conflicts
+  cancel-in-progress: false     # Do not cancel running jobs if new ones start
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest      # Specifies the host operating system for the job
 
     steps:
+      # Checkout the code from the repository
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
+      # Setup a Python environment using the specified version
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
+      # Install required Python dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run generate article script
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          INDEXNOW_API_KEY: ${{ secrets.INDEXNOW_API_KEY }}
-        run: python AI_scripts/generate_article.py
-
-      - name: Build Jekyll site
-        run: |
-          bundle install
-          bundle exec jekyll build
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+      # Setup Ruby environment for Jekyll
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ruby-version: '3.1'   # Specify Ruby version
+          bundler-cache: true   # Enable caching for Bundler
+          cache-version: 0      # Cache version for dependency management
+
+      - name: Create IndexNow key file
+        run: echo ${{ secrets.INDEXNOW_API_KEY }} > ${{ secrets.INDEXNOW_API_KEY }}.txt
+  
+      # Configure GitHub Pages settings
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      # Build the Jekyll site using the base URL provided by GitHub Pages
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production  # Set environment to production for Jekyll
+
+      # Upload the generated site as an artifact for deployment
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    environment:
+      name: github-pages  # Deployment environment name
+      url: ${{ steps.deployment.outputs.page_url }}  # URL for deployed site
+    runs-on: ubuntu-latest  # Specifies the host operating system for deployment
+    needs: build            # Ensures this job runs after the build is complete
+
+    steps:
+      # Deploy the site to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

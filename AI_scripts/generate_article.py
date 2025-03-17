@@ -310,13 +310,13 @@ def notify_indexnow(api_key, url):
     ]
 
     # Check if running in GitHub Actions
-    if os.getenv('GITHUB_ACTIONS') == 'true':
-        # Check if the {api_key}.txt file exists and contains the correct key
-        key_file_path = f"{api_key}.txt"
-        if not os.path.exists(key_file_path) or open(key_file_path).read().strip() != api_key:
-            with open(key_file_path, 'w') as key_file:
-                key_file.write(api_key)
-            logging.info(f"✅ Created or updated IndexNow file: {key_file_path}")
+    #if os.getenv('GITHUB_ACTIONS') == 'true':
+    #    # Check if the {api_key}.txt file exists and contains the correct key
+    #    key_file_path = f"{api_key}.txt"
+    #    if not os.path.exists(key_file_path) or open(key_file_path).read().strip() != api_key:
+    #        with open(key_file_path, 'w') as key_file:
+    #            key_file.write(api_key)
+    #        logging.info(f"✅ Created or updated IndexNow file: {key_file_path}")
 
     for server_url in indexnow_servers:
         try:

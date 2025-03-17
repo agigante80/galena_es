@@ -49,6 +49,9 @@ jobs:
           INDEXNOW_API_KEY: ${{ secrets.INDEXNOW_API_KEY }}  # API key for IndexNow
         run: |
           python AI_scripts/generate_article.py
+          
+      - name: Create IndexNow key file
+        run: echo ${{ secrets.INDEXNOW_API_KEY }} > ${{ secrets.INDEXNOW_API_KEY }}.txt
 
       # Commit any new or updated files to the repository
       - name: Commit and Push Changes
