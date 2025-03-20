@@ -76,4 +76,8 @@ jobs:
       # Deploy the site to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v1
+
+      # Delete the IndexNow key file after deployment
+      - name: Delete IndexNow key file
+        run: rm -f ${{ secrets.INDEXNOW_API_KEY }}.txt

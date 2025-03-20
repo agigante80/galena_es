@@ -93,11 +93,14 @@ def check_env_variable_warning(var_name):
 
 def initialize_csv(file_path):
     """Creates the CSV file if it doesn't exist, handling missing cases properly."""
-    if not os.path.exists(file_path):
-        with open(file_path, 'w') as file:
-            logging.info(f"✅ Created new CSV file: {file_path}")
-    else:
-        logging.info(f"✅ CSV file already exists: {file_path}")
+    try:
+        if not os.path.exists(file_path):
+            with open(file_path, 'w') as file:
+                logging.info(f"✅ Created new CSV file: {file_path}")
+        else:
+            logging.info(f"✅ CSV file already exists: {file_path}")
+    except Exception as e:
+        logging.error(f"❌ Failed to initialize CSV file: {file_path}. Error: {e}")
 
 def send_telegram_message(bot_token, chat_id, message):
     """Sends a Telegram message."""
@@ -482,12 +485,16 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
         except Exception as e:
             exception_count += 1  # Increment the exception counter
             logging.error(f"❌ Error occurred: {e}")
+            
             # Move the topic to the ERROR topics file
             logging.info("🔄 Moving the topic to ERROR topics...")
-            with open(file_path_error, 'a') as error_file:
-                writer = csv.writer(error_file)
-                writer.writerow([topic_idea, description])
-            logging.info(f"✅ Topic '{topic_idea}' moved to ERROR topics.")
+            try:
+                with open(file_path_error, 'a') as error_file:
+                    writer = csv.writer(error_file)
+                    writer.writerow([topic_idea, description])
+                logging.info(f"✅ Topic '{topic_idea}' moved to ERROR topics.")
+            except Exception as file_error:
+                logging.error(f"❌ Failed to write to error file: {file_path_error}. Error: {file_error}")
             
             # Send a Telegram message about the error
             send_telegram_message(bot_token, chat_id, f"❌ Error occurred while processing topic '{topic_idea}'. Moved to ERROR topics. Error: {e}")
