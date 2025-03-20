@@ -65,6 +65,9 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
+      - name: Delete IndexNow key file
+        run: rm -f ${{ secrets.INDEXNOW_API_KEY }}.txt
+
   deploy:
     environment:
       name: github-pages  # Deployment environment name
@@ -77,5 +80,3 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Delete IndexNow key file
-        run: rm -f ${{ secrets.INDEXNOW_API_KEY }}.txt
