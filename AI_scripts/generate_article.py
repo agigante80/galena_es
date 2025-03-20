@@ -95,13 +95,23 @@ def initialize_csv(file_path):
     """Creates the CSV file if it doesn't exist, handling missing cases properly."""
     try:
         if not os.path.exists(file_path):
-            with open(file_path, 'w') as file:
+            with open(file_path, 'w', newline='') as file:
                 logging.info(f"✅ Created new CSV file: {file_path}")
         else:
             logging.info(f"✅ CSV file already exists: {file_path}")
     except Exception as e:
         logging.error(f"❌ Failed to initialize CSV file: {file_path}. Error: {e}")
 
+def write_to_error_file(file_path_error, topic_idea, description):
+    try:
+        with open(file_path_error, 'a') as error_file:
+            writer = csv.writer(error_file)
+            writer.writerow([topic_idea, description])
+        logging.info(f"✅ Topic '{topic_idea}' moved to ERROR topics.")
+    except Exception as file_error:
+        logging.error(f"❌ Failed to write to error file: {file_path_error}. Error: {file_error}")
+        raise
+    
 def send_telegram_message(bot_token, chat_id, message):
     """Sends a Telegram message."""
     if not bot_token or not chat_id:
@@ -488,19 +498,10 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
             
             # Move the topic to the ERROR topics file
             logging.info("🔄 Moving the topic to ERROR topics...")
-            try:
-                with open(file_path_error, 'a') as error_file:
-                    writer = csv.writer(error_file)
-                    writer.writerow([topic_idea, description])
-                logging.info(f"✅ Topic '{topic_idea}' moved to ERROR topics.")
-            except Exception as file_error:
-                logging.error(f"❌ Failed to write to error file: {file_path_error}. Error: {file_error}")
+            write_to_error_file(file_path_error, topic_idea, description)
             
             # Send a Telegram message about the error
             send_telegram_message(bot_token, chat_id, f"❌ Error occurred while processing topic '{topic_idea}'. Moved to ERROR topics. Error: {e}")
-
-            # Log the retry attempt
-            logging.info(f"🔄 Retrying with a new topic. Attempt {exception_count}/{max_exceptions}")
 
     if exception_count >= max_exceptions:
         logging.error(f"❌ Maximum number of exceptions ({max_exceptions}) reached. Stopping the process.")
