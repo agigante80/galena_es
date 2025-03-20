@@ -104,14 +104,15 @@ def initialize_csv(file_path):
 
 def write_to_error_file(file_path_error, topic_idea, description):
     try:
-        with open(file_path_error, 'a') as error_file:
+        with open(file_path_error, 'a', newline='') as error_file:
             writer = csv.writer(error_file)
+            logging.info(f"Writing to error file: {file_path_error} -> {topic_idea}, {description}")
             writer.writerow([topic_idea, description])
-        logging.info(f"✅ Topic '{topic_idea}' moved to ERROR topics.")
+        logging.info(f"✅ Topic: '{topic_idea}', Description: '{description}' moved to ERROR topics file: {file_path_error}")
     except Exception as file_error:
         logging.error(f"❌ Failed to write to error file: {file_path_error}. Error: {file_error}")
         raise
-    
+
 def send_telegram_message(bot_token, chat_id, message):
     """Sends a Telegram message."""
     if not bot_token or not chat_id:
