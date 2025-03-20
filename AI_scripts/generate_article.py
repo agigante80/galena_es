@@ -414,7 +414,10 @@ def initialize_files(*file_paths):
     return file_paths
 
 def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_path_archived, file_path_error, indexnow_api_key):
-    while True:
+    exception_count = 0  # Counter to track the number of exceptions
+    max_exceptions = 3  # Maximum number of allowed exceptions
+
+    while exception_count < max_exceptions:
         logging.info("🔄 Fetch the next topic idea and description...")
         # Fetch the next topic idea and description
         topic_idea, description = fetch_topic_and_description(file_path_new, api_key, bot_token, chat_id)
@@ -477,6 +480,7 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
             break  # Exit the loop if successful
 
         except Exception as e:
+            exception_count += 1  # Increment the exception counter
             logging.error(f"❌ Error occurred: {e}")
             # Move the topic to the ERROR topics file
             logging.info("🔄 Moving the topic to ERROR topics...")
@@ -488,21 +492,32 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
             # Send a Telegram message about the error
             send_telegram_message(bot_token, chat_id, f"❌ Error occurred while processing topic '{topic_idea}'. Moved to ERROR topics. Error: {e}")
 
-            # Continue to the next topic
-            logging.info(f"🔄 Starting the process again but with a new topic")
-            continue
+            # Log the retry attempt
+            logging.info(f"🔄 Retrying with a new topic. Attempt {exception_count}/{max_exceptions}")
+
+    if exception_count >= max_exceptions:
+        logging.error(f"❌ Maximum number of exceptions ({max_exceptions}) reached. Stopping the process.")
+        send_telegram_message(bot_token, chat_id, f"❌ Maximum number of exceptions ({max_exceptions}) reached. Stopping the process.")
 
 def main():
     OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, INDEXNOW_API_KEY = check_and_load_env_variables()
     ensure_directories_exist(AI_TOPICS_DIRECTORY, AI_IMAGES_DIRECTORY, AI_ARTICLES_DIRECTORY)
-    FILE_PATH_NEW_TOPICS, FILE_PATH_ARCHIVED_TOPICS, FILE_PATH_ERROR_TOPICS  = initialize_files(
-        os.path.join(AI_TOPICS_DIRECTORY, CSV_FILE_LIST_OF_NEW_TOPICS),
-        os.path.join(AI_TOPICS_DIRECTORY, CSV_FILE_LIST_OF_ARCHIVED_TOPICS),
-        os.path.join(AI_TOPICS_DIRECTORY, CSV_FILE_LIST_OF_ERROR_TOPICS)
-    )
+    
+    # Initialize all required CSV files, including the error topics file
+    FILE_PATH_NEW_TOPICS = initialize_files(os.path.join(AI_TOPICS_DIRECTORY, CSV_FILE_LIST_OF_NEW_TOPICS))
+    FILE_PATH_ARCHIVED_TOPICS = initialize_files(os.path.join(AI_TOPICS_DIRECTORY, CSV_FILE_LIST_OF_ARCHIVED_TOPICS))
+    FILE_PATH_ERROR_TOPICS = initialize_files(os.path.join(AI_TOPICS_DIRECTORY, CSV_FILE_LIST_OF_ERROR_TOPICS))
 
     logging.info("🔄 Initializing OpenAI requests...")
-    create_article_with_image(OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, FILE_PATH_NEW_TOPICS, FILE_PATH_ARCHIVED_TOPICS, FILE_PATH_ERROR_TOPICS, INDEXNOW_API_KEY)
+    create_article_with_image(
+        OPENAI_API_KEY, 
+        TELEGRAM_BOT_TOKEN, 
+        TELEGRAM_CHAT_ID, 
+        FILE_PATH_NEW_TOPICS, 
+        FILE_PATH_ARCHIVED_TOPICS, 
+        FILE_PATH_ERROR_TOPICS, 
+        INDEXNOW_API_KEY
+    )
     logging.info("✅ Script completed!")
 
 if __name__ == "__main__":
