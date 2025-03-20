@@ -50,9 +50,6 @@ jobs:
         run: |
           python AI_scripts/generate_article.py
           
-      - name: Create IndexNow key file
-        run: echo ${{ secrets.INDEXNOW_API_KEY }} > ${{ secrets.INDEXNOW_API_KEY }}.txt
-
       # Commit any new or updated files to the repository
       - name: Commit and Push Changes
         run: |
@@ -63,6 +60,9 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "Add newly generated article"
           git push
 
+      - name: Create IndexNow key file
+        run: echo ${{ secrets.INDEXNOW_API_KEY }} > ${{ secrets.INDEXNOW_API_KEY }}.txt
+  
       # Setup Ruby environment for Jekyll
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -97,8 +97,4 @@ jobs:
       # Deploy the site to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
-
-      # Delete the IndexNow key file after deployment
-      - name: Delete IndexNow key file
-        run: rm -f ${{ secrets.INDEXNOW_API_KEY }}.txt
+        uses: actions/deploy-pages@v4
