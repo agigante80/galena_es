@@ -98,22 +98,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-      - name: Check Pages deployment status
-        run: |
-          timeout=0
-          while [ $timeout -lt 300 ]; do
-            status=$(curl -s -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/repos/${{ github.repository }}/pages/deployment/status | jq -r '.status')
-            if [ "$status" == "active" ] || [ "$status" == "built" ]; then
-              echo "Deployment successful!"
-              exit 0
-            elif [ "$status" == "failed" ]; then
-              echo "Deployment failed!"
-              exit 1
-            fi
-            echo "Current status: $status"
-            timeout=$((timeout + 10))
-            sleep 10
-          done
-          echo "Timeout reached, aborting!"
-          exit 1
