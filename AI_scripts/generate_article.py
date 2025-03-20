@@ -401,7 +401,7 @@ def get_article_content(api_key, topic_idea, description, image_path):
     article_content = '\n'.join(lines)
 
     current_date = datetime.now().strftime("%Y-%m-%d")
-    article_file_path = os.path.join(AI_ARTICLES_DIRECTORY, f"{current_date}-{topic_idea.replace(' ', '_').replace("'", '')}.md")
+    article_file_path = os.path.join(AI_ARTICLES_DIRECTORY, f"""{current_date}-{topic_idea.replace(' ', '_').replace("'", '')}.md""")
     with open(article_file_path, 'w') as article_file:
         article_file.write(article_content)
     logging.info(f"✅ Article for '{topic_idea}' created and saved to {article_file_path}")
