@@ -79,22 +79,19 @@ jobs:
 
       - name: Check Pages deployment status
         run: |
-          timeout=600
-          interval=10
-          elapsed=0
-          while true; do
-            status=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-              "https://api.github.com/repos/${{ github.repository }}/pages/deployment/status")
-            echo "Current status: $status"
-            if [[ "$status" == *"completed"* ]]; then
-              break
-            fi
-            if [ $elapsed -ge $timeout ]; then
-              echo "Timeout reached, aborting!"
-              curl -s -X DELETE -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-                "https://api.github.com/repos/${{ github.repository }}/pages/deployment/status"
+          timeout=0
+          while [ $timeout -lt 300 ]; do
+            status=$(curl -s -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/repos/${{ github.repository }}/pages/deployment/status | jq -r '.status')
+            if [ "$status" == "active" ] || [ "$status" == "built" ]; then
+              echo "Deployment successful!"
+              exit 0
+            elif [ "$status" == "failed" ]; then
+              echo "Deployment failed!"
               exit 1
             fi
-            sleep $interval
-            elapsed=$((elapsed + interval))
+            echo "Current status: $status"
+            timeout=$((timeout + 10))
+            sleep 10
           done
+          echo "Timeout reached, aborting!"
+          exit 1
