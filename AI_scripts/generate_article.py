@@ -9,6 +9,8 @@ from markdown_it import MarkdownIt
 from markdown_it.renderer import RendererHTML
 from PIL import Image
 from io import BytesIO
+import time
+import random
 
 # The following variables must be set as environment variables for security reasons.
 # OPENAI_API_KEY
@@ -71,64 +73,146 @@ else:
 logging.info("✅ Script started...")
 
 def check_env_variable_error(var_name):
-    """Checks if an environment variable is set and logs the result."""
+    """Check if a required environment variable is set. 
+    Log an error and raise an exception if missing.
+    
+    Args:
+        var_name (str): The name of the environment variable to check.
+    
+    Returns:
+        str: The value of the environment variable.
+    """
     value = os.getenv(var_name)
     if not value:
-        logging.error(f"❌ ERROR: {var_name} is missing! Please set it as an environment variable.")
-        raise ValueError(f"❌ ERROR: {var_name} is missing! Please set it as an environment variable.")
+        logging.error(f"❌ [Environment Variable Error] {var_name} is missing! Please set it as an environment variable.")
+        raise ValueError(f"❌ [Environment Variable Error] {var_name} is missing! Please set it as an environment variable.")
     else:
-        logging.info(f"✅ {var_name} successfully loaded.")
+        logging.debug(f"✅ [Environment Variable Loaded] {var_name} successfully loaded with value: {value[:4]}***")
     return value
 
 def check_env_variable_warning(var_name):
-    """Checks if an environment variable is set and logs the result."""
+    """Check if an optional environment variable is set. 
+    Log a warning if missing.
+    
+    Args:
+        var_name (str): The name of the environment variable to check.
+    
+    Returns:
+        str or None: The value of the environment variable, or None if not set.
+    """
     value = os.getenv(var_name)
     if not value:
-        logging.warning(f"⚠️ WARNING: {var_name} is missing! Please set it as an environment variable.")
+        logging.warning(f"⚠️ [Environment Variable Warning] {var_name} is missing! Please set it as an environment variable.")
         return None
     else:
-        logging.info(f"✅ {var_name} successfully loaded.")
+        logging.debug(f"✅ [Environment Variable Loaded] {var_name} successfully loaded with value: {value[:4]}***")
     return value
 
 def initialize_csv(file_path):
-    """Creates the CSV file if it doesn't exist, handling missing cases properly."""
+    """Ensure a CSV file exists. Create it if it does not exist.
+    
+    Args:
+        file_path (str): The path to the CSV file.
+    """
     try:
         if not os.path.exists(file_path):
             with open(file_path, 'w', newline='') as file:
-                logging.info(f"✅ Created new CSV file: {file_path}")
+                logging.info(f"✅ [CSV Initialization] Created new CSV file: {file_path}")
         else:
-            logging.info(f"✅ CSV file already exists: {file_path}")
+            logging.debug(f"✅ [CSV Initialization] CSV file already exists: {file_path}")
+    except PermissionError:
+        logging.critical(f"❌ [CSV Initialization Error] Permission denied: Unable to create or access the file at {file_path}. Check file permissions.")
+    except FileNotFoundError:
+        logging.error(f"❌ [CSV Initialization Error] File not found: The directory for {file_path} does not exist. Ensure the directory is created.")
     except Exception as e:
-        logging.error(f"❌ Failed to initialize CSV file: {file_path}. Error: {e}")
+        logging.error(f"❌ [CSV Initialization Error] Unexpected error while initializing CSV file: {file_path}. Error: {e}")
 
-def write_to_error_file(file_path_error, topic_idea, description):
+def write_to_csv(file_path, topic_idea, description):
+    """Append a topic idea and description to a CSV file.
+    
+    Args:
+        file_path (str): The path to the CSV file.
+        topic_idea (str): The topic idea to write.
+        description (str): The description to write.
+    """
     try:
-        with open(file_path_error, 'a', newline='') as error_file:
+        with open(file_path, 'a', newline='') as error_file:
             writer = csv.writer(error_file)
-            logging.info(f"Writing to error file: {file_path_error} -> {topic_idea}, {description}")
+            logging.debug(f"[CSV Write] Writing to file: {file_path} -> Topic: {topic_idea}, Description: {description}")
             writer.writerow([topic_idea, description])
-        logging.info(f"✅ Topic: '{topic_idea}', Description: '{description}' moved to ERROR topics file: {file_path_error}")
+        logging.info(f"✅ [CSV Write] Topic: '{topic_idea}', Description: '{description}' successfully written to file: {file_path}")
     except Exception as file_error:
-        logging.error(f"❌ Failed to write to error file: {file_path_error}. Error: {file_error}")
+        logging.error(f"❌ [CSV Write Error] Failed to write to file: {file_path}. Error: {file_error}")
         raise
 
+def retry_with_backoff(func, max_retries=3, initial_delay=1, backoff_factor=2, *args, **kwargs):
+    """Retry a function with exponential backoff in case of failure.
+    
+    Args:
+        func (callable): The function to retry.
+        max_retries (int): Maximum number of retries.
+        initial_delay (int): Initial delay in seconds before retrying.
+        backoff_factor (int): Factor by which the delay increases after each retry.
+        *args: Positional arguments for the function.
+        **kwargs: Keyword arguments for the function.
+    
+    Returns:
+        Any: The return value of the function if successful.
+    
+    Raises:
+        Exception: The last exception raised if all retries fail.
+    """
+    delay = initial_delay
+    for attempt in range(max_retries):
+        try:
+            return func(*args, **kwargs)
+        except Exception as e:
+            if attempt < max_retries - 1:
+                logging.warning(f"⚠️ [Retry] Attempt {attempt + 1} failed. Retrying in {delay} seconds...")
+                time.sleep(delay)
+                delay *= backoff_factor
+            else:
+                logging.error(f"❌ [Retry] All {max_retries} attempts failed. Last error: {e}")
+                raise
+
 def send_telegram_message(bot_token, chat_id, message):
-    """Sends a Telegram message."""
+    """Send a message to a Telegram chat using a bot with retry logic.
+    
+    Args:
+        bot_token (str): The Telegram bot token.
+        chat_id (str): The Telegram chat ID.
+        message (str): The message to send.
+    """
     if not bot_token or not chat_id:
-        logging.warning("⚠️ WARNING: Telegram message not sent due to missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID.")
+        logging.warning("⚠️ [Telegram Warning] Telegram message not sent due to missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID.")
         return
 
     message = f"{WEBSITE}\n{message}"  # Add the website to the message
 
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     data = {'chat_id': chat_id, 'text': message}
-    response = requests.post(url, data=data)
-    if response.status_code == 200:
-        logging.info("✅ Telegram message sent successfully.")
-    else:
-        logging.error(f"❌ Failed to send Telegram message. Status code: {response.status_code}, Response: {response.text}")
+
+    def send_request():
+        response = requests.post(url, data=data, timeout=10)
+        if response.status_code == 200:
+            logging.info(f"✅ [Telegram] Message sent successfully to chat ID: {chat_id}")
+        else:
+            raise Exception(f"Failed to send message. Status code: {response.status_code}, Response: {response.text}")
+
+    retry_with_backoff(send_request)
 
 def get_topics_create_csv_and_notify(api_key, file_path, bot_token, chat_id):
+    """Generate 10 blog topic ideas using OpenAI, save them to a CSV file, and notify via Telegram.
+    
+    Args:
+        api_key (str): The OpenAI API key.
+        file_path (str): The path to the CSV file for storing topics.
+        bot_token (str): The Telegram bot token.
+        chat_id (str): The Telegram chat ID.
+    
+    Returns:
+        str: The generated topics as a string.
+    """
     # Fetches the next 10 topics.
     prompt = """
 Objective: Generate 10 engaging and insightful topic ideas for my blog at www.galena.es, focused on exploring the world of minerals, mining, and gemstones. This blog aims to be the go-to destination for geology enthusiasts, jewelry lovers, and anyone curious about the natural world.
@@ -206,6 +290,18 @@ Additional Instructions:
     return topics
 
 def fetch_topic_and_description(file_path, api_key, bot_token, chat_id):
+    """Fetch the next topic idea and description from a CSV file. 
+    Generate new topics if the file is empty.
+    
+    Args:
+        file_path (str): The path to the CSV file.
+        api_key (str): The OpenAI API key.
+        bot_token (str): The Telegram bot token.
+        chat_id (str): The Telegram chat ID.
+    
+    Returns:
+        tuple: A tuple containing the topic idea and description.
+    """
     #Fetches the next blog Topic Idea and Description from the CSV.
     with open(file_path, 'r') as infile:
         reader = csv.reader(infile)
@@ -224,65 +320,91 @@ def fetch_topic_and_description(file_path, api_key, bot_token, chat_id):
     return topic_idea, description
 
 def get_image_create_file_and_notify(api_key, file_path, bot_token, chat_id, topic_idea, description):
+    """Generate an image using OpenAI, save it locally, and notify via Telegram with retry logic.
+    
+    Args:
+        api_key (str): The OpenAI API key.
+        file_path (str): The directory path to save the image.
+        bot_token (str): The Telegram bot token.
+        chat_id (str): The Telegram chat ID.
+        topic_idea (str): The topic idea for the image.
+        description (str): The description for the image.
+    
+    Returns:
+        str: The path to the resized image.
+    """
     prompt = f"""
-Task:
-Create an engaging illustration for a blog article on our website, ensuring it visually captures the essence of the topic provided.
+    Task:
+    Create an engaging illustration for a blog article on our website, ensuring it visually captures the essence of the topic provided.
 
-Details:
+    Details:
 
-    Topic Idea: {topic_idea}
-    Description: {description}
+        Topic Idea: {topic_idea}
+        Description: {description}
 
-Requirements:
-    Focus: Highlight the mineral, emphasizing its distinctive features.
-    Visual Style: Use a vibrant, educational style to capture attention.
-    Audience: Designed for geology fans, educators, and earth science readers.
-    Digital Quality: Optimize for digital display and printing, without guidance texts.
-    Text-Free: Keep the image free of text, captions, and watermarks.
-"""
-    client = OpenAI(
-        api_key=api_key,  # Pass the api_key directly
-    )
-    response = client.images.generate(
-        model="dall-e-3",
-        prompt=prompt,
-        n=1,
-        size='1024x1024',  # other options '256x256', '512x512', '1024x1024', '1024x1792', '1792x1024'
-    )
-    # Extract the URL of the generated image
-    image_url = response.data[0].url
-    logging.info("🔄 Generated Image URL: " + image_url)
+    Requirements:
+        Focus: Highlight the mineral, emphasizing its distinctive features.
+        Visual Style: Use a vibrant, educational style to capture attention.
+        Audience: Designed for geology fans, educators, and earth science readers.
+        Digital Quality: Optimize for digital display and printing, without guidance texts.
+        Text-Free: Keep the image free of text, captions, and watermarks.
+    """
 
-    # Download the original image
-    image_response = requests.get(image_url)
-    if image_response.status_code == 200:
+    def generate_image():
+        client = OpenAI(api_key=api_key)
+        response = client.images.generate(
+            model="dall-e-3",
+            prompt=prompt,
+            n=1,
+            size='1024x1024',  # other options '256x256', '512x512', '1024x1024', '1024x1792', '1792x1024'
+        )
+        return response.data[0].url
+
+    try:
+        image_url = retry_with_backoff(generate_image)
+        logging.info(f"✅ [Image Generation] Generated Image URL: {image_url}")
+
+        def download_image():
+            response = requests.get(image_url, timeout=10)
+            if response.status_code == 200:
+                return response.content
+            else:
+                raise Exception(f"Failed to download image. Status code: {response.status_code}")
+
+        image_content = retry_with_backoff(download_image)
+
         sanitized_topic = topic_idea.replace(' ', '_').replace("'", "")
         original_image_path = os.path.join(file_path, f"{sanitized_topic}_1024x1024.png")
         with open(original_image_path, 'wb') as image_file:
-            image_file.write(image_response.content)
-        logging.info(f"✅ Original image downloaded and saved to {original_image_path}")
-        
+            image_file.write(image_content)
+        logging.info(f"✅ [Image Download] Original image downloaded and saved to {original_image_path}")
+
         # Resize the image
-        with Image.open(BytesIO(image_response.content)) as original_image:
+        with Image.open(BytesIO(image_content)) as original_image:
             resized_dimensions = (512, 512)  # Change dimensions as required
             resized_image = original_image.resize(resized_dimensions)
-            
+
             # Save the resized image
             resized_image_path = os.path.join(file_path, f"{sanitized_topic}.png")
             resized_image.save(resized_image_path)
-            logging.info(f"✅ Resized image saved to {resized_image_path}")
-    else:
-        logging.error(f"❌ Failed to download image. Status code: {image_response.status_code}")
+            logging.info(f"✅ [Image Resize] Resized image saved to {resized_image_path}")
+
+        return resized_image_path
+    except Exception as e:
+        logging.error(f"❌ [Image Generation Error] Failed to generate or download the image. Error: {e}")
         return None
 
-    # Notify via Telegram
-    # uncomment the following line to send a Telegram message
-    # send_telegram_message(bot_token, chat_id, f"New image for '{topic_idea}' has been generated and saved.")
-
-    return resized_image_path
-
 def generate_image_alt_text(api_key, topic_idea, description):
-    """Generate an alt text for an image based on the topic idea and description."""
+    """Generate alt text for an image based on the topic idea and description.
+    
+    Args:
+        api_key (str): The OpenAI API key.
+        topic_idea (str): The topic idea for the image.
+        description (str): The description for the image.
+    
+    Returns:
+        str: The generated alt text.
+    """
     prompt = f"""
 Create a concise and descriptive alt text for an image related to the following:
 
@@ -313,6 +435,15 @@ The blog focuses on minerals, mining, or gemstones. The audience includes geolog
 
 
 def notify_indexnow(api_key, url):
+    """Notify IndexNow servers about a new or updated URL with retry logic.
+    
+    Args:
+        api_key (str): The IndexNow API key.
+        url (str): The URL to notify.
+    
+    Returns:
+        bool: True if all requests were sent successfully.
+    """
     indexnow_servers = [
         "https://api.indexnow.org/indexnow",
         "https://www.bing.com/indexnow",
@@ -322,32 +453,34 @@ def notify_indexnow(api_key, url):
         "https://indexnow.yep.com/indexnow"
     ]
 
-    # Check if running in GitHub Actions
-    #if os.getenv('GITHUB_ACTIONS') == 'true':
-    #    # Check if the {api_key}.txt file exists and contains the correct key
-    #    key_file_path = f"{api_key}.txt"
-    #    if not os.path.exists(key_file_path) or open(key_file_path).read().strip() != api_key:
-    #        with open(key_file_path, 'w') as key_file:
-    #            key_file.write(api_key)
-    #        logging.info(f"✅ Created or updated IndexNow file: {key_file_path}")
+    def notify_server(server_url):
+        full_url = f"{server_url}?url={url}&key={api_key}"
+        response = requests.get(full_url, timeout=10)
+        if response.status_code == 200:
+            logging.info(f"✅ [IndexNow] Successfully notified {server_url} for URL: {url}")
+        else:
+            raise Exception(f"Request to {server_url} failed. Status code: {response.status_code}, Response: {response.text}")
 
     for server_url in indexnow_servers:
         try:
-            full_url = f"{server_url}?url={url}&key={api_key}"
-            response = requests.get(full_url)
-            logging.info(f"🔄 Sent GET request to {full_url}")
-            logging.info(f"✅ Response Status Code: {response.status_code}")
-            logging.info(f"✅ Response Text: {response.text}")
+            retry_with_backoff(notify_server, server_url=server_url)
+        except Exception as e:
+            logging.error(f"❌ [IndexNow Error] Failed to notify {server_url}. Error: {e}")
 
-            if not response.ok:
-                logging.warning(f"❌ Request to {server_url} failed.")
-
-        except requests.exceptions.RequestException as e:
-            logging.error("❌ Request to %s failed: %s", server_url, e)
-
-    return True  # Indicate that all requests were sent successfully
+    return True
 
 def get_article_content(api_key, topic_idea, description, image_path):
+    """Generate a blog article using OpenAI and save it to a file.
+    
+    Args:
+        api_key (str): The OpenAI API key.
+        topic_idea (str): The topic idea for the article.
+        description (str): The description for the article.
+        image_path (str): The path to the associated image.
+    
+    Returns:
+        str: The path to the saved article file.
+    """
     # Generate alt text for the image
     image_alt_text = generate_image_alt_text(api_key, topic_idea, description)
 
@@ -408,6 +541,11 @@ def get_article_content(api_key, topic_idea, description, image_path):
     return article_file_path
 
 def check_and_load_env_variables():
+    """Check and load required and optional environment variables.
+    
+    Returns:
+        tuple: A tuple containing the values of the environment variables.
+    """
     logging.info("🔍 Checking environment variables...")
     OPENAI_API_KEY = check_env_variable_error("OPENAI_API_KEY")
     TELEGRAM_BOT_TOKEN = check_env_variable_warning("TELEGRAM_BOT_TOKEN")
@@ -416,17 +554,44 @@ def check_and_load_env_variables():
     return OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, INDEXNOW_API_KEY
 
 def ensure_directories_exist(*directories):
+    """Ensure that the specified directories exist. Create them if they do not exist.
+    
+    Args:
+        *directories (str): The paths of the directories to check or create.
+    
+    Returns:
+        tuple: The input directories.
+    """
     for directory in directories:
         os.makedirs(directory, exist_ok=True)
         logging.info(f"✅ Ensured directory exists: {directory}")
     return directories
 
 def initialize_files(*file_paths):
+    """Ensure that the specified CSV files exist. Create them if they do not exist.
+    
+    Args:
+        *file_paths (str): The paths of the CSV files to check or create.
+    
+    Returns:
+        tuple: The input file paths.
+    """
     for file_path in file_paths:
         initialize_csv(file_path)
     return file_paths
 
 def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_path_archived, file_path_error, indexnow_api_key):
+    """Generate an article with an image, archive the topic, and notify via Telegram and IndexNow.
+    
+    Args:
+        api_key (str): The OpenAI API key.
+        bot_token (str): The Telegram bot token.
+        chat_id (str): The Telegram chat ID.
+        file_path_new (str): The path to the CSV file for new topics.
+        file_path_archived (str): The path to the CSV file for archived topics.
+        file_path_error (str): The path to the CSV file for error topics.
+        indexnow_api_key (str): The IndexNow API key.
+    """
     exception_count = 0  # Counter to track the number of exceptions
     max_exceptions = 3  # Maximum number of allowed exceptions
 
@@ -442,15 +607,17 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
             # Use the topic idea and description to request an image
             image_path = get_image_create_file_and_notify(api_key, AI_IMAGES_DIRECTORY, bot_token, chat_id, topic_idea, description)
             
+            # Check if image generation failed
+            if not image_path:
+                raise Exception(f"Image generation failed for topic '{topic_idea}'. Moving to error topics.")
+
             logging.info("🔄 Request the article content...")
             # Request the article content
             article_file_path = get_article_content(api_key, topic_idea, description, image_path)
             
             logging.info("🔄 Add the topic idea and description to the archived topics file...")
             # Add the topic idea and description to the archived topics file
-            with open(file_path_archived, 'a') as archived_file:
-                writer = csv.writer(archived_file)
-                writer.writerow([topic_idea, description])
+            write_to_csv(file_path_archived, topic_idea, description)
             
             logging.info("🔄 Remove the used line from the new topics file...")
             # Remove the used line from the new topics file
@@ -498,16 +665,21 @@ def create_article_with_image(api_key, bot_token, chat_id, file_path_new, file_p
             
             # Move the topic to the ERROR topics file
             logging.info("🔄 Moving the topic to ERROR topics...")
-            write_to_error_file(file_path_error, topic_idea, description)
+            write_to_csv(file_path_error, topic_idea, description)
             
             # Send a Telegram message about the error
             send_telegram_message(bot_token, chat_id, f"❌ Error occurred while processing topic '{topic_idea}'. Moved to ERROR topics. Error: {e}")
 
+            # Continue to the next topic
+            logging.info(f"🔄 Retrying with a new topic. Attempt {exception_count}/{max_exceptions}")
+
     if exception_count >= max_exceptions:
         logging.error(f"❌ Maximum number of exceptions ({max_exceptions}) reached. Stopping the process.")
         send_telegram_message(bot_token, chat_id, f"❌ Maximum number of exceptions ({max_exceptions}) reached. Stopping the process.")
-
+        
 def main():
+    """Main function to initialize environment variables, directories, and files, 
+    and generate articles with images."""
     OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, INDEXNOW_API_KEY = check_and_load_env_variables()
     ensure_directories_exist(AI_TOPICS_DIRECTORY, AI_IMAGES_DIRECTORY, AI_ARTICLES_DIRECTORY)
     
