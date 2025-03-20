@@ -4,7 +4,6 @@ import requests
 import csv
 from datetime import datetime
 from openai import OpenAI
-import requests
 import re
 from markdown_it import MarkdownIt
 from markdown_it.renderer import RendererHTML
