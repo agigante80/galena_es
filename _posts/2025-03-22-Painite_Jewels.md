@@ -1,6 +1,3 @@
-Here is your blog article in GitHub Flavored Markdown format:
-
-
 ---
 layout: post
 title: "Exploring the Exclusivity of Painite Jewels"
