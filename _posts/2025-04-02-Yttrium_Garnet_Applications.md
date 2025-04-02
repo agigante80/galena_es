@@ -7,7 +7,7 @@ categories: [Minerals, Technology]
 tags: [Yttrium Garnet, Electronics, Optics, Materials Science]
 ---
 
-![Infographic illustrating the diverse applications of Yttrium Garnet in industries such as electronics, optics, and materials science, highlighting its role in laser technology, semiconductor manufacturing, and as a gemstone in jewelry.](https://galena.es/assets/images/Yttrium_Garnet_Applications.png "")
+![banner](https://galena.es/assets/images/Yttrium_Garnet_Applications.png "Infographic illustrating the diverse applications of Yttrium Garnet in industries such as electronics, optics, and materials science, highlighting its role in laser technology, semiconductor manufacturing, and as a gemstone in jewelry.")
 
 # Introduction
 
