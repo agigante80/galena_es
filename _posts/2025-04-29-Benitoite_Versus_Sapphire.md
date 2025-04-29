@@ -7,7 +7,7 @@ categories: [Geology, Gemstones]
 tags: [Benitoite, Sapphire, Gemstone Comparison, Mineral Properties]
 ---
 
-![banner](https://galena.es/assets/images/Benitoite_Versus_Sapphire.png "")
+![banner](https://galena.es/assets/images/Benitoite_Versus_Sapphire.png "Infographic comparing benitoite and sapphire gemstones with detailed visualizations. Highlights differences in color, structure, and properties, alongside crystal shapes and fluorescence. Includes diagrams and labels for easy understanding.")
 
 # Introduction
 
