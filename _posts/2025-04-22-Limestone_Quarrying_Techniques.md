@@ -2,12 +2,12 @@
 layout: post
 title: "Demystifying Limestone Quarrying Techniques"
 subtitle: "Unearth the secrets of limestone mining: methods, machinery, and their environmental impacts."
-excerpt_image: https://galena.es/assets/images/Limestone_Quarrying_Techniques.png
+excerpt_image: https://www.galena.es/assets/images/Limestone_Quarrying_Techniques.png
 categories: [Mining, Earth Sciences]
 tags: [Limestone, Quarrying, Techniques, Environment]
 ---
 
-![banner](https://galena.es/assets/images/Limestone_Quarrying_Techniques.png "An aerial view of a limestone quarry showcasing various extraction techniques, including open-pit mining and drilling, with visible machinery and rock formations, illustrating the methods and environmental impacts of limestone mining.")
+![banner](https://www.galena.es/assets/images/Limestone_Quarrying_Techniques.png "An aerial view of a limestone quarry showcasing various extraction techniques, including open-pit mining and drilling, with visible machinery and rock formations, illustrating the methods and environmental impacts of limestone mining.")
 
 # Introduction
 

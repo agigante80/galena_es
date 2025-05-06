@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Industrial Uses of Narsarsukite"
 subtitle: "Exploring the various industrial applications of the mineral Narsarsukite, a unique gemstone with potential untapped uses."
-excerpt_image: https://galena.es/assets/images/Uses_of_Narsarsukite_in_Industry.png
+excerpt_image: https://www.galena.es/assets/images/Uses_of_Narsarsukite_in_Industry.png
 categories: [Mineralogy, Industry]
 tags: [Narsarsukite, Industrial Use, Gemstones, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Uses_of_Narsarsukite_in_Industry.png "A close-up image of Narsarsukite crystals, showcasing their unique structure and color, surrounded by industrial tools and equipment, illustrating the mineral's various applications in industry.")
+![banner](https://www.galena.es/assets/images/Uses_of_Narsarsukite_in_Industry.png "A close-up image of Narsarsukite crystals, showcasing their unique structure and color, surrounded by industrial tools and equipment, illustrating the mineral's various applications in industry.")
 
 # Introduction
 

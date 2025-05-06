@@ -2,12 +2,12 @@
 layout: post
 title: "The Healing Power of Quartz Crystals"
 subtitle: "Explore the cultural and spiritual significance of quartz crystals and their healing properties."
-excerpt_image: https://galena.es/assets/images/Quartz_Healing_Properties.png
+excerpt_image: https://www.galena.es/assets/images/Quartz_Healing_Properties.png
 categories: [Mineralogy, Spirituality]
 tags: [quartz, healing crystals, earth sciences, spirituality]
 ---
 
-![banner](https://galena.es/assets/images/Quartz_Healing_Properties.png "Image exploring the cultural and spiritual significance of quartz crystals, highlighting their healing properties and role in wellness and earth sciences.")
+![banner](https://www.galena.es/assets/images/Quartz_Healing_Properties.png "Image exploring the cultural and spiritual significance of quartz crystals, highlighting their healing properties and role in wellness and earth sciences.")
 
 # Introduction
 
@@ -35,7 +35,7 @@ Different types of quartz are believed to have different healing properties. Her
 | Citrine | Promotes motivation, activates creativity, encourages self-expression |
 | Amethyst | Enhances intuition, promotes emotional balance, aids in sleep |
 
-![Quartz Varieties](https://galena.es/assets/images/Quartz_Varieties.png)
+![Quartz Varieties](https://www.galena.es/assets/images/Quartz_Varieties.png)
 
 It's essential to remember that while these beliefs are widespread, scientific evidence does not support the healing properties of quartz or any other crystals. However, the placebo effect and the power of belief can be potent healing tools in themselves.
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Marble in History: Stone of the Monuments"
 subtitle: "Explore the grandeur of marble in historical architecture across the globe"
-excerpt_image: https://galena.es/assets/images/Marble_Historical_Buildings.png
+excerpt_image: https://www.galena.es/assets/images/Marble_Historical_Buildings.png
 categories: [Architecture, History]
 tags: [Marble, Historical Buildings, Architecture, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Marble_Historical_Buildings.png "A collage of iconic historical buildings made of marble, showcasing intricate architecture and detailing, including the Taj Mahal, the Parthenon, and St. Peter's Basilica, highlighting the beauty and significance of marble in construction.")
+![banner](https://www.galena.es/assets/images/Marble_Historical_Buildings.png "A collage of iconic historical buildings made of marble, showcasing intricate architecture and detailing, including the Taj Mahal, the Parthenon, and St. Peter's Basilica, highlighting the beauty and significance of marble in construction.")
 
 # Introduction
 Marble, a metamorphic rock derived from limestone, has been a symbol of opulence and grandeur throughout history. Its unique properties – durability, polishability, and inherent beauty – have made it the material of choice for sculptors, architects, and builders since antiquity. This article takes you on a journey through time, visiting some of the world's most iconic marble buildings.

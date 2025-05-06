@@ -2,12 +2,12 @@
 layout: post
 title: "The Art of Crafting Jewelry with Red Diamonds"
 subtitle: "Delve into the fascinating process of transforming the rare red diamond into stunning jewelry pieces."
-excerpt_image: https://galena.es/assets/images/Jewelry_Making_with_Red_Diamond.png
+excerpt_image: https://www.galena.es/assets/images/Jewelry_Making_with_Red_Diamond.png
 categories: [Jewelry, Gemstones]
 tags: [Red Diamond, Jewelry Making, Gemology, Craftsmanship]
 ---
 
-![banner](https://galena.es/assets/images/Jewelry_Making_with_Red_Diamond.png "A skilled artisan carefully crafts a stunning piece of jewelry featuring a rare red diamond, surrounded by tools and materials used in jewelry making, highlighting the intricate process of transforming this precious gem into exquisite wearable art.")
+![banner](https://www.galena.es/assets/images/Jewelry_Making_with_Red_Diamond.png "A skilled artisan carefully crafts a stunning piece of jewelry featuring a rare red diamond, surrounded by tools and materials used in jewelry making, highlighting the intricate process of transforming this precious gem into exquisite wearable art.")
 
 # Introduction
 

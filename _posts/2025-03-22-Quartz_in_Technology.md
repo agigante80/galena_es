@@ -2,12 +2,12 @@
 layout: post
 title: "Quartz: The Unsung Hero in Technology"
 subtitle: "Unveiling the pivotal role of quartz in modern electronics and watchmaking"
-excerpt_image: https://galena.es/assets/images/Quartz_in_Technology.png
+excerpt_image: https://www.galena.es/assets/images/Quartz_in_Technology.png
 categories: [Minerals, Technology]
 tags: [Quartz, Electronics, Watchmaking, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Quartz_in_Technology.png "Close-up of a quartz crystal with a digital watch and electronic circuit board in the background, illustrating quartz's vital role in electronics and watchmaking.")
+![banner](https://www.galena.es/assets/images/Quartz_in_Technology.png "Close-up of a quartz crystal with a digital watch and electronic circuit board in the background, illustrating quartz's vital role in electronics and watchmaking.")
 
 # Introduction
 

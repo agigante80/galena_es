@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Healing Properties of Luvavite (Sugilite)"
 subtitle: "Explore the reputed healing properties associated with the stunning mineral Luvavite, also known as Sugilite."
-excerpt_image: https://galena.es/assets/images/Luvavite_(Sugilite)_Healing_Properties.png
+excerpt_image: https://www.galena.es/assets/images/Luvavite_(Sugilite)_Healing_Properties.png
 categories: [Gemstones, Healing Minerals]
 tags: [Luvavite, Sugilite, Healing Properties, Gemstone]
 ---
 
-![banner](https://galena.es/assets/images/Luvavite_(Sugilite)_Healing_Properties.png "A stunning piece of Luvavite (Sugilite) showcasing its vibrant purple hues, surrounded by text highlighting its reputed healing properties, appealing to geology enthusiasts and gemstone lovers.")
+![banner](https://www.galena.es/assets/images/Luvavite_(Sugilite)_Healing_Properties.png "A stunning piece of Luvavite (Sugilite) showcasing its vibrant purple hues, surrounded by text highlighting its reputed healing properties, appealing to geology enthusiasts and gemstone lovers.")
 
 # Unveiling the Healing Properties of Luvavite (Sugilite)
 

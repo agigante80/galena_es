@@ -2,12 +2,12 @@
 layout: post
 title: "Crafting with Jadeite: An Artisan's Journey"
 subtitle: "Discover the intricate process of shaping and polishing jadeite for high-end jewelry."
-excerpt_image: https://galena.es/assets/images/Crafting_with_Jadeite.png
+excerpt_image: https://www.galena.es/assets/images/Crafting_with_Jadeite.png
 categories: [Earth Sciences, Jewelry Making]
 tags: [Jadeite, Artisan Craftsmanship, Gemstone Jewelry, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Crafting_with_Jadeite.png ""Artisan shaping and polishing Jadeite gemstones for high-end jewelry, showcasing the intricate craftsmanship involved in the process.")
+![banner](https://www.galena.es/assets/images/Crafting_with_Jadeite.png ""Artisan shaping and polishing Jadeite gemstones for high-end jewelry, showcasing the intricate craftsmanship involved in the process.")
 
 # Introduction
 

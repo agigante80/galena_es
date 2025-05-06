@@ -2,12 +2,12 @@
 layout: post
 title: "Iron Ore Smelting Techniques: A Comparative Study"
 subtitle: "An in-depth exploration of traditional and modern methods used in iron ore smelting."
-excerpt_image: https://galena.es/assets/images/Iron_Ore_Smelting_Techniques.png
+excerpt_image: https://www.galena.es/assets/images/Iron_Ore_Smelting_Techniques.png
 categories: [Geology, Mining]
 tags: [Iron Ore, Smelting Techniques, Earth Sciences, Metallurgy]
 ---
 
-![banner](https://galena.es/assets/images/Iron_Ore_Smelting_Techniques.png "Infographic illustrating various iron ore smelting techniques, showcasing both traditional methods like bloomery and modern processes such as blast furnace and electric arc smelting, with annotations highlighting key steps and materials used.")
+![banner](https://www.galena.es/assets/images/Iron_Ore_Smelting_Techniques.png "Infographic illustrating various iron ore smelting techniques, showcasing both traditional methods like bloomery and modern processes such as blast furnace and electric arc smelting, with annotations highlighting key steps and materials used.")
 
 # Introduction
 Iron, a lustrous, malleable, silver-grey metal, has been a cornerstone of human civilization for thousands of years. Its use in tools, weapons, and construction materials has shaped the course of history. This article delves into the fascinating world of iron ore smelting, exploring both traditional and modern techniques used to transform raw iron ore into usable iron.

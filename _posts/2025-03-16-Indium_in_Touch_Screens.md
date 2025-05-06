@@ -2,12 +2,12 @@
 layout: post
 title: "Indium: The Unsung Hero of Touch Screen Technology"
 subtitle: "Discover the essential role of the mineral indium in the functioning and efficiency of touch screen technology."
-excerpt_image: https://galena.es/assets/images/Indium_in_Touch_Screens.png
+excerpt_image: https://www.galena.es/assets/images/Indium_in_Touch_Screens.png
 categories: [Technology, Geology]
 tags: [Indium, Touch Screens, Mining, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Indium_in_Touch_Screens.png "Close-up of a touch screen displaying vibrant graphics, with a focus on indium's role in its technology; the image highlights the connection between the mineral and modern electronics, appealing to geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Indium_in_Touch_Screens.png "Close-up of a touch screen displaying vibrant graphics, with a focus on indium's role in its technology; the image highlights the connection between the mineral and modern electronics, appealing to geology enthusiasts and earth science readers.")
 
 ## Introduction
 

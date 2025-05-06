@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring Nigeria's Untapped Solid Minerals"
 subtitle: "Uncovering the potential of Nigeria's diverse and abundant solid mineral resources"
-excerpt_image: https://galena.es/assets/images/Nigerias_Untapped_Solid_Minerals.png
+excerpt_image: https://www.galena.es/assets/images/Nigerias_Untapped_Solid_Minerals.png
 categories: [Geology, Mining]
 tags: [Nigeria, Minerals, Mining, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Nigerias_Untapped_Solid_Minerals.png "An infographic showcasing Nigeria's diverse solid mineral resources, highlighting key minerals such as gold, tin, limestone, and gemstones, with a map of Nigeria illustrating mineral-rich regions, aimed at geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Nigerias_Untapped_Solid_Minerals.png "An infographic showcasing Nigeria's diverse solid mineral resources, highlighting key minerals such as gold, tin, limestone, and gemstones, with a map of Nigeria illustrating mineral-rich regions, aimed at geology enthusiasts and earth science readers.")
 
 # Introduction
 

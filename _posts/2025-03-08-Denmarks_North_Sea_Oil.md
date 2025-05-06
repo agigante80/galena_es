@@ -2,12 +2,12 @@
 layout: post
 title: "Harnessing the Depths: Denmark's North Sea Oil"
 subtitle: "Unveiling the economic impact of Denmark's North Sea Oil exploration"
-excerpt_image: https://galena.es/assets/images/Denmarks_North_Sea_Oil.png
+excerpt_image: https://www.galena.es/assets/images/Denmarks_North_Sea_Oil.png
 categories: [geology, economics]
 tags: [Denmark, North Sea Oil, oil exploration, economic impact]
 ---
 
-![banner](https://galena.es/assets/images/Denmarks_North_Sea_Oil.png "Aerial view of Denmark's North Sea oil rigs, showcasing the offshore drilling platforms surrounded by ocean waves, symbolizing the economic impact of oil exploration on the country's geology and resources.")
+![banner](https://www.galena.es/assets/images/Denmarks_North_Sea_Oil.png "Aerial view of Denmark's North Sea oil rigs, showcasing the offshore drilling platforms surrounded by ocean waves, symbolizing the economic impact of oil exploration on the country's geology and resources.")
 
 # Introduction
 

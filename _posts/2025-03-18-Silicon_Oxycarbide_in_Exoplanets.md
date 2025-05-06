@@ -2,12 +2,12 @@
 layout: post
 title: "The Potential Existence of Silicon Oxycarbide in Rocky Exoplanets"
 subtitle: "Discover the intriguing potential of Silicon Oxycarbide minerals existing on exoplanets, reshaping our understanding of extraterrestrial geology."
-excerpt_image: https://galena.es/assets/images/Silicon_Oxycarbide_in_Exoplanets.png
+excerpt_image: https://www.galena.es/assets/images/Silicon_Oxycarbide_in_Exoplanets.png
 categories: [Extraterrestrial Geology, Mineralogy]
 tags: [Silicon Oxycarbide, Exoplanets, Geology, Mineralogy]
 ---
 
-![banner](https://galena.es/assets/images/Silicon_Oxycarbide_in_Exoplanets.png "An artistic illustration of a rocky exoplanet featuring Silicon Oxycarbide formations, highlighting the mineral's potential presence in extraterrestrial geology. The vibrant landscape showcases diverse geological features, appealing to geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Silicon_Oxycarbide_in_Exoplanets.png "An artistic illustration of a rocky exoplanet featuring Silicon Oxycarbide formations, highlighting the mineral's potential presence in extraterrestrial geology. The vibrant landscape showcases diverse geological features, appealing to geology enthusiasts and educators.")
 
 ## Introduction
 

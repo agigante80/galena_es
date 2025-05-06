@@ -2,12 +2,12 @@
 layout: post
 title: "Unraveling the Mysteries of Jeremejevite"
 subtitle: "A comprehensive exploration of the unique properties of the rare mineral, Jeremejevite"
-excerpt_image: https://galena.es/assets/images/Properties_of_Jeremejevite.png
+excerpt_image: https://www.galena.es/assets/images/Properties_of_Jeremejevite.png
 categories: [Minerals, Earth Sciences]
 tags: [Jeremejevite, Mineralogy, Gemstones, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Properties_of_Jeremejevite.png ""Close-up image of a transparent Jeremejevite crystal, showcasing its unique hexagonal shape and blue hue, with a backdrop of mineral specimens, highlighting its chemical and physical properties for geology enthusiasts."")
+![banner](https://www.galena.es/assets/images/Properties_of_Jeremejevite.png ""Close-up image of a transparent Jeremejevite crystal, showcasing its unique hexagonal shape and blue hue, with a backdrop of mineral specimens, highlighting its chemical and physical properties for geology enthusiasts."")
 
 ## Introduction
 

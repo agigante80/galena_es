@@ -2,12 +2,12 @@
 layout: post
 title: "Health Aspects of Working with Galena"
 subtitle: "Unveiling the health risks associated with handling and processing Galena, a vital mineral in our everyday life."
-excerpt_image: https://galena.es/assets/images/Health_Aspects_of_Working_with_Galena.png
+excerpt_image: https://www.galena.es/assets/images/Health_Aspects_of_Working_with_Galena.png
 categories: [Health & Safety, Mineralogy]
 tags: [Galena, Health Risks, Lead Poisoning, Safety Measures]
 ---
 
-![banner](https://galena.es/assets/images/Health_Aspects_of_Working_with_Galena.png "Image illustrating the health risks associated with handling Galena, emphasizing safety precautions and the potential dangers of lead exposure, with a focus on proper safety measures in mining and processing.")
+![banner](https://www.galena.es/assets/images/Health_Aspects_of_Working_with_Galena.png "Image illustrating the health risks associated with handling Galena, emphasizing safety precautions and the potential dangers of lead exposure, with a focus on proper safety measures in mining and processing.")
 
 # Health Aspects of Working with Galena
 

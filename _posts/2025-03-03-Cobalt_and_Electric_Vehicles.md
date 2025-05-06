@@ -2,11 +2,11 @@
 layout: post
 title: "Cobalt: The Unseen Hero in Electric Vehicles"
 subtitle: "Exploring the pivotal role of cobalt in the emerging world of electric vehicles and renewable energy."
-excerpt_image: https://galena.es/assets/images/Cobalt_and_Electric_Vehicles.png
+excerpt_image: https://www.galena.es/assets/images/Cobalt_and_Electric_Vehicles.png
 categories: [Energy, Minerals]
 tags: [Electric Vehicles, Cobalt Mining, Renewable Energy, Geology]
 ---
-![banner](https://galena.es/assets/images/Cobalt_and_Electric_Vehicles.png "Illustration highlighting cobalt's role in electric vehicles, featuring mining operations, cobalt processing, and its use in lithium-ion batteries for sustainable transportation.")
+![banner](https://www.galena.es/assets/images/Cobalt_and_Electric_Vehicles.png "Illustration highlighting cobalt's role in electric vehicles, featuring mining operations, cobalt processing, and its use in lithium-ion batteries for sustainable transportation.")
 
 # Introduction
 

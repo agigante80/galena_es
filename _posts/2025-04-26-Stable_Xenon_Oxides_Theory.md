@@ -2,12 +2,12 @@
 layout: post
 title: "Unraveling the Mysteries of Stable Xenon Oxides"
 subtitle: "A deep dive into the lab-based predictions of Stable Xenon Oxides, a subject of immense research in the realm of mineralogy."
-excerpt_image: https://galena.es/assets/images/Stable_Xenon_Oxides_Theory.png
+excerpt_image: https://www.galena.es/assets/images/Stable_Xenon_Oxides_Theory.png
 categories: [Mineralogy, Earth Sciences]
 tags: [Xenon Oxides, Geology, Laboratory Predictions, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Stable_Xenon_Oxides_Theory.png "Illustration of stable xenon oxides in a laboratory setting, featuring chemical structures and mineral samples, highlighting predictions and research related to their properties and potential applications in geology and earth sciences.")
+![banner](https://www.galena.es/assets/images/Stable_Xenon_Oxides_Theory.png "Illustration of stable xenon oxides in a laboratory setting, featuring chemical structures and mineral samples, highlighting predictions and research related to their properties and potential applications in geology and earth sciences.")
 
 ## Introduction
 

@@ -2,11 +2,11 @@
 layout: post
 title: "Unveiling the Mysteries of Osmium in Alloys"
 subtitle: "A deep dive into the world of osmium and its role in alloy creation."
-excerpt_image: https://galena.es/assets/images/Osmium_in_Alloys.png
+excerpt_image: https://www.galena.es/assets/images/Osmium_in_Alloys.png
 categories: [Earth Sciences, Material Sciences]
 tags: [Osmium, Alloys, Metallurgy, Geology]
 ---
-![banner](https://galena.es/assets/images/Osmium_in_Alloys.png "Image exploring the role of osmium in the creation of alloys, highlighting its unique properties and importance in metallurgy and material science.")
+![banner](https://www.galena.es/assets/images/Osmium_in_Alloys.png "Image exploring the role of osmium in the creation of alloys, highlighting its unique properties and importance in metallurgy and material science.")
 
 # Introduction
 

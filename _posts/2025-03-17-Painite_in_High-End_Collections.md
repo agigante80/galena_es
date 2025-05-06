@@ -2,12 +2,12 @@
 layout: post
 title: "The Allure of Painite in High-End Collections"
 subtitle: "Exploring the assessment and valuation of the rare gemstone, Painite, in luxury mineral collections."
-excerpt_image: https://galena.es/assets/images/Painite_in_High-End_Collections.png
+excerpt_image: https://www.galena.es/assets/images/Painite_in_High-End_Collections.png
 categories: [Mineralogy, Collections]
 tags: [Painite, Valuation, Rare Gemstones, Collections]
 ---
 
-![banner](https://galena.es/assets/images/Painite_in_High-End_Collections.png "A close-up image of a rare Painite specimen displayed in a luxurious collection, highlighting its unique crystal structure and rich color, with a soft-focus background featuring geological tools and reference books for mineral assessment.")
+![banner](https://www.galena.es/assets/images/Painite_in_High-End_Collections.png "A close-up image of a rare Painite specimen displayed in a luxurious collection, highlighting its unique crystal structure and rich color, with a soft-focus background featuring geological tools and reference books for mineral assessment.")
 
 # The Allure of Painite in High-End Collections
 
@@ -41,7 +41,7 @@ These factors culminate in the overall quality and appeal of the specimen, influ
 
 As British mineralogist Sir Arthur Smith once said, "The value of a gemstone lies not in its physical properties but in the joy it brings to its possessor." This sentiment rings especially true for Painite collectors, who derive immense satisfaction from owning one of the rarest minerals on Earth.
 
-![Painite](https://galena.es/assets/images/Painite_in_High-End_Collections.png "A stunning specimen of Painite, its reddish-brown crystals catching the light to reveal their rich color and intricate structure.")
+![Painite](https://www.galena.es/assets/images/Painite_in_High-End_Collections.png "A stunning specimen of Painite, its reddish-brown crystals catching the light to reveal their rich color and intricate structure.")
 
 ## The Market for Painite
 

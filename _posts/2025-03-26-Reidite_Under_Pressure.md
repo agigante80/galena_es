@@ -2,12 +2,12 @@
 layout: post
 title: "Reidite Under Pressure: A Mineral's Transformation"
 subtitle: "Unveiling the process and significance of Reidite's formation under extreme pressure conditions."
-excerpt_image: https://galena.es/assets/images/Reidite_Under_Pressure.png
+excerpt_image: https://www.galena.es/assets/images/Reidite_Under_Pressure.png
 categories: [Mineralogy, Geophysics]
 tags: [Reidite, High Pressure, Mineral Transformation, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Reidite_Under_Pressure.png)
+![banner](https://www.galena.es/assets/images/Reidite_Under_Pressure.png)
 
 # Reidite Under Pressure: A Mineral's Transformation
 

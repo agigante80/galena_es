@@ -2,11 +2,11 @@
 layout: post
 title: "The Art and Science of Quarrying Granite"
 subtitle: "Dive into the fascinating world of granite quarrying and uncover the processes that transform raw stone into polished beauty."
-excerpt_image: https://galena.es/assets/images/Quarrying_Granite.png
+excerpt_image: https://www.galena.es/assets/images/Quarrying_Granite.png
 categories: [Geology, Mining]
 tags: [Granite, Quarrying, Stone cutting, Earth Science]
 ---
-![banner](https://galena.es/assets/images/Quarrying_Granite.png "Image depicting the quarrying of granite, showcasing large granite blocks, extraction equipment, and the rugged terrain of a granite quarry, emphasizing its use in construction and architecture.")
+![banner](https://www.galena.es/assets/images/Quarrying_Granite.png "Image depicting the quarrying of granite, showcasing large granite blocks, extraction equipment, and the rugged terrain of a granite quarry, emphasizing its use in construction and architecture.")
 
 # Introduction
 

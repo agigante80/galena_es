@@ -2,12 +2,12 @@
 layout: post
 title: "Diamonds: The Quantum Computing Gem"
 subtitle: "Unveiling the unique utilization of diamonds in the realm of quantum computing." 
-excerpt_image: https://galena.es/assets/images/Diamonds_in_Quantum_Computing.png
+excerpt_image: https://www.galena.es/assets/images/Diamonds_in_Quantum_Computing.png
 categories: [Quantum Computing, Geology]
 tags: [diamonds, quantum computing, geology, technology]
 ---
 
-![banner](https://galena.es/assets/images/Diamonds_in_Quantum_Computing.png)
+![banner](https://www.galena.es/assets/images/Diamonds_in_Quantum_Computing.png)
 
 ## Introduction
 

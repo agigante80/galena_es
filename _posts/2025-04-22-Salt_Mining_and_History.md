@@ -2,12 +2,12 @@
 layout: post
 title: "Salt Mining: A Journey Through History"
 subtitle: "Explore the captivating history and fascinating techniques of salt mining across the globe."
-excerpt_image: https://galena.es/assets/images/Salt_Mining_and_History.png
+excerpt_image: https://www.galena.es/assets/images/Salt_Mining_and_History.png
 categories: [Mining, History]
 tags: [Salt, Mining, History, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Salt_Mining_and_History.png "An infographic illustrating the history and techniques of salt mining around the world, featuring images of ancient salt mines, traditional mining tools, and modern extraction methods, highlighting the significance of salt in various cultures and economies.")
+![banner](https://www.galena.es/assets/images/Salt_Mining_and_History.png "An infographic illustrating the history and techniques of salt mining around the world, featuring images of ancient salt mines, traditional mining tools, and modern extraction methods, highlighting the significance of salt in various cultures and economies.")
 
 # Introduction
 

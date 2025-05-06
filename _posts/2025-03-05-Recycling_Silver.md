@@ -2,12 +2,12 @@
 layout: post
 title: "The Silver Lining: Unearthing the Value in Silver Recycling"
 subtitle: "Unveiling the intricate processes and immense benefits of recycling silver from discarded products."
-excerpt_image: https://galena.es/assets/images/Recycling_Silver.png
+excerpt_image: https://www.galena.es/assets/images/Recycling_Silver.png
 categories: [Recycling, Earth Sciences]
 tags: [silver recycling, mining, sustainable practices, waste management]
 ---
 
-![banner](https://galena.es/assets/images/Recycling_Silver.png "Image highlighting the intricate processes involved in silver recycling, showcasing the environmental and economic benefits of recycling silver from discarded products and its role in sustainable practices.")
+![banner](https://www.galena.es/assets/images/Recycling_Silver.png "Image highlighting the intricate processes involved in silver recycling, showcasing the environmental and economic benefits of recycling silver from discarded products and its role in sustainable practices.")
 
 # Introduction
 

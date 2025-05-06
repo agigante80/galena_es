@@ -2,12 +2,12 @@
 layout: post
 title: "Innovative Recovery Techniques for Galena"
 subtitle: "Exploring new, efficient ways to mine and process Galena for maximum yield"
-excerpt_image: https://galena.es/assets/images/Innovative_Recovery_Techniques_for_Galena.png
+excerpt_image: https://www.galena.es/assets/images/Innovative_Recovery_Techniques_for_Galena.png
 categories: [Mining Techniques, Mineral Processing]
 tags: [Galena, Mining, Recovery Techniques, Innovation]
 ---
 
-![banner](https://galena.es/assets/images/Innovative_Recovery_Techniques_for_Galena.png "Image depicting innovative recovery techniques for Galena, illustrating advanced methods for efficiently mining and processing the mineral to maximize yield and optimize resource extraction.")
+![banner](https://www.galena.es/assets/images/Innovative_Recovery_Techniques_for_Galena.png "Image depicting innovative recovery techniques for Galena, illustrating advanced methods for efficiently mining and processing the mineral to maximize yield and optimize resource extraction.")
 
 # Introduction
 

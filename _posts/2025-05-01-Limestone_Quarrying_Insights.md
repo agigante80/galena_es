@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Secrets of Limestone Quarrying"
 subtitle: "An in-depth look into the fascinating world of limestone mining, exploring its techniques and impacts."
-excerpt_image: https://galena.es/assets/images/Limestone_Quarrying_Insights.png
+excerpt_image: https://www.galena.es/assets/images/Limestone_Quarrying_Insights.png
 categories: [Geology, Mining]
 tags: [Limestone Quarrying, Mining Techniques, Earth Science, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Limestone_Quarrying_Insights.png)
+![banner](https://www.galena.es/assets/images/Limestone_Quarrying_Insights.png)
 
 # Introduction
 

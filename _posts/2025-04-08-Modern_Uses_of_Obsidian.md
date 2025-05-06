@@ -2,12 +2,12 @@
 layout: post
 title: "Modern Uses of Obsidian: Unearthing Its Contemporary Appeal"
 subtitle: "Explore the fascinating ways obsidian, a striking volcanic glass, is utilized in modern jewelry and decor."
-excerpt_image: https://galena.es/assets/images/Modern_Uses_of_Obsidian.png
+excerpt_image: https://www.galena.es/assets/images/Modern_Uses_of_Obsidian.png
 categories: [Mineralogy, Decor]
 tags: [Obsidian, Jewelry, Home Decor, Volcanic Glass]
 ---
 
-![banner](https://galena.es/assets/images/Modern_Uses_of_Obsidian.png "A stunning display of modern jewelry and decorative items made from polished obsidian, showcasing its unique glassy texture and rich black color, highlighting contemporary uses of this volcanic glass in fashion and home decor.")
+![banner](https://www.galena.es/assets/images/Modern_Uses_of_Obsidian.png "A stunning display of modern jewelry and decorative items made from polished obsidian, showcasing its unique glassy texture and rich black color, highlighting contemporary uses of this volcanic glass in fashion and home decor.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Unraveling the Mysteries: The Geological Formation of Redledgeite"
 subtitle: "A comprehensive exploration of the unique environmental conditions that shape Redledgeite's formation."
-excerpt_image: https://galena.es/assets/images/The_Geological_Formation_of_Redledgeite.png
+excerpt_image: https://www.galena.es/assets/images/The_Geological_Formation_of_Redledgeite.png
 categories: [Geology, Mineralogy]
 tags: [Redledgeite, Geological Formation, Earth Sciences, Mineral Interactions]
 ---
 
-![banner](https://galena.es/assets/images/The_Geological_Formation_of_Redledgeite.png "Illustration depicting the geological formation of Redledgeite, showcasing unique environmental conditions such as volcanic activity and mineral interactions that contribute to its development.")
+![banner](https://www.galena.es/assets/images/The_Geological_Formation_of_Redledgeite.png "Illustration depicting the geological formation of Redledgeite, showcasing unique environmental conditions such as volcanic activity and mineral interactions that contribute to its development.")
 
 ## Introduction
 

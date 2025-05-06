@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Secrets of Feldspar Mining"
 subtitle: "Exploring the innovative techniques and methods employed in the extraction of one of Earth's most abundant minerals - Feldspar."
-excerpt_image: https://galena.es/assets/images/Feldspar_Mining_Techniques.png
+excerpt_image: https://www.galena.es/assets/images/Feldspar_Mining_Techniques.png
 categories: [Mining Techniques, Geology]
 tags: [Feldspar, Mining Methods, Earth Science, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Feldspar_Mining_Techniques.png "An infographic illustrating various feldspar mining techniques, including open-pit mining, selective mining, and underground methods, with labeled diagrams and images showcasing equipment and processes used in the extraction of this important mineral.")
+![banner](https://www.galena.es/assets/images/Feldspar_Mining_Techniques.png "An infographic illustrating various feldspar mining techniques, including open-pit mining, selective mining, and underground methods, with labeled diagrams and images showcasing equipment and processes used in the extraction of this important mineral.")
 
 # Introduction
 

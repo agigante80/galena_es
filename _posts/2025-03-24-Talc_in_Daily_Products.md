@@ -2,12 +2,12 @@
 layout: post
 title: "Talc: The Hidden Mineral in Your Daily Products"
 subtitle: "Exploring the widespread use of talc, from cosmetics to baby powder, and its impact on our daily lives."
-excerpt_image: https://galena.es/assets/images/Talc_in_Daily_Products.png
+excerpt_image: https://www.galena.es/assets/images/Talc_in_Daily_Products.png
 categories: [Minerals, Consumer Goods]
 tags: [Talc, Cosmetics, Baby Powder, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Talc_in_Daily_Products.png "An array of daily products containing talc, including cosmetics, baby powder, and personal care items, highlighting the mineral's versatility and common use in consumer goods.")
+![banner](https://www.galena.es/assets/images/Talc_in_Daily_Products.png "An array of daily products containing talc, including cosmetics, baby powder, and personal care items, highlighting the mineral's versatility and common use in consumer goods.")
 
 # Introduction
 

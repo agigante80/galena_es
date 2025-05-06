@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling Global Vanadium Sources: An In-depth Study"
 subtitle: "An exploration into the world's vanadium sources, their significance, and market implications."
-excerpt_image: https://galena.es/assets/images/Global_Vanadium_Sources.png
+excerpt_image: https://www.galena.es/assets/images/Global_Vanadium_Sources.png
 categories: [Minerals, Market Analysis]
 tags: [Vanadium, Mining, Geology, Market Implications]
 ---
 
-![banner](https://galena.es/assets/images/Global_Vanadium_Sources.png "Map highlighting global vanadium mining locations, showcasing major producing countries and regions, with annotations on market implications and mineral significance for geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Global_Vanadium_Sources.png "Map highlighting global vanadium mining locations, showcasing major producing countries and regions, with annotations on market implications and mineral significance for geology enthusiasts and educators.")
 
 # Introduction
 

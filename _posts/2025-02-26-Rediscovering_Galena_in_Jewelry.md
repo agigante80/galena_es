@@ -2,12 +2,12 @@
 layout: post
 title: "Rediscovering Galena in Modern Jewelry"
 subtitle: "Explore the rise of Galena, a unique mineral, in the realm of contemporary jewelry design."
-excerpt_image: https://galena.es/assets/images/Rediscovering_Galena_in_Jewelry.png
+excerpt_image: https://www.galena.es/assets/images/Rediscovering_Galena_in_Jewelry.png
 categories: [Jewelry Trends, Mineralogy]
 tags: [Galena, jewelry design, mineral trends, earth science]
 ---
 
-![banner](https://galena.es/assets/images/Rediscovering_Galena_in_Jewelry.png "Image showcasing the use of Galena in contemporary jewelry design, highlighting its unique mineral characteristics and rising trend in the fashion industry for statement pieces.")
+![banner](https://www.galena.es/assets/images/Rediscovering_Galena_in_Jewelry.png "Image showcasing the use of Galena in contemporary jewelry design, highlighting its unique mineral characteristics and rising trend in the fashion industry for statement pieces.")
 
 # Rediscovering Galena in Modern Jewelry
 

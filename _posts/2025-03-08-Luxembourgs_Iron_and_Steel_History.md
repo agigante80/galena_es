@@ -2,12 +2,12 @@
 layout: post
 title: "Luxembourg's Iron and Steel Legacy"
 subtitle: "An in-depth exploration of iron and steel production's pivotal role in shaping Luxembourg's industrial history."
-excerpt_image: https://galena.es/assets/images/Luxembourgs_Iron_and_Steel_History.png
+excerpt_image: https://www.galena.es/assets/images/Luxembourgs_Iron_and_Steel_History.png
 categories: [Mining History, European Geology]
 tags: [Luxembourg, Iron and Steel, Industrial History, Metallurgy]
 ---
 
-![banner](https://galena.es/assets/images/Luxembourgs_Iron_and_Steel_History.png "Historical photograph showcasing Luxembourg's iron and steel production, featuring workers in a steel mill surrounded by machinery and raw materials, highlighting the significance of mining and metallurgy in the country's industrial heritage.")
+![banner](https://www.galena.es/assets/images/Luxembourgs_Iron_and_Steel_History.png "Historical photograph showcasing Luxembourg's iron and steel production, featuring workers in a steel mill surrounded by machinery and raw materials, highlighting the significance of mining and metallurgy in the country's industrial heritage.")
 
 ## Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring the Elusive World of Taaffeite Gems"
 subtitle: "Unravel the rarity of Taaffeite, one of the most scarce and desirable gems on our planet."
-excerpt_image: https://galena.es/assets/images/Understanding_Taaffeite_Rarity.png
+excerpt_image: https://www.galena.es/assets/images/Understanding_Taaffeite_Rarity.png
 categories: [Minerals, Gemstones]
 tags: [taaffeite, gemstone rarity, earth sciences, geology]
 ---
 
-![banner](https://galena.es/assets/images/Understanding_Taaffeite_Rarity.png "An informative infographic illustrating the rarity of Taaffeite gemstones, featuring key factors such as geological formation, mining challenges, and market demand, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Understanding_Taaffeite_Rarity.png "An informative infographic illustrating the rarity of Taaffeite gemstones, featuring key factors such as geological formation, mining challenges, and market demand, aimed at geology enthusiasts and educators.")
 
 # Introduction
 

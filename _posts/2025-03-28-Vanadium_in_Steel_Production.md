@@ -2,12 +2,12 @@
 layout: post
 title: "Vanadium: The Unsung Hero in Steel Production"
 subtitle: "An exploration into the vital role of vanadium in enhancing the strength and durability of steel."
-excerpt_image: https://galena.es/assets/images/Vanadium_in_Steel_Production.png
+excerpt_image: https://www.galena.es/assets/images/Vanadium_in_Steel_Production.png
 categories: [Metallurgy, Geology]
 tags: [Vanadium, Steel Production, Metal Alloys, Mining]
 ---
 
-![banner](https://galena.es/assets/images/Vanadium_in_Steel_Production.png "Illustration depicting the role of vanadium in steel production, highlighting its impact on enhancing strength and durability in steel alloys, with visual elements representing minerals and mining.")
+![banner](https://www.galena.es/assets/images/Vanadium_in_Steel_Production.png "Illustration depicting the role of vanadium in steel production, highlighting its impact on enhancing strength and durability in steel alloys, with visual elements representing minerals and mining.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring the World of Feldspar: Varieties and Uses"
 subtitle: "A comprehensive guide to understanding the diverse types of feldspar and their unique applications."
-excerpt_image: https://galena.es/assets/images/Feldspar_Varieties_and_Uses.png
+excerpt_image: https://www.galena.es/assets/images/Feldspar_Varieties_and_Uses.png
 categories: [Mineralogy, Industry Applications]
 tags: [Feldspar, Geology, Mineral Uses, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Feldspar_Varieties_and_Uses.png ""A detailed infographic showcasing various types of feldspar minerals, including orthoclase, plagioclase, and microcline, along with their unique applications in industries such as ceramics, glassmaking, and electronics."")
+![banner](https://www.galena.es/assets/images/Feldspar_Varieties_and_Uses.png ""A detailed infographic showcasing various types of feldspar minerals, including orthoclase, plagioclase, and microcline, along with their unique applications in industries such as ceramics, glassmaking, and electronics."")
 
 # Introduction
 

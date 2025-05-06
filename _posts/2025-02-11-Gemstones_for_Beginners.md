@@ -2,12 +2,12 @@
 layout: post
 title: "Gemstones for Beginners: A Starter Guide"
 subtitle: "A simple guide to understanding and appreciating the fascinating world of gemstones."
-excerpt_image: https://galena.es/assets/images/Gemstones_for_Beginners.png
+excerpt_image: https://www.galena.es/assets/images/Gemstones_for_Beginners.png
 categories: [Geology, Earth Science]
 tags: [gemstones, geology, earth science, minerals]
 ---
 
-![banner](https://galena.es/assets/images/Gemstones_for_Beginners.png "Image providing an introductory guide to gemstones, offering a simple and accessible overview of their fascinating world, from geology to appreciation in earth sciences.")
+![banner](https://www.galena.es/assets/images/Gemstones_for_Beginners.png "Image providing an introductory guide to gemstones, offering a simple and accessible overview of their fascinating world, from geology to appreciation in earth sciences.")
 
 # Introduction
 

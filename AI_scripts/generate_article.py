@@ -59,7 +59,7 @@ AI_ARTICLES_DIRECTORY = "_posts/"
 LOG_FULL_PATH = ""
 
 # Settting the variables for the website
-WEBSITE = "https://galena.es/"
+WEBSITE = "https://www.galena.es/"
 
 # Set up logging.
 # The logging configuration checks if LOG_FULL_PATH is set. 

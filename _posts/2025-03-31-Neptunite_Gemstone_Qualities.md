@@ -2,12 +2,12 @@
 layout: post
 title: "Unraveling the Mystique: Neptunite Gemstone Qualities"
 subtitle: "A deep dive into the unique aesthetic appeal and geological qualities of the Neptunite gemstone."
-excerpt_image: https://galena.es/assets/images/Neptunite_Gemstone_Qualities.png
+excerpt_image: https://www.galena.es/assets/images/Neptunite_Gemstone_Qualities.png
 categories: [Gemstones, Mineralogy]
 tags: [Neptunite, Gemstones, Geology, Mineralogy]
 ---
 
-![banner](https://galena.es/assets/images/Neptunite_Gemstone_Qualities.png "Close-up image of a vibrant Neptunite gemstone, showcasing its rich black and deep red colors, with intricate crystal formations that highlight its unique aesthetic appeal and geological qualities.")
+![banner](https://www.galena.es/assets/images/Neptunite_Gemstone_Qualities.png "Close-up image of a vibrant Neptunite gemstone, showcasing its rich black and deep red colors, with intricate crystal formations that highlight its unique aesthetic appeal and geological qualities.")
 
 # Introduction
 

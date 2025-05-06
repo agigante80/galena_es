@@ -2,12 +2,12 @@
 layout: post
 title: "Lithium Battery Revolution: Powering the Future"
 subtitle: "Uncover how lithium, a simple yet powerful mineral, is fueling the revolution in battery technology."
-excerpt_image: https://galena.es/assets/images/Lithium_Battery_Revolution.png
+excerpt_image: https://www.galena.es/assets/images/Lithium_Battery_Revolution.png
 categories: [Technology, Geology]
 tags: [lithium, battery technology, mining, energy storage]
 ---
 
-![banner](https://galena.es/assets/images/Lithium_Battery_Revolution.png "An infographic illustrating the role of lithium in modern battery technology, featuring images of lithium minerals, battery components, and statistics on energy storage advancements.")
+![banner](https://www.galena.es/assets/images/Lithium_Battery_Revolution.png "An infographic illustrating the role of lithium in modern battery technology, featuring images of lithium minerals, battery components, and statistics on energy storage advancements.")
 
 # Introduction
 

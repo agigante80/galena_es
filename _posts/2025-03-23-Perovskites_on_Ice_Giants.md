@@ -2,12 +2,12 @@
 layout: post
 title: "Perovskites: Possibilities on Ice Giants"
 subtitle: "Speculating the existence of perovskites within the icy atmospheres of Uranus and Neptune."
-excerpt_image: https://galena.es/assets/images/Perovskites_on_Ice_Giants.png
+excerpt_image: https://www.galena.es/assets/images/Perovskites_on_Ice_Giants.png
 categories: [Space Geology, Mineralogy]
 tags: [Perovskites, Ice Giants, Uranus, Neptune]
 ---
 
-![banner](https://galena.es/assets/images/Perovskites_on_Ice_Giants.png "An artistic illustration depicting the icy atmospheres of Uranus and Neptune, with crystalline structures of perovskites forming within the clouds, highlighting the potential for these minerals to exist on ice giant planets.")
+![banner](https://www.galena.es/assets/images/Perovskites_on_Ice_Giants.png "An artistic illustration depicting the icy atmospheres of Uranus and Neptune, with crystalline structures of perovskites forming within the clouds, highlighting the potential for these minerals to exist on ice giant planets.")
 
 ## Introduction
 

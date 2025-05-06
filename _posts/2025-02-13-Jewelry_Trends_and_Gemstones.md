@@ -2,11 +2,11 @@
 layout: post
 title: "Exploring Contemporary Jewelry Trends and Gemstones"
 subtitle: "Unveiling the modern allure of gemstones in the evolving world of jewelry trends."
-excerpt_image: https://galena.es/assets/images/Jewelry_Trends_and_Gemstones.png
+excerpt_image: https://www.galena.es/assets/images/Jewelry_Trends_and_Gemstones.png
 categories: [Jewelry Trends, Gemstones]
 tags: [Trends, Gemstones, Fashion, Jewelry]
 ---
-![banner](https://galena.es/assets/images/Jewelry_Trends_and_Gemstones.png "Image showcasing contemporary jewelry trends, highlighting the modern allure and evolving role of gemstones in fashion and jewelry design.")
+![banner](https://www.galena.es/assets/images/Jewelry_Trends_and_Gemstones.png "Image showcasing contemporary jewelry trends, highlighting the modern allure and evolving role of gemstones in fashion and jewelry design.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Unraveling the Mysteries of Mendeleevite-(Ce)"
 subtitle: "Discover the unique features, formation, and rare characteristics of the mineral Mendeleevite-(Ce)."
-excerpt_image: https://galena.es/assets/images/Mendeleevite-(Ce)_Rare_Characteristics.png
+excerpt_image: https://www.galena.es/assets/images/Mendeleevite-(Ce)_Rare_Characteristics.png
 categories: [Mineralogy, Earth Sciences]
 tags: [Mendeleevite-(Ce), Rare Minerals, Geology, Mineral Formation]
 ---
 
-![banner](https://galena.es/assets/images/Mendeleevite-(Ce)_Rare_Characteristics.png "Close-up image of Mendeleevite-(Ce), showcasing its distinct crystal structure and vibrant colors, highlighting the rare characteristics and formation processes of this unique mineral.")
+![banner](https://www.galena.es/assets/images/Mendeleevite-(Ce)_Rare_Characteristics.png "Close-up image of Mendeleevite-(Ce), showcasing its distinct crystal structure and vibrant colors, highlighting the rare characteristics and formation processes of this unique mineral.")
 
 ## Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring the Geological Sources of Hatrurite"
 subtitle: "Unearth the origins of the rare mineral Hatrurite and discover its unique geological sources."
-excerpt_image: https://galena.es/assets/images/Geological_Sources_of_Hatrurite.png
+excerpt_image: https://www.galena.es/assets/images/Geological_Sources_of_Hatrurite.png
 categories: [minerals, geology]
 tags: [hatrurite, mineral-formation, earth-science, geology]
 ---
 
-![banner](https://galena.es/assets/images/Geological_Sources_of_Hatrurite.png "Geological map highlighting the primary sources of Hatrurite, featuring labeled locations and mineral formations, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Geological_Sources_of_Hatrurite.png "Geological map highlighting the primary sources of Hatrurite, featuring labeled locations and mineral formations, aimed at geology enthusiasts and educators.")
 
 # Introduction
 

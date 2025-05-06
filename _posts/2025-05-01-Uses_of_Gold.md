@@ -2,12 +2,12 @@
 layout: post
 title: "Diverse Uses of Gold: Beyond Jewelry and Wealth"
 subtitle: "Exploring the multifaceted applications of gold in technology, industry, and adornment."
-excerpt_image: https://galena.es/assets/images/Uses_of_Gold.png
+excerpt_image: https://www.galena.es/assets/images/Uses_of_Gold.png
 categories: [Geology, Technology]
 tags: [Gold, Uses of Gold, Gold in Technology, Gold Jewelry]
 ---
 
-![banner](https://galena.es/assets/images/Uses_of_Gold.png "A collage showcasing the diverse uses of gold, featuring high-tech electronics, intricate jewelry pieces, and gold in industrial applications, highlighting its significance in technology and adornment.")
+![banner](https://www.galena.es/assets/images/Uses_of_Gold.png "A collage showcasing the diverse uses of gold, featuring high-tech electronics, intricate jewelry pieces, and gold in industrial applications, highlighting its significance in technology and adornment.")
 
 # Introduction
 

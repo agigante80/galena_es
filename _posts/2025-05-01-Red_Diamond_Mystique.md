@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring the Rare Mystique of Red Diamonds"
 subtitle: "Dive into the world of Red Diamonds, the rarest and most fascinating gemstones on Earth."
-excerpt_image: https://galena.es/assets/images/Red_Diamond_Mystique.png
+excerpt_image: https://www.galena.es/assets/images/Red_Diamond_Mystique.png
 categories: [Geology, Gemstones]
 tags: [Red Diamonds, Gemstones, Mining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Red_Diamond_Mystique.png "Close-up of a stunning red diamond, showcasing its deep crimson hues and brilliant facets, symbolizing the rarity and allure of these precious gemstones in the world of geology and mining.")
+![banner](https://www.galena.es/assets/images/Red_Diamond_Mystique.png "Close-up of a stunning red diamond, showcasing its deep crimson hues and brilliant facets, symbolizing the rarity and allure of these precious gemstones in the world of geology and mining.")
 
 # Introduction
 

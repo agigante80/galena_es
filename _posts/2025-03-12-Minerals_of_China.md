@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Mineral Treasures of China"
 subtitle: "A deep dive into the rich mineral resources shaping China's economic growth"
-excerpt_image: https://galena.es/assets/images/Minerals_of_China.png
+excerpt_image: https://www.galena.es/assets/images/Minerals_of_China.png
 categories: [Geology, Economy]
 tags: [Minerals, China, Economic Growth, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Minerals_of_China.png "A vibrant landscape showcasing various mineral deposits in China, highlighting the country's rich geological diversity and its significant role in global economic growth through mining and mineral resources.")
+![banner](https://www.galena.es/assets/images/Minerals_of_China.png "A vibrant landscape showcasing various mineral deposits in China, highlighting the country's rich geological diversity and its significant role in global economic growth through mining and mineral resources.")
 
 # Introduction
 

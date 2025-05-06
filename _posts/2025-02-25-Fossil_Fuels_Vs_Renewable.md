@@ -2,12 +2,12 @@
 layout: post
 title: "Fossil Fuels Vs Renewable Energy: A Mining Perspective"
 subtitle: "Exploring the ongoing debate over fossil fuels and renewable energy sources within the context of mining."
-excerpt_image: https://galena.es/assets/images/Fossil_Fuels_Vs_Renewable.png
+excerpt_image: https://www.galena.es/assets/images/Fossil_Fuels_Vs_Renewable.png
 categories: [Energy, Mining]
 tags: [Fossil Fuels, Renewable Energy, Mining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Fossil_Fuels_Vs_Renewable.png "Image contrasting fossil fuels and renewable energy sources from a mining perspective, highlighting the debate over their environmental impact, resource extraction, and the role of geology in shaping energy trends.")
+![banner](https://www.galena.es/assets/images/Fossil_Fuels_Vs_Renewable.png "Image contrasting fossil fuels and renewable energy sources from a mining perspective, highlighting the debate over their environmental impact, resource extraction, and the role of geology in shaping energy trends.")
 
 # Introduction
 

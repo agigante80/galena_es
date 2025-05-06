@@ -2,12 +2,12 @@
 layout: post
 title: "Obsidian in Ancient Tools: A Geological Marvel"
 subtitle: "Unravel the mysteries of ancient civilizations in the light of their use of obsidian, a volcanic glass with exceptional properties."
-excerpt_image: https://galena.es/assets/images/Obsidian_in_Ancient_Tools.png
+excerpt_image: https://www.galena.es/assets/images/Obsidian_in_Ancient_Tools.png
 categories: [History, Geology]
 tags: [Obsidian, Ancient Tools, Cutting Tools, Volcanic Glass]
 ---
 
-![banner](https://galena.es/assets/images/Obsidian_in_Ancient_Tools.png "An ancient obsidian cutting tool displayed alongside a geological map, illustrating the historical use of obsidian in tool-making. The sharp edges of the tool highlight its effectiveness for cutting, appealing to geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Obsidian_in_Ancient_Tools.png "An ancient obsidian cutting tool displayed alongside a geological map, illustrating the historical use of obsidian in tool-making. The sharp edges of the tool highlight its effectiveness for cutting, appealing to geology enthusiasts and educators.")
 
 # Introduction
 

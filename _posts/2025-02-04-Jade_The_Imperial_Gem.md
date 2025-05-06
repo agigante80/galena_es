@@ -2,12 +2,12 @@
 layout: post
 title: "Jade The Imperial Gem"
 subtitle: "A journey through the rich cultural history and significance of jade in the world of gemstones."
-excerpt_image: https://galena.es/assets/images/Jade_The_Imperial_Gem.png
+excerpt_image: https://www.galena.es/assets/images/Jade_The_Imperial_Gem.png
 categories: [Gemstones, History]
 tags: [Jade, Imperial Gem, Mineralogy, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Jade_The_Imperial_Gem.png "Image showcasing the rich cultural history and significance of jade, highlighting its status as the 'imperial gem' and its importance in gemstone history and mineralogy.")
+![banner](https://www.galena.es/assets/images/Jade_The_Imperial_Gem.png "Image showcasing the rich cultural history and significance of jade, highlighting its status as the 'imperial gem' and its importance in gemstone history and mineralogy.")
 
 # Introduction
 

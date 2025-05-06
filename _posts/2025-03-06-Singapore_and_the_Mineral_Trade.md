@@ -2,12 +2,12 @@
 layout: post
 title: "Singapore: A Linchpin in the Global Mineral Trade"
 subtitle: "Uncover how the tiny nation of Singapore has become a significant player in the world's mineral trade."
-excerpt_image: https://galena.es/assets/images/Singapore_and_the_Mineral_Trade.png
+excerpt_image: https://www.galena.es/assets/images/Singapore_and_the_Mineral_Trade.png
 categories: [Mineral Trade, Global Economy]
 tags: [Singapore, Mineral Trade, Economics, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Singapore_and_the_Mineral_Trade.png "Image highlighting Singapore's role as a key player in the global mineral trade, showcasing its strategic position and significance in the world economy and mineral trade sector.")
+![banner](https://www.galena.es/assets/images/Singapore_and_the_Mineral_Trade.png "Image highlighting Singapore's role as a key player in the global mineral trade, showcasing its strategic position and significance in the world economy and mineral trade sector.")
 
 # Introduction
 Nestled in Southeast Asia, Singapore may be small, but its influence in the global mineral trade is anything but. This article delves into how the city-state strategically positioned itself as a trade hub, linking mineral-rich countries with global markets.

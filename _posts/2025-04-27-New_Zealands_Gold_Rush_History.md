@@ -2,12 +2,12 @@
 layout: post
 title: "Uncovering New Zealand's Glittering Past: The Gold Rush Era"
 subtitle: "Exploring the rich and riveting history of New Zealand’s gold rush era, a pivotal period in the nation's geological and cultural history."
-excerpt_image: https://galena.es/assets/images/New_Zealands_Gold_Rush_History.png
+excerpt_image: https://www.galena.es/assets/images/New_Zealands_Gold_Rush_History.png
 categories: [History, Geology]
 tags: [New Zealand, Gold Rush, Mining, Minerals]
 ---
 
-![banner](https://galena.es/assets/images/New_Zealands_Gold_Rush_History.png ""Historical photograph of miners working in a New Zealand goldfield during the 19th century, showcasing the rugged landscape and mining equipment, highlighting the significance of the gold rush era in the country's geological history."")
+![banner](https://www.galena.es/assets/images/New_Zealands_Gold_Rush_History.png ""Historical photograph of miners working in a New Zealand goldfield during the 19th century, showcasing the rugged landscape and mining equipment, highlighting the significance of the gold rush era in the country's geological history."")
 
 ## Introduction
 

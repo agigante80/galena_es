@@ -2,12 +2,12 @@
 layout: post
 title: "Spotting the Elusive Taaffeite Among Gems"
 subtitle: "Unveiling the secrets of distinguishing the rare and often misidentified Taaffeite mineral from its gemstone look-alikes."
-excerpt_image: https://galena.es/assets/images/Spotting_Taaffeite_Among_Gems.png
+excerpt_image: https://www.galena.es/assets/images/Spotting_Taaffeite_Among_Gems.png
 categories: [Gemstones, Geology]
 tags: [Taaffeite, Gem Identification, Rare Minerals, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Spotting_Taaffeite_Among_Gems.png "A close-up image of various gemstones, highlighting Taaffeite with its distinct lavender hue, alongside similar stones like spinel and sapphire, showcasing their differences for identification.")
+![banner](https://www.galena.es/assets/images/Spotting_Taaffeite_Among_Gems.png "A close-up image of various gemstones, highlighting Taaffeite with its distinct lavender hue, alongside similar stones like spinel and sapphire, showcasing their differences for identification.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Iron Tetraboride: A Hidden Mineral in Planetary Cores"
 subtitle: "Exploring the potential existence and significance of Iron Tetraboride in the cores of terrestrial planets."
-excerpt_image: https://galena.es/assets/images/Iron_Tetraboride_in_Planetary_Cores.png
+excerpt_image: https://www.galena.es/assets/images/Iron_Tetraboride_in_Planetary_Cores.png
 categories: [Planetary Geology, Mineralogy]
 tags: [Iron Tetraboride, Planetary Cores, Earth Science, Mineral Composition]
 ---
 
-![banner](https://galena.es/assets/images/Iron_Tetraboride_in_Planetary_Cores.png "A cross-section illustration of a planetary core, highlighting the potential presence of Iron Tetraboride among various minerals, with labeled layers and geological formations.")
+![banner](https://www.galena.es/assets/images/Iron_Tetraboride_in_Planetary_Cores.png "A cross-section illustration of a planetary core, highlighting the potential presence of Iron Tetraboride among various minerals, with labeled layers and geological formations.")
 
 # Introduction
 

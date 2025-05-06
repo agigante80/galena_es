@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the United Kingdom's Coal Heritage"
 subtitle: "A deep dive into the UK's rich coal mining history and its pivotal role in the country's industrial revolution."
-excerpt_image: https://galena.es/assets/images/United_Kingdoms_Coal_Heritage.png
+excerpt_image: https://www.galena.es/assets/images/United_Kingdoms_Coal_Heritage.png
 categories: [Earth Sciences, History]
 tags: [Coal Mining, United Kingdom, Industrial Revolution, Heritage]
 ---
 
-![banner](https://galena.es/assets/images/United_Kingdoms_Coal_Heritage.png "A historical coal mine in the UK, showcasing miners at work with coal carts and tools, symbolizing the significant role of coal in the country's industrial heritage.")
+![banner](https://www.galena.es/assets/images/United_Kingdoms_Coal_Heritage.png "A historical coal mine in the UK, showcasing miners at work with coal carts and tools, symbolizing the significant role of coal in the country's industrial heritage.")
 
 # Unearthing the United Kingdom's Coal Heritage
 

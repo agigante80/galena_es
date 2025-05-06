@@ -2,12 +2,12 @@
 layout: post
 title: "Galena: The Cornerstone Mineral of Early Human Civilization"
 subtitle: "Unraveling the mysteries of Galena, its amazing properties, uses, and global significance."
-excerpt_image: https://galena.es/assets/images/Galena_Mineral_Deep_Dive.png
+excerpt_image: https://www.galena.es/assets/images/Galena_Mineral_Deep_Dive.png
 categories: [Mineralogy, Geoscience]
 tags: [Galena, Mineral, Mining, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Galena_Mineral_Deep_Dive.png "Image exploring the significance of Galena as a cornerstone mineral in early human civilization, highlighting its unique properties, historical uses, and its global importance in mineralogy and earth sciences.")
+![banner](https://www.galena.es/assets/images/Galena_Mineral_Deep_Dive.png "Image exploring the significance of Galena as a cornerstone mineral in early human civilization, highlighting its unique properties, historical uses, and its global importance in mineralogy and earth sciences.")
 
 # Introduction
 

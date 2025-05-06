@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring the Multifaceted Applications of Yttrium Garnet"
 subtitle: "Unveiling the industrial and technological potential of Yttrium Garnet, a gemstone with a difference."
-excerpt_image: https://galena.es/assets/images/Yttrium_Garnet_Applications.png
+excerpt_image: https://www.galena.es/assets/images/Yttrium_Garnet_Applications.png
 categories: [Minerals, Technology]
 tags: [Yttrium Garnet, Electronics, Optics, Materials Science]
 ---
 
-![banner](https://galena.es/assets/images/Yttrium_Garnet_Applications.png "Infographic illustrating the diverse applications of Yttrium Garnet in industries such as electronics, optics, and materials science, highlighting its role in laser technology, semiconductor manufacturing, and as a gemstone in jewelry.")
+![banner](https://www.galena.es/assets/images/Yttrium_Garnet_Applications.png "Infographic illustrating the diverse applications of Yttrium Garnet in industries such as electronics, optics, and materials science, highlighting its role in laser technology, semiconductor manufacturing, and as a gemstone in jewelry.")
 
 # Introduction
 

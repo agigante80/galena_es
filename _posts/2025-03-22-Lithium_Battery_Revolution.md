@@ -2,12 +2,12 @@
 layout: post
 title: "Unleashing the Power of Lithium: The Battery Revolution"
 subtitle: "Exploring the pivotal role of lithium in the advancement of battery technology and its global impacts."
-excerpt_image: https://galena.es/assets/images/Lithium_Battery_Revolution.png
+excerpt_image: https://www.galena.es/assets/images/Lithium_Battery_Revolution.png
 categories: [Technology, Earth Sciences]
 tags: [Lithium, Battery Technology, Mining, Energy Revolution]
 ---
 
-![banner](https://galena.es/assets/images/Lithium_Battery_Revolution.png ""An infographic showcasing the role of lithium in advancing battery technology, featuring illustrations of lithium minerals, mining processes, and modern lithium batteries, aimed at geology enthusiasts and earth science readers."")
+![banner](https://www.galena.es/assets/images/Lithium_Battery_Revolution.png ""An infographic showcasing the role of lithium in advancing battery technology, featuring illustrations of lithium minerals, mining processes, and modern lithium batteries, aimed at geology enthusiasts and earth science readers."")
 
 ## Introduction
 

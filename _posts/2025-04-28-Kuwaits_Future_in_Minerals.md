@@ -2,12 +2,12 @@
 layout: post
 title: "Kuwait's Future in Minerals: A Hidden Treasure"
 subtitle: "Exploring the untapped potential of mineral resources in Kuwait and its impact on the nation's future."
-excerpt_image: https://galena.es/assets/images/Kuwaits_Future_in_Minerals.png
+excerpt_image: https://www.galena.es/assets/images/Kuwaits_Future_in_Minerals.png
 categories: [Geology, Economics]
 tags: [Kuwait, Minerals, Mining, Economic Diversification]
 ---
 
-![banner](https://galena.es/assets/images/Kuwaits_Future_in_Minerals.png "A geological map of Kuwait highlighting potential mineral exploration areas, with illustrations of various minerals and gemstones, set against a backdrop of the Kuwaiti landscape.")
+![banner](https://www.galena.es/assets/images/Kuwaits_Future_in_Minerals.png "A geological map of Kuwait highlighting potential mineral exploration areas, with illustrations of various minerals and gemstones, set against a backdrop of the Kuwaiti landscape.")
 
 # Kuwait's Future in Minerals: A Hidden Treasure
 

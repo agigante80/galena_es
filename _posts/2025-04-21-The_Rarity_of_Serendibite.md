@@ -2,12 +2,12 @@
 layout: post
 title: "The Rarity of Serendibite: A Gemological Wonder"
 subtitle: "Unveiling the mystery and allure of Serendibite, a gemstone known for its extreme rarity and enchanting beauty."
-excerpt_image: https://galena.es/assets/images/The_Rarity_of_Serendibite.png
+excerpt_image: https://www.galena.es/assets/images/The_Rarity_of_Serendibite.png
 categories: [Gemstones, Geology]
 tags: [Serendibite, Rare Gemstones, Mineralogy, Geology]
 ---
 
-![banner](https://galena.es/assets/images/The_Rarity_of_Serendibite.png "A close-up of a sparkling Serendibite gemstone, showcasing its unique deep blue-green hue and intricate facets, highlighting its rarity among gemstones.")
+![banner](https://www.galena.es/assets/images/The_Rarity_of_Serendibite.png "A close-up of a sparkling Serendibite gemstone, showcasing its unique deep blue-green hue and intricate facets, highlighting its rarity among gemstones.")
 
 # Introduction
 The world of gemstones is a vibrant spectrum of shades, shapes, and sizes. Among the myriad of precious stones, there is one that stands out due to its extraordinary rarity - the Serendibite. Its enchanting deep blue-green hues coupled with its extreme scarcity have made it a gemological wonder. In this article, we will uncover the captivating allure of Serendibite, exploring its origins, characteristics, and why it's one of the world's rarest gems.

@@ -2,12 +2,12 @@
 layout: post
 title: "The Essential Role of Nickel in Stainless Steel Production"
 subtitle: "Unravel the mystery behind the crucial component of stainless steel, Nickel, and its incredible impact on our daily lives."
-excerpt_image: https://galena.es/assets/images/Nickel_in_Stainless_Steel.png
+excerpt_image: https://www.galena.es/assets/images/Nickel_in_Stainless_Steel.png
 categories: [Minerals, Science]
 tags: [Nickel, Stainless Steel, Mining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Nickel_in_Stainless_Steel.png "A close-up view of stainless steel showing its shiny surface, with a small pile of nickel ore beside it, illustrating the essential role of nickel in stainless steel production for geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Nickel_in_Stainless_Steel.png "A close-up view of stainless steel showing its shiny surface, with a small pile of nickel ore beside it, illustrating the essential role of nickel in stainless steel production for geology enthusiasts and earth science readers.")
 
 # Introduction
 

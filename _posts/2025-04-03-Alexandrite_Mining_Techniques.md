@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Magic: Alexandrite Mining Techniques"
 subtitle: "An in-depth exploration into the fascinating world of Alexandrite mining techniques."
-excerpt_image: https://galena.es/assets/images/Alexandrite_Mining_Techniques.png
+excerpt_image: https://www.galena.es/assets/images/Alexandrite_Mining_Techniques.png
 categories: [Mining Techniques, Gemstones]
 tags: [Alexandrite, Mining, Gemstones, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Alexandrite_Mining_Techniques.png "An infographic illustrating various techniques for mining Alexandrite, featuring images of open-pit mining, underground mining, and artisanal methods, alongside detailed descriptions of each extraction process.")
+![banner](https://www.galena.es/assets/images/Alexandrite_Mining_Techniques.png "An infographic illustrating various techniques for mining Alexandrite, featuring images of open-pit mining, underground mining, and artisanal methods, alongside detailed descriptions of each extraction process.")
 
 # Introduction
 

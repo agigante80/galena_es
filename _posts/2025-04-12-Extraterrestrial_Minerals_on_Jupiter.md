@@ -2,12 +2,12 @@
 layout: post
 title: "Extraterrestrial Minerals on Jupiter: A Geological Journey"
 subtitle: "Unveiling the mysteries of potential mineral formations under Jupiter's extreme conditions"
-excerpt_image: https://galena.es/assets/images/Extraterrestrial_Minerals_on_Jupiter.png
+excerpt_image: https://www.galena.es/assets/images/Extraterrestrial_Minerals_on_Jupiter.png
 categories: [Space Geology, Planetary Minerals]
 tags: [Jupiter, Extraterrestrial Minerals, Space Geology, Planetary Science]
 ---
 
-![banner](https://galena.es/assets/images/Extraterrestrial_Minerals_on_Jupiter.png "An artistic representation of Jupiter's atmosphere, showcasing vibrant swirling clouds and intense storms, with a focus on the potential mineral formations beneath its surface, highlighting the unique geological processes that could occur under extreme pressure and temperature conditions.")
+![banner](https://www.galena.es/assets/images/Extraterrestrial_Minerals_on_Jupiter.png "An artistic representation of Jupiter's atmosphere, showcasing vibrant swirling clouds and intense storms, with a focus on the potential mineral formations beneath its surface, highlighting the unique geological processes that could occur under extreme pressure and temperature conditions.")
 
 # Extraterrestrial Minerals on Jupiter: A Geological Journey
 

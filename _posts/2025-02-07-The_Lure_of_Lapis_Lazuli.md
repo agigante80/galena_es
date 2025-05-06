@@ -2,12 +2,12 @@
 layout: post
 title: "The Timeless Allure of Lapis Lazuli"
 subtitle: "A captivating journey through history exploring the charm and uses of Lapis Lazuli from ancient times to the present day."
-excerpt_image: https://galena.es/assets/images/The_Lure_of_Lapis_Lazuli.png
+excerpt_image: https://www.galena.es/assets/images/The_Lure_of_Lapis_Lazuli.png
 categories: [Gemstones, History]
 tags: [Lapis Lazuli, Ancient History, Gemstone Uses, Mineralogy]
 ---
 
-![banner](https://galena.es/assets/images/The_Lure_of_Lapis_Lazuli.png "Image showcasing the timeless allure of Lapis Lazuli, highlighting its historical significance and use throughout ancient times to the present day as a cherished gemstone in both art and culture.")
+![banner](https://www.galena.es/assets/images/The_Lure_of_Lapis_Lazuli.png "Image showcasing the timeless allure of Lapis Lazuli, highlighting its historical significance and use throughout ancient times to the present day as a cherished gemstone in both art and culture.")
 
 # The Timeless Allure of Lapis Lazuli
 

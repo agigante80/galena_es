@@ -2,12 +2,12 @@
 layout: post
 title: "Delving Deep: A Comprehensive Analysis of Jagoite Mineral"
 subtitle: "Dive into the fascinating world of minerals with an in-depth exploration of the unique properties and chemical composition of Jagoite."
-excerpt_image: https://galena.es/assets/images/Jagoite_Mineral_Analysis.png
+excerpt_image: https://www.galena.es/assets/images/Jagoite_Mineral_Analysis.png
 categories: [Mineralogy, Geology]
 tags: [Jagoite, Lead-arsenate, Minerals, Gemology]
 ---
 
-![banner](https://galena.es/assets/images/Jagoite_Mineral_Analysis.png "Close-up image of Jagoite mineral specimen, showcasing its distinct crystalline structure and vibrant colors, accompanied by a detailed chart illustrating its chemical composition and properties, ideal for geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Jagoite_Mineral_Analysis.png "Close-up image of Jagoite mineral specimen, showcasing its distinct crystalline structure and vibrant colors, accompanied by a detailed chart illustrating its chemical composition and properties, ideal for geology enthusiasts and educators.")
 
 # Introduction
 

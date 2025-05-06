@@ -2,12 +2,12 @@
 layout: post
 title: "The Essential Role of Potash in Agriculture"
 subtitle: "Understanding the importance of potash for soil health and crop yield in the field of agriculture."
-excerpt_image: https://galena.es/assets/images/Potash_in_Agriculture.png
+excerpt_image: https://www.galena.es/assets/images/Potash_in_Agriculture.png
 categories: [Agriculture, Geology]
 tags: [potash, agriculture, soil health, crop yield]
 ---
 
-![banner](https://galena.es/assets/images/Potash_in_Agriculture.png ""A farmer spreading potash fertilizer on a lush green field, illustrating its importance in enhancing soil health and crop yield in agriculture."")
+![banner](https://www.galena.es/assets/images/Potash_in_Agriculture.png ""A farmer spreading potash fertilizer on a lush green field, illustrating its importance in enhancing soil health and crop yield in agriculture."")
 
 # **Introduction**
 

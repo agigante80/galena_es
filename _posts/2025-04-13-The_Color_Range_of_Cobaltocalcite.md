@@ -2,12 +2,12 @@
 layout: post
 title: "Uncovering the Vibrant Palette of Cobaltocalcite"
 subtitle: "Explore the mesmerizing color range of Cobaltocalcite, a mineral that paints the Earth's crust with its vibrant hues."
-excerpt_image: https://galena.es/assets/images/The_Color_Range_of_Cobaltocalcite.png
+excerpt_image: https://www.galena.es/assets/images/The_Color_Range_of_Cobaltocalcite.png
 categories: [Minerals, Geology]
 tags: [Cobaltocalcite, Minerals, Color Range, Gemology]
 ---
 
-![banner](https://galena.es/assets/images/The_Color_Range_of_Cobaltocalcite.png "A vibrant display of cobaltocalcite crystals showcasing a spectrum of colors, from deep pinks and reds to lighter shades of lavender and white, highlighting the mineral's unique hues and beauty.")
+![banner](https://www.galena.es/assets/images/The_Color_Range_of_Cobaltocalcite.png "A vibrant display of cobaltocalcite crystals showcasing a spectrum of colors, from deep pinks and reds to lighter shades of lavender and white, highlighting the mineral's unique hues and beauty.")
  
 # Uncovering the Vibrant Palette of Cobaltocalcite
 

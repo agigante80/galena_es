@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mysteries: Practical and Scientific Uses of Redledgeite"
 subtitle: "This article delves into the uses of the rare mineral Redledgeite, discussing its practical and scientific applications in various fields."
-excerpt_image: https://galena.es/assets/images/Uses_of_Redledgeite.png
+excerpt_image: https://www.galena.es/assets/images/Uses_of_Redledgeite.png
 categories: [Geology, Minerals]
 tags: [Redledgeite, Mining, Earth Sciences, Gemstones]
 ---
 
-![banner](https://galena.es/assets/images/Uses_of_Redledgeite.png "A close-up image of Redledgeite crystals showcasing their unique structure, set against a backdrop of geological tools and mineral samples, illustrating the practical and scientific applications of this rare mineral in geology and mining.")
+![banner](https://www.galena.es/assets/images/Uses_of_Redledgeite.png "A close-up image of Redledgeite crystals showcasing their unique structure, set against a backdrop of geological tools and mineral samples, illustrating the practical and scientific applications of this rare mineral in geology and mining.")
 
 # Introduction
 

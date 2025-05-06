@@ -2,12 +2,12 @@
 layout: post
 title: "The Essential Role of Manganese in Steel Making"
 subtitle: "Unveiling the significance of Manganese in enhancing the strength and durability of steel."
-excerpt_image: https://galena.es/assets/images/Manganese_in_Steel_Making.png
+excerpt_image: https://www.galena.es/assets/images/Manganese_in_Steel_Making.png
 categories: [Geology, Metallurgy]
 tags: [Manganese, Steel Making, Metallurgy, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Manganese_in_Steel_Making.png "A close-up view of manganese ore alongside steel samples, illustrating the essential role of manganese in the steel-making process, highlighting its importance in enhancing steel's strength and durability.")
+![banner](https://www.galena.es/assets/images/Manganese_in_Steel_Making.png "A close-up view of manganese ore alongside steel samples, illustrating the essential role of manganese in the steel-making process, highlighting its importance in enhancing steel's strength and durability.")
 
 # Introduction
 

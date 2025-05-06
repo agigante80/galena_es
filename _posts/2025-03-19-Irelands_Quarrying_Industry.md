@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing Value: A Deep Dive into Ireland's Quarrying Industry"
 subtitle: "Exploring the rich geological wealth and economic significance of Ireland's vibrant quarrying industry."
-excerpt_image: https://galena.es/assets/images/Irelands_Quarrying_Industry.png
+excerpt_image: https://www.galena.es/assets/images/Irelands_Quarrying_Industry.png
 categories: [Economic Geology, Mineral Extraction]
 tags: [Ireland, Quarrying, Limestone, Granite]
 ---
 
-![banner](https://galena.es/assets/images/Irelands_Quarrying_Industry.png "A scenic view of an Irish quarry showcasing layers of limestone and granite, highlighting the geological formations and mineral extraction processes vital to Ireland's economy.")
+![banner](https://www.galena.es/assets/images/Irelands_Quarrying_Industry.png "A scenic view of an Irish quarry showcasing layers of limestone and granite, highlighting the geological formations and mineral extraction processes vital to Ireland's economy.")
 
 # Introduction
 

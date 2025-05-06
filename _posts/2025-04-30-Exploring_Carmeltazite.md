@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mysteries of Carmeltazite"
 subtitle: "An in-depth exploration into the discovery, composition, and fascinating attributes of the rare gemstone, Carmeltazite."
-excerpt_image: https://galena.es/assets/images/Exploring_Carmeltazite.png
+excerpt_image: https://www.galena.es/assets/images/Exploring_Carmeltazite.png
 categories: [Minerals, Discoveries]
 tags: [Carmeltazite, Gemstones, Zirconium, Earth_Science]
 ---
 
-![banner](https://galena.es/assets/images/Exploring_Carmeltazite.png "A close-up view of Carmeltazite crystals, showcasing their unique blue and gray hues, set against a natural rock background, highlighting the mineral's distinctive features and geological significance.")
+![banner](https://www.galena.es/assets/images/Exploring_Carmeltazite.png "A close-up view of Carmeltazite crystals, showcasing their unique blue and gray hues, set against a natural rock background, highlighting the mineral's distinctive features and geological significance.")
 
 # Introduction
 

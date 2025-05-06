@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring the Riches of US Mineral Production"
 subtitle: "A deep dive into the various minerals produced in the United States and their economic impact."
-excerpt_image: https://galena.es/assets/images/US_Mineral_Production.png
+excerpt_image: https://www.galena.es/assets/images/US_Mineral_Production.png
 categories: [Geology, Economy]
 tags: [US Mineral Production, Economy, Geology, Mining]
 ---
 
-![banner](https://galena.es/assets/images/US_Mineral_Production.png "Image exploring the diverse range of minerals produced in the United States, highlighting their economic impact and significance in the mining industry and geology.")
+![banner](https://www.galena.es/assets/images/US_Mineral_Production.png "Image exploring the diverse range of minerals produced in the United States, highlighting their economic impact and significance in the mining industry and geology.")
 
 # Exploring the Riches of US Mineral Production
 

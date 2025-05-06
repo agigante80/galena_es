@@ -2,12 +2,12 @@
 layout: post
 title: "Unraveling the Mysteries of Silicon Oxycarbide"
 subtitle: "A deep dive into the fascinating properties and diverse applications of Silicon Oxycarbide."
-excerpt_image: https://galena.es/assets/images/Properties_of_Silicon_Oxycarbide.png
+excerpt_image: https://www.galena.es/assets/images/Properties_of_Silicon_Oxycarbide.png
 categories: [Minerals, Science]
 tags: [Silicon Oxycarbide, Materials Science, Geology, Minerals]
 ---
 
-![banner](https://galena.es/assets/images/Properties_of_Silicon_Oxycarbide.png "Image exploring the fascinating properties and diverse applications of Silicon Oxycarbide, a material with unique characteristics in materials science, geology, and minerals.")
+![banner](https://www.galena.es/assets/images/Properties_of_Silicon_Oxycarbide.png "Image exploring the fascinating properties and diverse applications of Silicon Oxycarbide, a material with unique characteristics in materials science, geology, and minerals.")
 
 ## Introduction
 Silicon Oxycarbide (SiOC) is a fascinating material, a synthetic mineral that has proven its worth in a wide array of applications due to its unique properties. This compound, which exists at the intersection of silicon-based ceramics and traditional glass, has the potential to revolutionize a number of industries.

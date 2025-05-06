@@ -2,12 +2,12 @@
 layout: post
 title: "Silicon: The Heart of Computer Chip Manufacturing"
 subtitle: "Explore why silicon is the key element in the world of computer chip manufacturing."
-excerpt_image: https://galena.es/assets/images/Silicon_in_Computer_Chips.png
+excerpt_image: https://www.galena.es/assets/images/Silicon_in_Computer_Chips.png
 categories: [Technology, Geology]
 tags: [Silicon, Computer Chips, Mining, Semiconductors]
 ---
 
-![banner](https://galena.es/assets/images/Silicon_in_Computer_Chips.png "Close-up of silicon crystals and a computer chip, illustrating the essential role of silicon in semiconductor technology and computer chip manufacturing.")
+![banner](https://www.galena.es/assets/images/Silicon_in_Computer_Chips.png "Close-up of silicon crystals and a computer chip, illustrating the essential role of silicon in semiconductor technology and computer chip manufacturing.")
 
 # Introduction
 

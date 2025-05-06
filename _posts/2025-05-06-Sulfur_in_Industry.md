@@ -2,12 +2,12 @@
 layout: post
 title: "Sulfur: A Cornerstone of Modern Industry"
 subtitle: "Unveiling the industrial versatility of sulfur, from fertilizers to chemical production."
-excerpt_image: https://galena.es/assets/images/Sulfur_in_Industry.png
+excerpt_image: https://www.galena.es/assets/images/Sulfur_in_Industry.png
 categories: [Minerals, Industrial Applications]
 tags: [Sulfur, Fertilizers, Chemical Industry, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Sulfur_in_Industry.png "Infographic illustrating the diverse industrial applications of sulfur, showcasing its roles in fertilizers, chemical production, and other industries, aimed at geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Sulfur_in_Industry.png "Infographic illustrating the diverse industrial applications of sulfur, showcasing its roles in fertilizers, chemical production, and other industries, aimed at geology enthusiasts and earth science readers.")
 
 # Introduction
 

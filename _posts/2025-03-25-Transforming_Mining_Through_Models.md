@@ -2,12 +2,12 @@
 layout: post
 title: "Transforming Mining Through Models"
 subtitle: "Exploring the Impact of Computational Models on Mineral Exploration"
-excerpt_image: https://galena.es/assets/images/Transforming_Mining_Through_Models.png
+excerpt_image: https://www.galena.es/assets/images/Transforming_Mining_Through_Models.png
 categories: [Technology, Geology]
 tags: [Mining, Computational Models, Mineral Exploration, Innovation]
 ---
 
-![banner](https://galena.es/assets/images/Transforming_Mining_Through_Models.png "A digital illustration depicting advanced computational models used in mineral exploration, featuring geological layers, mineral deposits, and data analytics tools, symbolizing the transformation of mining through technology.")
+![banner](https://www.galena.es/assets/images/Transforming_Mining_Through_Models.png "A digital illustration depicting advanced computational models used in mineral exploration, featuring geological layers, mineral deposits, and data analytics tools, symbolizing the transformation of mining through technology.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "From Iron Ore to Steel: An Incredible Journey"
 subtitle: "Unravel the fascinating process of transforming raw iron ore into robust steel."
-excerpt_image: https://galena.es/assets/images/Iron_Ore_to_Steel.png
+excerpt_image: https://www.galena.es/assets/images/Iron_Ore_to_Steel.png
 categories: [Mining, Metallurgy]
 tags: [Iron Ore, Steel Production, Smelting, Refining]
 ---
 
-![banner](https://galena.es/assets/images/Iron_Ore_to_Steel.png "Infographic illustrating the transformation of iron ore into steel, featuring key stages such as mining, smelting, and refining, with visuals of iron ore, furnaces, and finished steel products.")
+![banner](https://www.galena.es/assets/images/Iron_Ore_to_Steel.png "Infographic illustrating the transformation of iron ore into steel, featuring key stages such as mining, smelting, and refining, with visuals of iron ore, furnaces, and finished steel products.")
 
 # Introduction
 

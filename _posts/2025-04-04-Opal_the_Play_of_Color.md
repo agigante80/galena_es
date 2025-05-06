@@ -2,12 +2,12 @@
 layout: post
 title: "Opal: The Dazzling Dance of Light and Color"
 subtitle: "Uncover the unique properties that give opal its stunning array of colors and ever-changing play of light."
-excerpt_image: https://galena.es/assets/images/Opal_the_Play_of_Color.png
+excerpt_image: https://www.galena.es/assets/images/Opal_the_Play_of_Color.png
 categories: [Gemstones, Earth Science]
 tags: [Opal, Mineralogy, Gemology, Color Play]
 ---
 
-![banner](https://galena.es/assets/images/Opal_the_Play_of_Color.png "Close-up image of a vibrant opal gemstone showcasing its mesmerizing play of color, featuring iridescent hues of blue, green, and orange, highlighting the unique light diffraction properties that make opals captivating.")
+![banner](https://www.galena.es/assets/images/Opal_the_Play_of_Color.png "Close-up image of a vibrant opal gemstone showcasing its mesmerizing play of color, featuring iridescent hues of blue, green, and orange, highlighting the unique light diffraction properties that make opals captivating.")
 
 # Introduction
 

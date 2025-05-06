@@ -2,12 +2,12 @@
 layout: post
 title: "Mining Lithium Responsibly: Balancing Progress and Planet"
 subtitle: "Exploring the environmental impacts of lithium mining and the urgent need for sustainable practices."
-excerpt_image: https://galena.es/assets/images/Mining_Lithium_Responsibly.png
+excerpt_image: https://www.galena.es/assets/images/Mining_Lithium_Responsibly.png
 categories: [Mining, Sustainability]
 tags: [lithium mining, environmental impact, sustainability, responsible mining]
 ---
 
-![banner](https://galena.es/assets/images/Mining_Lithium_Responsibly.png "Aerial view of a lithium mining site, showcasing the expansive landscape altered by mining activities, with visible environmental impacts such as deforested areas and water bodies affected by runoff, highlighting the importance of responsible mining practices.")
+![banner](https://www.galena.es/assets/images/Mining_Lithium_Responsibly.png "Aerial view of a lithium mining site, showcasing the expansive landscape altered by mining activities, with visible environmental impacts such as deforested areas and water bodies affected by runoff, highlighting the importance of responsible mining practices.")
 
 ## Introduction
 As the world shifts towards renewable energy sources, lithium has gained prominence as a critical element in manufacturing rechargeable batteries for electric vehicles and energy storage systems. However, the accelerated demand for lithium is not without its environmental consequences. This article explores the environmental impacts of lithium mining and the urgent need for sustainable practices to balance progress with the well-being of our planet.

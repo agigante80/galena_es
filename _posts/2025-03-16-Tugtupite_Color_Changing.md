@@ -2,12 +2,12 @@
 layout: post
 title: "The Magic of Tugtupite: Its Remarkable Color-Changing Property"
 subtitle: "A deep dive into the fascinating world of Tugtupite, a rare mineral known for its captivating color-changing properties."
-excerpt_image: https://galena.es/assets/images/Tugtupite_Color_Changing.png
+excerpt_image: https://www.galena.es/assets/images/Tugtupite_Color_Changing.png
 categories: [Minerals, Geology]
 tags: [Tugtupite, Color changing minerals, Geology, Gemstones]
 ---
 
-![banner](https://galena.es/assets/images/Tugtupite_Color_Changing.png "Close-up image of Tugtupite crystals showcasing their unique color-changing properties, transitioning from vibrant pink to deep red under different lighting conditions, highlighting the mineral's fascinating characteristics for geology enthusiasts.")
+![banner](https://www.galena.es/assets/images/Tugtupite_Color_Changing.png "Close-up image of Tugtupite crystals showcasing their unique color-changing properties, transitioning from vibrant pink to deep red under different lighting conditions, highlighting the mineral's fascinating characteristics for geology enthusiasts.")
 
 # Introduction
 

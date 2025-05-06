@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mysteries of Red Beryl Mining"
 subtitle: "Discover the unique geological conditions that facilitate the formation of the rare and precious Red Beryl gemstone."
-excerpt_image: https://galena.es/assets/images/Red_Beryl_Mining_Secrets.png
+excerpt_image: https://www.galena.es/assets/images/Red_Beryl_Mining_Secrets.png
 categories: [Geology, Gemstones]
 tags: [Red Beryl, Mining, Earth Sciences, Minerals]
 ---
 
-![banner](https://galena.es/assets/images/Red_Beryl_Mining_Secrets.png "A close-up view of red beryl crystals embedded in a rocky matrix, highlighting the unique geological conditions that contribute to their formation.")
+![banner](https://www.galena.es/assets/images/Red_Beryl_Mining_Secrets.png "A close-up view of red beryl crystals embedded in a rocky matrix, highlighting the unique geological conditions that contribute to their formation.")
 
 # Introduction
 

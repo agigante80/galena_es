@@ -2,12 +2,12 @@
 layout: post
 title: "Uncovering the Mysteries of Phosphate Mining Processes"
 subtitle: "A deep dive into the extraction processes of phosphate rock - a key component in agriculture and industry."
-excerpt_image: https://galena.es/assets/images/Phosphate_Mining_Processes.png
+excerpt_image: https://www.galena.es/assets/images/Phosphate_Mining_Processes.png
 categories: [Mining, Earth Sciences]
 tags: [Phosphate Mining, Extraction Processes, Geology, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Phosphate_Mining_Processes.png "Diagram illustrating the phosphate mining processes")
+![banner](https://www.galena.es/assets/images/Phosphate_Mining_Processes.png "Diagram illustrating the phosphate mining processes")
 
 ## Introduction
 

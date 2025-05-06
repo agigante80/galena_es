@@ -2,12 +2,12 @@
 layout: post
 title: "The Bedrock of Sweden's Economy: Iron Ore Mining"
 subtitle: "Exploring Sweden's reliance on its vast iron ore reserves and their impact on the country's economy."
-excerpt_image: https://galena.es/assets/images/Swedens_Iron_Ore_Mining.png
+excerpt_image: https://www.galena.es/assets/images/Swedens_Iron_Ore_Mining.png
 categories: [Mining, Economics]
 tags: [Sweden, Iron Ore, Mining, Economy]
 ---
 
-![banner](https://galena.es/assets/images/Swedens_Iron_Ore_Mining.png "Aerial view of Sweden's expansive iron ore mining landscape, showcasing large open-pit mines and industrial machinery, highlighting the country's significant economic reliance on its rich iron ore reserves.")
+![banner](https://www.galena.es/assets/images/Swedens_Iron_Ore_Mining.png "Aerial view of Sweden's expansive iron ore mining landscape, showcasing large open-pit mines and industrial machinery, highlighting the country's significant economic reliance on its rich iron ore reserves.")
 
 # Introduction
 

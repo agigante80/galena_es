@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Secrets of Clay Mining"
 subtitle: "Journey into the world of clay extraction and discover the fascinating processes involved."
-excerpt_image: https://galena.es/assets/images/Clay_Mining_Processes.png
+excerpt_image: https://www.galena.es/assets/images/Clay_Mining_Processes.png
 categories: [Mining, Geology]
 tags: [Clay Mining, Extraction Methods, Earth Sciences, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Clay_Mining_Processes.png "Diagram illustrating various clay mining processes, including open-pit excavation, drilling, and sediment extraction, showcasing the techniques used to extract clay from the earth for educational purposes.")
+![banner](https://www.galena.es/assets/images/Clay_Mining_Processes.png "Diagram illustrating various clay mining processes, including open-pit excavation, drilling, and sediment extraction, showcasing the techniques used to extract clay from the earth for educational purposes.")
 
 # Unearthing the Secrets of Clay Mining
 

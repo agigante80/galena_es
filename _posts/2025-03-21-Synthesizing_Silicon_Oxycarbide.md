@@ -2,12 +2,12 @@
 layout: post
 title: "Synthesizing Silicon Oxycarbide: A Deep Dive Into Mineral Synthesis"
 subtitle: "Exploring the intriguing process of synthesizing silicon oxycarbide in the laboratory, from raw materials to the finished product."
-excerpt_image: https://galena.es/assets/images/Synthesizing_Silicon_Oxycarbide.png
+excerpt_image: https://www.galena.es/assets/images/Synthesizing_Silicon_Oxycarbide.png
 categories: [Mineral Synthesis, Laboratory Techniques]
 tags: [Silicon Oxycarbide, Synthesis, Geology, Mineralogy]
 ---
 
-![banner](https://galena.es/assets/images/Synthesizing_Silicon_Oxycarbide.png ""Laboratory setup showcasing scientists synthesizing Silicon Oxycarbide, featuring equipment like furnaces and chemical reactors, with samples of raw materials and finished products, illustrating advanced methods in mineral synthesis for geology enthusiasts."")
+![banner](https://www.galena.es/assets/images/Synthesizing_Silicon_Oxycarbide.png ""Laboratory setup showcasing scientists synthesizing Silicon Oxycarbide, featuring equipment like furnaces and chemical reactors, with samples of raw materials and finished products, illustrating advanced methods in mineral synthesis for geology enthusiasts."")
 
 # Introduction
 

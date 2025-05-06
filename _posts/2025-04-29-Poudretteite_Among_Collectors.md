@@ -2,12 +2,12 @@
 layout: post
 title: "Poudretteite: A Rare Gemstone's Allure"
 subtitle: "Exploring the fascination with Poudretteite, its rarity, and why collectors value it"
-excerpt_image: https://galena.es/assets/images/Poudretteite_Among_Collectors.png
+excerpt_image: https://www.galena.es/assets/images/Poudretteite_Among_Collectors.png
 categories: [Minerals, Collecting]
 tags: [Poudretteite, Gemstones, Rarity, Collectors]
 ---
 
-![banner](https://galena.es/assets/images/Poudretteite_Among_Collectors.png "Close-up image of a rare Poudretteite gemstone, showcasing its delicate pink hue and unique crystal structure, symbolizing its value among collectors due to its rarity and beauty.")
+![banner](https://www.galena.es/assets/images/Poudretteite_Among_Collectors.png "Close-up image of a rare Poudretteite gemstone, showcasing its delicate pink hue and unique crystal structure, symbolizing its value among collectors due to its rarity and beauty.")
 
 # Introduction
 
@@ -19,7 +19,7 @@ Poudretteite (pronounced as pow-dret-tite), was first discovered in Mont Saint-H
 
 Its rarity is due to its specific formation conditions. It is formed in pegmatites, igneous rocks formed from lava or magma that are rich in water at the time of their formation. These conditions are not common, making the occurrence of Poudretteite quite rare.
 
-![Poudretteite](https://galena.es/assets/images/Poudretteite.png "A stunning Poudretteite gemstone in a classic cut, demonstrating its translucent pink color.")
+![Poudretteite](https://www.galena.es/assets/images/Poudretteite.png "A stunning Poudretteite gemstone in a classic cut, demonstrating its translucent pink color.")
 
 # What Makes Poudretteite Popular Among Collectors?
 

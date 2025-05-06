@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling Simonellite: An In-depth Exploration"
 subtitle: "Delving into the world of simonellite, its key features, and the latest research."
-excerpt_image: https://galena.es/assets/images/Simonellite_Research_and_Features.png
+excerpt_image: https://www.galena.es/assets/images/Simonellite_Research_and_Features.png
 categories: [Gemology, Earth Sciences]
 tags: [Simonellite, Minerals, Gemology, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Simonellite_Research_and_Features.png "Image delving into the fascinating world of Simonellite, exploring its unique features and the latest research surrounding this rare mineral in the fields of gemology and earth sciences.")
+![banner](https://www.galena.es/assets/images/Simonellite_Research_and_Features.png "Image delving into the fascinating world of Simonellite, exploring its unique features and the latest research surrounding this rare mineral in the fields of gemology and earth sciences.")
 
 ## Introduction
 

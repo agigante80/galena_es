@@ -6,7 +6,7 @@ title: "Pezzottaite Gem: A Rare Pink Beryl's Mystique and Allure"
 
 subtitle: "Unraveling the unique properties and crystal structure of the rare gemstone Pezzottaite."
 
-excerpt_image: https://galena.es/assets/images/Pezzottaite_Gem_Properties.png
+excerpt_image: https://www.galena.es/assets/images/Pezzottaite_Gem_Properties.png
 
 categories: [Gemstones, Geology]
 
@@ -14,7 +14,7 @@ tags: [Pezzottaite, Crystal Structure, Gemology, Beryl]
 
 ---
 
-![banner](https://galena.es/assets/images/Pezzottaite_Gem_Properties.png "Close-up image of a vibrant pink Pezzottaite gemstone, showcasing its unique crystal structure and luster, ideal for enthusiasts and educators in geology and mineralogy.")
+![banner](https://www.galena.es/assets/images/Pezzottaite_Gem_Properties.png "Close-up image of a vibrant pink Pezzottaite gemstone, showcasing its unique crystal structure and luster, ideal for enthusiasts and educators in geology and mineralogy.")
 
 # Introduction
 

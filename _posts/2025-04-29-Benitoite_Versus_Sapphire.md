@@ -2,12 +2,12 @@
 layout: post
 title: "Benitoite versus Sapphire: A Deep Dive into the World of Gemstones"
 subtitle: "A comprehensive comparison of the properties and uses of the intriguing Benitoite and the classic Sapphire gemstones."
-excerpt_image: https://galena.es/assets/images/Benitoite_Versus_Sapphire.png
+excerpt_image: https://www.galena.es/assets/images/Benitoite_Versus_Sapphire.png
 categories: [Geology, Gemstones]
 tags: [Benitoite, Sapphire, Gemstone Comparison, Mineral Properties]
 ---
 
-![banner](https://galena.es/assets/images/Benitoite_Versus_Sapphire.png "Infographic comparing benitoite and sapphire gemstones with detailed visualizations. Highlights differences in color, structure, and properties, alongside crystal shapes and fluorescence. Includes diagrams and labels for easy understanding.")
+![banner](https://www.galena.es/assets/images/Benitoite_Versus_Sapphire.png "Infographic comparing benitoite and sapphire gemstones with detailed visualizations. Highlights differences in color, structure, and properties, alongside crystal shapes and fluorescence. Includes diagrams and labels for easy understanding.")
 
 # Introduction
 

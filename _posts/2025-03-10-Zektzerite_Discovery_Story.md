@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Tale of Zektzerite Discovery"
 subtitle: "Travel through time and discover the intriguing story of Zektzerite, a mineral that mesmerizes with its unique properties and history."
-excerpt_image: https://galena.es/assets/images/Zektzerite_Discovery_Story.png
+excerpt_image: https://www.galena.es/assets/images/Zektzerite_Discovery_Story.png
 categories: [Minerals, Earth Sciences]
 tags: [Zektzerite, Geology, Mineral Discovery, Rare Minerals]
 ---
 
-![banner](https://galena.es/assets/images/Zektzerite_Discovery_Story.png "Illustration depicting the discovery of Zektzerite, showcasing its unique crystal structure and vibrant colors, surrounded by geological tools and a mineral sample collection, highlighting its significance in earth sciences.")
+![banner](https://www.galena.es/assets/images/Zektzerite_Discovery_Story.png "Illustration depicting the discovery of Zektzerite, showcasing its unique crystal structure and vibrant colors, surrounded by geological tools and a mineral sample collection, highlighting its significance in earth sciences.")
 
 # Unearthing the Tale of Zektzerite Discovery
 

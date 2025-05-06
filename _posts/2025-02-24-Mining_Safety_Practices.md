@@ -2,12 +2,12 @@
 layout: post
 title: "Safety Measures in Modern Mining"
 subtitle: "Exploring the best practices and latest technologies to ensure safety in the mining industry."
-excerpt_image: https://galena.es/assets/images/Mining_Safety_Practices.png
+excerpt_image: https://www.galena.es/assets/images/Mining_Safety_Practices.png
 categories: [Mining, Safety]
 tags: [Mining Safety, Safety Practices, Mining Technology, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Mining_Safety_Practices.png "Image showcasing modern safety measures in mining, highlighting best practices and advanced technologies designed to protect workers and improve safety in mining operations.")
+![banner](https://www.galena.es/assets/images/Mining_Safety_Practices.png "Image showcasing modern safety measures in mining, highlighting best practices and advanced technologies designed to protect workers and improve safety in mining operations.")
 
 ## Introduction
 

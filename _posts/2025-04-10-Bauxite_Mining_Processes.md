@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Intricacies of Bauxite Mining"
 subtitle: "An in-depth exploration of the processes involved in mining and refining bauxite, a key mineral in aluminum production."
-excerpt_image: https://galena.es/assets/images/Bauxite_Mining_Processes.png
+excerpt_image: https://www.galena.es/assets/images/Bauxite_Mining_Processes.png
 categories: [Mining, Earth Sciences]
 tags: [Bauxite, Mining, Refining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Bauxite_Mining_Processes.png "Infographic illustrating the bauxite mining and refining processes, featuring stages such as extraction, crushing, washing, and alumina production, with visual elements highlighting equipment and techniques used in the mining industry.")
+![banner](https://www.galena.es/assets/images/Bauxite_Mining_Processes.png "Infographic illustrating the bauxite mining and refining processes, featuring stages such as extraction, crushing, washing, and alumina production, with visual elements highlighting equipment and techniques used in the mining industry.")
 
 ## Introduction
 

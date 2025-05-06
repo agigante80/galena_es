@@ -2,12 +2,12 @@
 layout: post
 title: "Mining and Processing Borates: An In-Depth Look"
 subtitle: "A comprehensive guide on the extraction and refining processes of borates, a versatile mineral with wide-ranging applications."
-excerpt_image: https://galena.es/assets/images/Mining_and_Processing_Borates.png
+excerpt_image: https://www.galena.es/assets/images/Mining_and_Processing_Borates.png
 categories: [Mining, Earth Sciences]
 tags: [Borates, Mining, Processing, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Mining_and_Processing_Borates.png "Illustration of borate mining and processing, showcasing industrial equipment, mineral extraction techniques, and processed borates, highlighting their importance in industrial and everyday applications.")
+![banner](https://www.galena.es/assets/images/Mining_and_Processing_Borates.png "Illustration of borate mining and processing, showcasing industrial equipment, mineral extraction techniques, and processed borates, highlighting their importance in industrial and everyday applications.")
 
 # Introduction
 

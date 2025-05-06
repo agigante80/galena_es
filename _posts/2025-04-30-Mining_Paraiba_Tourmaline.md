@@ -2,12 +2,12 @@
 layout: post
 title: "Mining Paraiba Tourmaline: A Colorful Journey"
 subtitle: "Delving into the enchanting world of Paraiba Tourmaline mining, exploring the key regions and mining methodologies."
-excerpt_image: https://galena.es/assets/images/Mining_Paraiba_Tourmaline.png
+excerpt_image: https://www.galena.es/assets/images/Mining_Paraiba_Tourmaline.png
 categories: [Minerals, Mining]
 tags: [Paraiba Tourmaline, gemstones, mining techniques, Brazil]
 ---
 
-![banner](https://galena.es/assets/images/Mining_Paraiba_Tourmaline.png "An aerial view of a vibrant Paraiba Tourmaline mining site in Brazil, showcasing the lush landscape and mining operations. The image highlights the distinctive blue and green hues of the gemstone, surrounded by tools and equipment used in the extraction process, illustrating the techniques and regions involved in mining this rare mineral.")
+![banner](https://www.galena.es/assets/images/Mining_Paraiba_Tourmaline.png "An aerial view of a vibrant Paraiba Tourmaline mining site in Brazil, showcasing the lush landscape and mining operations. The image highlights the distinctive blue and green hues of the gemstone, surrounded by tools and equipment used in the extraction process, illustrating the techniques and regions involved in mining this rare mineral.")
 
 # Mining Paraiba Tourmaline: A Colorful Journey
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring the Crystallography of Simonellite"
 subtitle: "Unveiling the fascinating world of mineral structures with a deep dive into Simonellite crystallography."
-excerpt_image: https://galena.es/assets/images/Simonellite_Crystallography.png
+excerpt_image: https://www.galena.es/assets/images/Simonellite_Crystallography.png
 categories: [Crystallography, Minerals]
 tags: [Simonellite, Crystal Structure, Mineralogy, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Simonellite_Crystallography.png "Detailed illustration of Simonellite crystal structure, showcasing its unique mineral arrangement and symmetry, accompanied by labels highlighting key features relevant to crystallography, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Simonellite_Crystallography.png "Detailed illustration of Simonellite crystal structure, showcasing its unique mineral arrangement and symmetry, accompanied by labels highlighting key features relevant to crystallography, aimed at geology enthusiasts and educators.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "The Spectacular Spectrum of Amethyst Color Variations"
 subtitle: "Uncovering the factors that create the stunning color variations in the beloved Amethyst gemstone."
-excerpt_image: https://galena.es/assets/images/Amethyst_Color_Variations.png
+excerpt_image: https://www.galena.es/assets/images/Amethyst_Color_Variations.png
 categories: [Minerals, Gemstones]
 tags: [Amethyst, Color Variations, Geology, Gemstones]
 ---
 
-![banner](https://galena.es/assets/images/Amethyst_Color_Variations.png "A collection of amethyst crystals displaying various color variations, ranging from deep violet to pale lavender, highlighting the effects of iron content and radiation exposure on their hues.")
+![banner](https://www.galena.es/assets/images/Amethyst_Color_Variations.png "A collection of amethyst crystals displaying various color variations, ranging from deep violet to pale lavender, highlighting the effects of iron content and radiation exposure on their hues.")
 
 # Introduction
 

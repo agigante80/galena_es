@@ -2,12 +2,12 @@
 layout: post
 title: "Diamond Mining in South Africa: A Shimmering Legacy"
 subtitle: "Exploring the history and the present state of diamond mining in South Africa"
-excerpt_image: https://galena.es/assets/images/Diamond_Mining_in_South_Africa.png
+excerpt_image: https://www.galena.es/assets/images/Diamond_Mining_in_South_Africa.png
 categories: [Mining, Geology]
 tags: [Diamond Mining, South Africa, Geology, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Diamond_Mining_in_South_Africa.png "Aerial view of a diamond mine in South Africa, showcasing large open pits and mining machinery, surrounded by rugged terrain, illustrating the history and current state of diamond mining in the region.")
+![banner](https://www.galena.es/assets/images/Diamond_Mining_in_South_Africa.png "Aerial view of a diamond mine in South Africa, showcasing large open pits and mining machinery, surrounded by rugged terrain, illustrating the history and current state of diamond mining in the region.")
 
 # Introduction
 Diamonds, the hardest known natural material, have been sought after for centuries for their unparalleled beauty and industrial applications. One region that has been at the forefront of diamond extraction is South Africa. In this article, we delve into the rich history and current state of diamond mining in South Africa, a journey that takes us from the excitement of the initial discoveries to the complex operations of today.

@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Environmental Impact of Cement Production"
 subtitle: "A deep dive into the environmental consequences of cement manufacture, from carbon emissions to resource depletion"
-excerpt_image: https://galena.es/assets/images/Environmental_Concerns_of_Cement.png
+excerpt_image: https://www.galena.es/assets/images/Environmental_Concerns_of_Cement.png
 categories: [Environment, Industry]
 tags: [Cement Production, Carbon Emissions, Sustainable Mining, Resource Depletion]
 ---
 
-![banner](https://galena.es/assets/images/Environmental_Concerns_of_Cement.png)
+![banner](https://www.galena.es/assets/images/Environmental_Concerns_of_Cement.png)
 
 # Introduction
 There's an unignorable irony in discussing the environmental impact of cement production. Cement, the critical ingredient in concrete, has been a cornerstone of civilization's progress, forming the literal foundations of our cities. Yet, its production process has significant environmental implications. From carbon emissions to the consumption of natural resources, the production of cement is a topic worth examining from an environmental perspective.

@@ -2,12 +2,12 @@
 layout: post
 title: "The Rising Tide of Iron Ore Global Demand"
 subtitle: "Exploring the impact of the escalating global demand for iron ore on economies and the mining industry."
-excerpt_image: https://galena.es/assets/images/Iron_Ore_Global_Demand.png
+excerpt_image: https://www.galena.es/assets/images/Iron_Ore_Global_Demand.png
 categories: [Mining, Economics]
 tags: [iron ore, global demand, mining industry, economic impact]
 ---
 
-![banner](https://galena.es/assets/images/Iron_Ore_Global_Demand.png "Graph illustrating the rising global demand for iron ore, highlighting its economic impact on the mining industry and related sectors, with a backdrop of iron ore mines and geological formations.")
+![banner](https://www.galena.es/assets/images/Iron_Ore_Global_Demand.png "Graph illustrating the rising global demand for iron ore, highlighting its economic impact on the mining industry and related sectors, with a backdrop of iron ore mines and geological formations.")
 
 # Introduction
 As the backbone of modern civilization, iron ore has long been a critical resource. Its significance has only amplified in recent years due to the escalating global demand, painting a fascinating, if complex, economic picture.

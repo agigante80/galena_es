@@ -2,12 +2,12 @@
 layout: post
 title: "Tech Wonders of Magnesium Silicophosphate"
 subtitle: "Discover the potential uses of Magnesium Silicophosphate in technology and its role in powering innovation."
-excerpt_image: https://galena.es/assets/images/Technological_Implications_of_MgSiPO.png
+excerpt_image: https://www.galena.es/assets/images/Technological_Implications_of_MgSiPO.png
 categories: [Mineralogy, Technology]
 tags: [Magnesium Silicophosphate, Electronics, Materials Science, Innovation]
 ---
 
-![banner](https://galena.es/assets/images/Technological_Implications_of_MgSiPO.png "Illustration of Magnesium Silicophosphate (MgSiPO) crystals, highlighting their potential technological applications in various industries, such as electronics and materials science, aimed at geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Technological_Implications_of_MgSiPO.png "Illustration of Magnesium Silicophosphate (MgSiPO) crystals, highlighting their potential technological applications in various industries, such as electronics and materials science, aimed at geology enthusiasts and earth science readers.")
 
 # Introduction
 In our ceaseless quest for technological advancement, we often turn to the earth beneath our feet. One such resource that's sparking interest is Magnesium Silicophosphate (MgSiPO). This mineral, often overlooked, holds immense potential for boosting innovation in various industries, particularly electronics and materials science. This article sheds light on MgSiPO, its properties, and its potential technological applications.

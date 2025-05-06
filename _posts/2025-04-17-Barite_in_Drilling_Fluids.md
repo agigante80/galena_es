@@ -2,12 +2,12 @@
 layout: post
 title: "The Crucial Role of Barite in Drilling Fluids"
 subtitle: "Exploring the critical part played by barite in the oil and gas industry."
-excerpt_image: https://galena.es/assets/images/Barite_in_Drilling_Fluids.png
+excerpt_image: https://www.galena.es/assets/images/Barite_in_Drilling_Fluids.png
 categories: [Mining, Geology]
 tags: [Barite, Drilling Fluids, Oil and Gas Industry, Minerals]
 ---
 
-![banner](https://galena.es/assets/images/Barite_in_Drilling_Fluids.png "Close-up of barite mineral crystals, highlighting their unique geometric shapes and textures, symbolizing their vital role in drilling fluids for the oil and gas industry.")
+![banner](https://www.galena.es/assets/images/Barite_in_Drilling_Fluids.png "Close-up of barite mineral crystals, highlighting their unique geometric shapes and textures, symbolizing their vital role in drilling fluids for the oil and gas industry.")
 
 # Introduction
 

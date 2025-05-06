@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling Bobdownsite: An Insight into its Properties and Formation"
 subtitle: "Discover the unique properties and formation conditions of the rare mineral, Bobdownsite."
-excerpt_image: https://galena.es/assets/images/Bobdownsite_Properties_and_Formation.png
+excerpt_image: https://www.galena.es/assets/images/Bobdownsite_Properties_and_Formation.png
 categories: [Mineralogy, Geology]
 tags: [Bobdownsite, Minerals, Formation, Properties]
 ---
 
-![banner](https://galena.es/assets/images/Bobdownsite_Properties_and_Formation.png "Illustration showcasing Bobdownsite mineral, highlighting its unique properties and formation conditions, with geological diagrams and images of the mineral in various environments, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Bobdownsite_Properties_and_Formation.png "Illustration showcasing Bobdownsite mineral, highlighting its unique properties and formation conditions, with geological diagrams and images of the mineral in various environments, aimed at geology enthusiasts and educators.")
 
 # Introduction
 

@@ -3,12 +3,12 @@
 layout: post
 title: "Gemstone Grading Basics"
 subtitle: "An in-depth exploration into the world of gemstone grading."
-excerpt_image: https://galena.es/assets/images/Gemstone_Grading_Basics.png
+excerpt_image: https://www.galena.es/assets/images/Gemstone_Grading_Basics.png
 categories: [Gemology, Investment]
 tags: [gemstones, grading, investment, geology]
 ---
 
-![banner](https://galena.es/assets/images/Gemstone_Grading_Basics.png "Image delving into the world of gemstone grading, exploring the criteria and methods used to evaluate gemstones for quality, value, and investment potential.")
+![banner](https://www.galena.es/assets/images/Gemstone_Grading_Basics.png "Image delving into the world of gemstone grading, exploring the criteria and methods used to evaluate gemstones for quality, value, and investment potential.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Uncovering the Hidden Beauty of Geodes"
 subtitle: "Delving into the formation, structure, and fascinating crystal formations within geodes"
-excerpt_image: https://galena.es/assets/images/Geodes_Hidden_Beauty.png
+excerpt_image: https://www.galena.es/assets/images/Geodes_Hidden_Beauty.png
 categories: [Geology, Gemstones]
 tags: [Geodes, Crystal Formation, Minerals, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Geodes_Hidden_Beauty.png "Image revealing the hidden beauty of geodes, showcasing their unique formation and the stunning crystal structures that develop inside these geological wonders.")
+![banner](https://www.galena.es/assets/images/Geodes_Hidden_Beauty.png "Image revealing the hidden beauty of geodes, showcasing their unique formation and the stunning crystal structures that develop inside these geological wonders.")
 
 # Uncovering the Hidden Beauty of Geodes
 

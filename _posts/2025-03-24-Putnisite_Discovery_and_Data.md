@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mysteries of Putnisite: A Rare Marvel of the Mineral Kingdom"
 subtitle: "Exploring the discovery and distinctive characteristics of the unique and rare mineral, Putnisite."
-excerpt_image: https://galena.es/assets/images/Putnisite_Discovery_and_Data.png
+excerpt_image: https://www.galena.es/assets/images/Putnisite_Discovery_and_Data.png
 categories: [Mineralogy, Earth Sciences]
 tags: [Putnisite, Gemstones, Mineral Discovery, Crystallography]
 ---
 
-![banner](https://galena.es/assets/images/Putnisite_Discovery_and_Data.png "A close-up image of putnisite crystals showcasing their unique pink and white coloration, set against a backdrop of mineral samples. The photo highlights the intricate textures and formations of this rare mineral, illustrating its distinctive characteristics and significance in geology.")
+![banner](https://www.galena.es/assets/images/Putnisite_Discovery_and_Data.png "A close-up image of putnisite crystals showcasing their unique pink and white coloration, set against a backdrop of mineral samples. The photo highlights the intricate textures and formations of this rare mineral, illustrating its distinctive characteristics and significance in geology.")
 
 # Introduction
 

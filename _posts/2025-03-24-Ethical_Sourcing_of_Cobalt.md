@@ -2,12 +2,12 @@
 layout: post
 title: "The Ethical Conundrum: Sourcing Cobalt Responsibly"
 subtitle: "A deep dive into the challenges and potential solutions in ethical sourcing of cobalt, a key mineral in modern technology."
-excerpt_image: https://galena.es/assets/images/Ethical_Sourcing_of_Cobalt.png
+excerpt_image: https://www.galena.es/assets/images/Ethical_Sourcing_of_Cobalt.png
 categories: [Environment, Technology]
 tags: [Cobalt, Ethical Sourcing, Mining, Sustainability]
 ---
 
-![banner](https://galena.es/assets/images/Ethical_Sourcing_of_Cobalt.png "Infographic illustrating the ethical sourcing of cobalt, featuring key challenges such as child labor and environmental impact, alongside potential solutions like sustainable mining practices and certification systems. The design includes icons representing minerals, mining equipment, and educational elements, aimed at geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Ethical_Sourcing_of_Cobalt.png "Infographic illustrating the ethical sourcing of cobalt, featuring key challenges such as child labor and environmental impact, alongside potential solutions like sustainable mining practices and certification systems. The design includes icons representing minerals, mining equipment, and educational elements, aimed at geology enthusiasts and earth science readers.")
 
 ## Introduction
 

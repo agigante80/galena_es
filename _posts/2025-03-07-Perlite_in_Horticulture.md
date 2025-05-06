@@ -2,12 +2,12 @@
 layout: post
 title: "Perlite: A Hidden Gem in Horticulture"
 subtitle: "Unearth the benefits of perlite in soil aeration and water retention in horticulture."
-excerpt_image: https://galena.es/assets/images/Perlite_in_Horticulture.png
+excerpt_image: https://www.galena.es/assets/images/Perlite_in_Horticulture.png
 categories: [Horticulture, Earth Sciences]
 tags: [Perlite, Soil Aeration, Water Retention, Horticulture]
 ---
 
-![banner](https://galena.es/assets/images/Perlite_in_Horticulture.png "Image showcasing the benefits of perlite in horticulture, focusing on its role in improving soil aeration and water retention for healthier plant growth.")
+![banner](https://www.galena.es/assets/images/Perlite_in_Horticulture.png "Image showcasing the benefits of perlite in horticulture, focusing on its role in improving soil aeration and water retention for healthier plant growth.")
 
 ## Introduction
 

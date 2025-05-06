@@ -2,12 +2,12 @@
 layout: post
 title: "The Rare and Unique Formation of Henmilite"
 subtitle: "Unveil the geological mysteries behind the formation of Henmilite, a rare and fascinating mineral."
-excerpt_image: https://galena.es/assets/images/Unique_Formation_of_Henmilite.png
+excerpt_image: https://www.galena.es/assets/images/Unique_Formation_of_Henmilite.png
 categories: [Minerals, Gemology]
 tags: [Henmilite, Crystal Formation, Mineralogy, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Unique_Formation_of_Henmilite.png "Close-up image of Henmilite crystals showcasing their unique formation and intricate textures, set against a backdrop of rugged geological layers, illustrating the rare conditions required for their development.")
+![banner](https://www.galena.es/assets/images/Unique_Formation_of_Henmilite.png "Close-up image of Henmilite crystals showcasing their unique formation and intricate textures, set against a backdrop of rugged geological layers, illustrating the rare conditions required for their development.")
 
 ## Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Art of Diamond Cutting"
 subtitle: "Delve into the captivating world of diamond cutting techniques, where precision meets artistry."
-excerpt_image: https://galena.es/assets/images/Diamond_Cutting_Techniques.png
+excerpt_image: https://www.galena.es/assets/images/Diamond_Cutting_Techniques.png
 categories: [Geology, Gemology]
 tags: [Diamond Cutting, Gemstones, Geology, Artistry]
 ---
 
-![banner](https://galena.es/assets/images/Diamond_Cutting_Techniques.png "Image showcasing the intricate art and precision of diamond cutting techniques, where craftsmanship and artistry transform raw diamonds into brilliant gemstones.")
+![banner](https://www.galena.es/assets/images/Diamond_Cutting_Techniques.png "Image showcasing the intricate art and precision of diamond cutting techniques, where craftsmanship and artistry transform raw diamonds into brilliant gemstones.")
 
 # Introduction
 

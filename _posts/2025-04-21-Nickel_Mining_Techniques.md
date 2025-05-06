@@ -2,12 +2,12 @@
 layout: post
 title: "Digging into Nickel Mining Techniques"
 subtitle: "Unearth and understand the fascinating techniques employed in nickel mining"
-excerpt_image: https://galena.es/assets/images/Nickel_Mining_Techniques.png
+excerpt_image: https://www.galena.es/assets/images/Nickel_Mining_Techniques.png
 categories: [Mining, Earth Science]
 tags: [Nickel, Mining Techniques, Geology, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Nickel_Mining_Techniques.png "Illustration showcasing various nickel mining techniques, including open-pit mining, underground mining, and hydrometallurgical processes, aimed at educating geology enthusiasts and readers interested in earth sciences.")
+![banner](https://www.galena.es/assets/images/Nickel_Mining_Techniques.png "Illustration showcasing various nickel mining techniques, including open-pit mining, underground mining, and hydrometallurgical processes, aimed at educating geology enthusiasts and readers interested in earth sciences.")
 
 # Introduction
 

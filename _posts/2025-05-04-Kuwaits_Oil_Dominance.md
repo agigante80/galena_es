@@ -2,12 +2,12 @@
 layout: post
 title: "Kuwait's Oil Dominance: A Geological Marvel"
 subtitle: "Unraveling the story behind Kuwait's reliance on its sizeable oil reserves and its implications for the country's future."
-excerpt_image: https://galena.es/assets/images/Kuwaits_Oil_Dominance.png
+excerpt_image: https://www.galena.es/assets/images/Kuwaits_Oil_Dominance.png
 categories: [Geology, Energy Resources]
 tags: [Kuwait, Oil Reserves, Geology, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Kuwaits_Oil_Dominance.png "Map of Kuwait highlighting major oil reserves, illustrating the country's significant reliance on its oil industry for economic stability and growth, surrounded by geological features relevant to mineral and resource extraction.")
+![banner](https://www.galena.es/assets/images/Kuwaits_Oil_Dominance.png "Map of Kuwait highlighting major oil reserves, illustrating the country's significant reliance on its oil industry for economic stability and growth, surrounded by geological features relevant to mineral and resource extraction.")
 
 # Introduction
 

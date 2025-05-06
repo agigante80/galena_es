@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Osmium Market: An Overview of Global Demand"
 subtitle: "Dive deep into the economic aspects of osmium consumption and trade with a comprehensive analysis of its market trends."
-excerpt_image: https://galena.es/assets/images/Osmium_Market_and_Demand.png
+excerpt_image: https://www.galena.es/assets/images/Osmium_Market_and_Demand.png
 categories: [Minerals, Economic Geology]
 tags: [osmium, mineral market, gemstones, economic geology]
 ---
 
-![banner](https://galena.es/assets/images/Osmium_Market_and_Demand.png "A detailed infographic illustrating the osmium market, showcasing global demand trends, consumption statistics, and trade dynamics, aimed at geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Osmium_Market_and_Demand.png "A detailed infographic illustrating the osmium market, showcasing global demand trends, consumption statistics, and trade dynamics, aimed at geology enthusiasts and earth science readers.")
 
 # Introduction
 Osmium, a rare and precious metal from the platinum group, has long intrigued geologists and economic analysts alike. Its unique properties - the highest density, the lowest vapor pressure, and the highest melting point among all elements - make it an exceptional mineral in various applications, from the manufacture of pen nibs and electrical contacts to creating durable alloys. This article delves into the economic aspects of osmium consumption and trade, providing an insight into the global osmium market and its demand.

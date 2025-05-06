@@ -2,12 +2,12 @@
 layout: post
 title: "Platinum: A Precious Metal in Cancer Treatment"
 subtitle: "Explore the intriguing role of platinum compounds in the world of oncology."
-excerpt_image: https://galena.es/assets/images/Platinum_in_Cancer_Treatment.png
+excerpt_image: https://www.galena.es/assets/images/Platinum_in_Cancer_Treatment.png
 categories: [Medicine, Geology]
 tags: [Platinum, Cancer Treatment, Minerals, Oncology]
 ---
 
-![banner](https://galena.es/assets/images/Platinum_in_Cancer_Treatment.png ""Close-up image of platinum crystals, highlighting their metallic luster, with a background of cancer treatment medications, symbolizing the role of platinum compounds in oncology."")
+![banner](https://www.galena.es/assets/images/Platinum_in_Cancer_Treatment.png ""Close-up image of platinum crystals, highlighting their metallic luster, with a background of cancer treatment medications, symbolizing the role of platinum compounds in oncology."")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Indonesia's Bauxite Production: A Key Player in the Minerals Industry"
 subtitle: "An in-depth look into the role and significance of bauxite production in Indonesia's thriving minerals industry."
-excerpt_image: https://galena.es/assets/images/Indonesias_Bauxite_Production.png
+excerpt_image: https://www.galena.es/assets/images/Indonesias_Bauxite_Production.png
 categories: [Earth Science, Minerals]
 tags: [Bauxite, Indonesia, Mining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Indonesias_Bauxite_Production.png ""A detailed infographic illustrating Indonesia's bauxite production, highlighting its significance in the minerals industry, with statistics, mining processes, and geographic distribution, aimed at geology enthusiasts and educators."")
+![banner](https://www.galena.es/assets/images/Indonesias_Bauxite_Production.png ""A detailed infographic illustrating Indonesia's bauxite production, highlighting its significance in the minerals industry, with statistics, mining processes, and geographic distribution, aimed at geology enthusiasts and educators."")
 
 ## Introduction
 

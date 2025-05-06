@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Depths: The Mystery of Deep Earth Perovskites"
 subtitle: "A deep dive into the theoretical existence of hydrogen-rich perovskites hidden beneath the Earth's surface."
-excerpt_image: https://galena.es/assets/images/Deep_Earth_Perovskites.png
+excerpt_image: https://www.galena.es/assets/images/Deep_Earth_Perovskites.png
 categories: [Geology, Mineralogy]
 tags: [Earth, Perovskites, Hydrogen-rich, Deep Earth]
 ---
 
-![banner](https://galena.es/assets/images/Deep_Earth_Perovskites.png "Illustration depicting the theoretical structure of hydrogen-rich perovskites found deep within the Earth, highlighting their crystalline form and potential significance in geology and mineralogy.")
+![banner](https://www.galena.es/assets/images/Deep_Earth_Perovskites.png "Illustration depicting the theoretical structure of hydrogen-rich perovskites found deep within the Earth, highlighting their crystalline form and potential significance in geology and mineralogy.")
 
 # Introduction
 

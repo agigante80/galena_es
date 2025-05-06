@@ -2,12 +2,12 @@
 layout: post
 title: "Bentonite in Drilling Mud: An Indispensable Component"
 subtitle: "Exploring the significance of bentonite in drilling mud and its crucial role in mining and drilling operations."
-excerpt_image: https://galena.es/assets/images/Bentonite_in_Drilling_Mud.png
+excerpt_image: https://www.galena.es/assets/images/Bentonite_in_Drilling_Mud.png
 categories: [Mining, Geology]
 tags: [Bentonite, Drilling Mud, Mining, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Bentonite_in_Drilling_Mud.png "A close-up view of bentonite clay, showcasing its fine texture and natural color, with drilling equipment in the background, illustrating its vital role in drilling mud for geological operations.")
+![banner](https://www.galena.es/assets/images/Bentonite_in_Drilling_Mud.png "A close-up view of bentonite clay, showcasing its fine texture and natural color, with drilling equipment in the background, illustrating its vital role in drilling mud for geological operations.")
 
 ## Introduction
 

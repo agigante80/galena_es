@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing Beauty: The Role of Bentonite in Cosmetics"
 subtitle: "Exploring the fascinating role of bentonite clay, a versatile natural mineral, in cosmetic products."
-excerpt_image: https://galena.es/assets/images/Uses_of_Bentonite_in_Cosmetics.png
+excerpt_image: https://www.galena.es/assets/images/Uses_of_Bentonite_in_Cosmetics.png
 categories: [Minerals in Everyday Life, Beauty and Cosmetics]
 tags: [Bentonite, Cosmetics, Skincare, Natural Minerals]
 ---
 
-![banner](https://galena.es/assets/images/Uses_of_Bentonite_in_Cosmetics.png "An array of cosmetic products featuring bentonite clay, including face masks and powders, displayed on a wooden surface. The image highlights the natural texture and earthy color of the bentonite, emphasizing its role in skincare and beauty applications.")
+![banner](https://www.galena.es/assets/images/Uses_of_Bentonite_in_Cosmetics.png "An array of cosmetic products featuring bentonite clay, including face masks and powders, displayed on a wooden surface. The image highlights the natural texture and earthy color of the bentonite, emphasizing its role in skincare and beauty applications.")
 
 # Introduction
 

@@ -2,11 +2,11 @@
 layout: post
 title: "Unearthing the Impacts of Mining on Communities"
 subtitle: "Exploring the profound socio-economic effects of mining on local communities and their environments."
-excerpt_image: https://galena.es/assets/images/The_Impact_of_Mining_on_Communities.png
+excerpt_image: https://www.galena.es/assets/images/The_Impact_of_Mining_on_Communities.png
 categories: [Mining, Socio-Economics]
 tags: [Mining, Communities, Environment, Socio-Economic Impact]
 ---
-![banner](https://galena.es/assets/images/The_Impact_of_Mining_on_Communities.png "Image exploring the socio-economic and environmental impacts of mining on local communities, highlighting both the positive and negative consequences of mining activities.")
+![banner](https://www.galena.es/assets/images/The_Impact_of_Mining_on_Communities.png "Image exploring the socio-economic and environmental impacts of mining on local communities, highlighting both the positive and negative consequences of mining activities.")
 
 ## Introduction
 

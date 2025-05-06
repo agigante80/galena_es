@@ -2,12 +2,12 @@
 layout: post
 title: "The Intriguing Tale of Sazhinite Discovery"
 subtitle: "Explore the captivating journey of Sazhinite discovery and its unique properties in the realm of minerals."
-excerpt_image: https://galena.es/assets/images/Sazhinite_Discovery_Story.png
+excerpt_image: https://www.galena.es/assets/images/Sazhinite_Discovery_Story.png
 categories: [Mineralogy, Geology]
 tags: [Sazhinite, Mineral Discovery, Rare Minerals, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Sazhinite_Discovery_Story.png "Illustration depicting the initial discovery of Sazhinite, showcasing its unique crystalline structure and vibrant colors, surrounded by geological tools and samples, highlighting its significance in mineralogy.")
+![banner](https://www.galena.es/assets/images/Sazhinite_Discovery_Story.png "Illustration depicting the initial discovery of Sazhinite, showcasing its unique crystalline structure and vibrant colors, surrounded by geological tools and samples, highlighting its significance in mineralogy.")
 
 ## Introduction
 

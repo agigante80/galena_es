@@ -6,7 +6,7 @@ title: "Unearthing Treasures: The Art of Collecting Herbertsmithite"
 
 subtitle: "A comprehensive guide to the rare and intriguing mineral, Herbertsmithite, and tips for enthusiasts on collecting this unique gemstone."
 
-excerpt_image: https://galena.es/assets/images/Collecting_Herbertsmithite.png
+excerpt_image: https://www.galena.es/assets/images/Collecting_Herbertsmithite.png
 
 categories: [Minerals, Collecting]
 
@@ -14,7 +14,7 @@ tags: [Herbertsmithite, Mineral_Collecting, Geology, Gemstones]
 
 ---
 
-![banner](https://galena.es/assets/images/Collecting_Herbertsmithite.png "A close-up of vibrant green Herbertsmithite crystals on a mineral specimen, accompanied by a notepad and tools for mineral collecting, illustrating tips for enthusiasts on collecting this rare mineral.")
+![banner](https://www.galena.es/assets/images/Collecting_Herbertsmithite.png "A close-up of vibrant green Herbertsmithite crystals on a mineral specimen, accompanied by a notepad and tools for mineral collecting, illustrating tips for enthusiasts on collecting this rare mineral.")
 
 # Introduction
 

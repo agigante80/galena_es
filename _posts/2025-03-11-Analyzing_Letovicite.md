@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Intricacies of Letovicite"
 subtitle: "A comprehensive exploration into the chemical composition, analysis, and significance of the fascinating mineral Letovicite."
-excerpt_image: https://galena.es/assets/images/Analyzing_Letovicite.png
+excerpt_image: https://www.galena.es/assets/images/Analyzing_Letovicite.png
 categories: [Mineralogy, Geochemistry]
 tags: [Letovicite, Mineral Analysis, Earth Sciences, Geochemistry]
 ---
 
-![banner](https://galena.es/assets/images/Analyzing_Letovicite.png "Image showcasing the analysis of Letovicite, a rare mineral, delving into its properties and significance in the field of mineralogy.")
+![banner](https://www.galena.es/assets/images/Analyzing_Letovicite.png "Image showcasing the analysis of Letovicite, a rare mineral, delving into its properties and significance in the field of mineralogy.")
 
 "A close-up image of Letovicite crystals, showcasing their unique structure and color, accompanied by lab equipment used for chemical analysis. The background features geological charts and mineral samples, highlighting the significance of Letovicite in earth sciences."
 

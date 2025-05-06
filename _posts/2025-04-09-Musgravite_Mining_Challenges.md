@@ -2,12 +2,12 @@
 layout: post
 title: "The Trials of Mining Musgravite"
 subtitle: "Explore the challenges of mining Musgravite, one of the rarest and most difficult gemstones to extract."
-excerpt_image: https://galena.es/assets/images/Musgravite_Mining_Challenges.png
+excerpt_image: https://www.galena.es/assets/images/Musgravite_Mining_Challenges.png
 categories: [Mining, Gemstones]
 tags: [Musgravite, Mining Challenges, Geology, Rare Gemstones]
 ---
 
-![banner](https://galena.es/assets/images/Musgravite_Mining_Challenges.png ""A rugged mining site showcasing the challenging terrain and conditions for extracting Musgravite, with rocky landscapes and mining equipment in the background, highlighting the difficulties faced in locating this rare gemstone."")
+![banner](https://www.galena.es/assets/images/Musgravite_Mining_Challenges.png ""A rugged mining site showcasing the challenging terrain and conditions for extracting Musgravite, with rocky landscapes and mining equipment in the background, highlighting the difficulties faced in locating this rare gemstone."")
 
 # Introduction
 

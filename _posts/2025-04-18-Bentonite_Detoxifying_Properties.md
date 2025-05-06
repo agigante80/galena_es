@@ -2,12 +2,12 @@
 layout: post
 title: "Bentonite: The Detoxifying Clay"
 subtitle: "Unearth the detoxifying properties of bentonite clay and its varied uses in health products"
-excerpt_image: https://galena.es/assets/images/Bentonite_Detoxifying_Properties.png
+excerpt_image: https://www.galena.es/assets/images/Bentonite_Detoxifying_Properties.png
 categories: [Mineralogy, Health]
 tags: [Bentonite, Detoxification, Health Products, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Bentonite_Detoxifying_Properties.png "An informative graphic illustrating the detoxifying properties of bentonite clay, featuring key benefits and applications in health products, set against a backdrop of geological formations and mineral textures.")
+![banner](https://www.galena.es/assets/images/Bentonite_Detoxifying_Properties.png "An informative graphic illustrating the detoxifying properties of bentonite clay, featuring key benefits and applications in health products, set against a backdrop of geological formations and mineral textures.")
 
 # Introduction
 

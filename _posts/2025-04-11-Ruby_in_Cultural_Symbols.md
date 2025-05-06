@@ -2,12 +2,12 @@
 layout: post
 title: "Rubies: A Gem of Cultural Significance"
 subtitle: "An exploration of the role rubies have played in various cultures, symbolizing passion, power, and protection."
-excerpt_image: https://galena.es/assets/images/Ruby_in_Cultural_Symbols.png
+excerpt_image: https://www.galena.es/assets/images/Ruby_in_Cultural_Symbols.png
 categories: [Geology, Culture]
 tags: [Rubies, Cultural Symbols, Gemstones, History]
 ---
 
-![banner](https://galena.es/assets/images/Ruby_in_Cultural_Symbols.png "An artistic display of rubies embedded in various cultural artifacts, showcasing their significance in jewelry, religious symbols, and traditional art across different cultures. The image highlights the rich red color of the gemstones against intricate designs, emphasizing their historical and cultural importance.")
+![banner](https://www.galena.es/assets/images/Ruby_in_Cultural_Symbols.png "An artistic display of rubies embedded in various cultural artifacts, showcasing their significance in jewelry, religious symbols, and traditional art across different cultures. The image highlights the rich red color of the gemstones against intricate designs, emphasizing their historical and cultural importance.")
 
 ## Introduction
 From the heart of the earth, where immense pressure and temperature mold minerals into brilliant stones, emerge rubies - the captivating red gemstones that have been a symbol of passion, power, and protection throughout history. This article delves into the cultural significance of rubies, exploring their role in various civilizations and artifacts.

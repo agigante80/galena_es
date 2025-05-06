@@ -2,12 +2,12 @@
 layout: post
 title: "Luxembourg: A Pioneer in Space Mining Investments"
 subtitle: "An in-depth exploration of Luxembourg's ambitious foray into the futuristic world of space mining."
-excerpt_image: https://galena.es/assets/images/Luxembourg_Investing_in_Space_Mining.png
+excerpt_image: https://www.galena.es/assets/images/Luxembourg_Investing_in_Space_Mining.png
 categories: [Space Mining, Investment]
 tags: [Luxembourg, space mining, asteroid mining, investments]
 ---
 
-![banner](https://galena.es/assets/images/Luxembourg_Investing_in_Space_Mining.png "An infographic illustrating Luxembourg's investments in space mining, featuring images of asteroids, mining equipment, and minerals, accompanied by key statistics and facts about the country's initiatives in extraterrestrial resource exploration.")
+![banner](https://www.galena.es/assets/images/Luxembourg_Investing_in_Space_Mining.png "An infographic illustrating Luxembourg's investments in space mining, featuring images of asteroids, mining equipment, and minerals, accompanied by key statistics and facts about the country's initiatives in extraterrestrial resource exploration.")
 
 # Introduction
 

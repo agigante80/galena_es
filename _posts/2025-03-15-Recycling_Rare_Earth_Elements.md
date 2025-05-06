@@ -2,12 +2,12 @@
 layout: post
 title: "Unlocking the Potential of Recycling Rare Earth Elements"
 subtitle: "Exploring the challenges and remarkable benefits of recycling rare earth elements in our modern world."
-excerpt_image: https://galena.es/assets/images/Recycling_Rare_Earth_Elements.png
+excerpt_image: https://www.galena.es/assets/images/Recycling_Rare_Earth_Elements.png
 categories: [Earth Science, Sustainable Mining]
 tags: [Recycling, Rare Earth Elements, Sustainable Mining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Recycling_Rare_Earth_Elements.png ""Infographic illustrating the challenges and benefits of recycling rare earth elements, featuring diagrams of the recycling process, statistics on rare earth element usage, and images of minerals and mining equipment, aimed at geology enthusiasts and earth science educators."")
+![banner](https://www.galena.es/assets/images/Recycling_Rare_Earth_Elements.png ""Infographic illustrating the challenges and benefits of recycling rare earth elements, featuring diagrams of the recycling process, statistics on rare earth element usage, and images of minerals and mining equipment, aimed at geology enthusiasts and earth science educators."")
 
 # Introduction 
 

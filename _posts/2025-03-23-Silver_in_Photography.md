@@ -2,12 +2,12 @@
 layout: post
 title: "The Silver Lining in Photography"
 subtitle: "Exploring the enduring role of silver in the world of photographic film."
-excerpt_image: https://galena.es/assets/images/Silver_in_Photography.png
+excerpt_image: https://www.galena.es/assets/images/Silver_in_Photography.png
 categories: [Photography, Minerals]
 tags: [Silver, Film Photography, Mineralogy, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Silver_in_Photography.png "A close-up of a vintage photographic film roll, highlighting the shimmering silver layer that plays a crucial role in capturing images, symbolizing the enduring significance of silver in photography.")
+![banner](https://www.galena.es/assets/images/Silver_in_Photography.png "A close-up of a vintage photographic film roll, highlighting the shimmering silver layer that plays a crucial role in capturing images, symbolizing the enduring significance of silver in photography.")
 
 # Introduction
 

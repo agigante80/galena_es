@@ -2,12 +2,12 @@
 layout: post
 title: "Switzerland: The Golden Heart of the Global Gold Market"
 subtitle: "Unearth the intriguing story of Switzerland's significant role in shaping the global gold market."
-excerpt_image: https://galena.es/assets/images/Switzerland_and_Gold.png
+excerpt_image: https://www.galena.es/assets/images/Switzerland_and_Gold.png
 categories: [Geology, Economy]
 tags: [Switzerland, Gold, Mining, Global Market]
 ---
 
-![banner](https://galena.es/assets/images/Switzerland_and_Gold.png "An infographic illustrating Switzerland's significant role in the global gold market, featuring key statistics on gold production, trade routes, and the country's mining practices, designed for geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Switzerland_and_Gold.png "An infographic illustrating Switzerland's significant role in the global gold market, featuring key statistics on gold production, trade routes, and the country's mining practices, designed for geology enthusiasts and educators.")
 
 # Introduction
 

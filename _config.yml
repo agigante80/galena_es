@@ -47,7 +47,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Powered entirely by AI, our site offers in-depth insights and the latest trends in geology, crafted for enthusiasts and experts alike.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://galena.es" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://www.galena.es" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "/assets/favicon/favicon_galena_32x32.png" # the favicon for your site
 
 # Yat date format

@@ -2,12 +2,12 @@
 layout: post
 title: "Ghana's Gold Export: An Economic Powerhouse"
 subtitle: "Unveiling the role of gold exports in fueling Ghana's vibrant economy."
-excerpt_image: https://galena.es/assets/images/Ghanas_Gold_Export.png
+excerpt_image: https://www.galena.es/assets/images/Ghanas_Gold_Export.png
 categories: [Mining, Economy]
 tags: [Ghana, Gold, Export, Economy]
 ---
 
-![banner](https://galena.es/assets/images/Ghanas_Gold_Export.png "Aerial view of a Ghanaian gold mine showcasing large excavators and trucks at work, illustrating the significance of gold export in boosting Ghana's economy and its role in the mining industry.")
+![banner](https://www.galena.es/assets/images/Ghanas_Gold_Export.png "Aerial view of a Ghanaian gold mine showcasing large excavators and trucks at work, illustrating the significance of gold export in boosting Ghana's economy and its role in the mining industry.")
 
 # Introduction
 

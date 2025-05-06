@@ -2,12 +2,12 @@
 layout: post
 title: "Qatar's Dominance in Natural Gas"
 subtitle: "Discover how Qatar leverages its abundant natural gas reserves to fuel its economy."
-excerpt_image: https://galena.es/assets/images/Qatars_Natural_Gas_Reserves.png
+excerpt_image: https://www.galena.es/assets/images/Qatars_Natural_Gas_Reserves.png
 categories: [Geology, Economy]
 tags: [Natural Gas, Qatar, Energy, Economic Development]
 ---
 
-![banner](https://galena.es/assets/images/Qatars_Natural_Gas_Reserves.png)
+![banner](https://www.galena.es/assets/images/Qatars_Natural_Gas_Reserves.png)
 
 # Introduction
 

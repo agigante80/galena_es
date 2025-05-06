@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthed Secrets: Copper Mining Techniques"
 subtitle: "Dive into the fascinating world of copper mining and discover the techniques used in the extraction and processing of this essential mineral."
-excerpt_image: https://galena.es/assets/images/Copper_Mining_Techniques.png
+excerpt_image: https://www.galena.es/assets/images/Copper_Mining_Techniques.png
 categories: [Mining Techniques, Copper Extraction]
 tags: [copper mining, earth sciences, mineral extraction, processing techniques]
 ---
 
-![banner](https://galena.es/assets/images/Copper_Mining_Techniques.png "An infographic illustrating various copper mining techniques, including open-pit mining, underground mining, and hydrometallurgical processes, with labeled diagrams and images of equipment used in copper extraction and processing.")
+![banner](https://www.galena.es/assets/images/Copper_Mining_Techniques.png "An infographic illustrating various copper mining techniques, including open-pit mining, underground mining, and hydrometallurgical processes, with labeled diagrams and images of equipment used in copper extraction and processing.")
 
 # Introduction
 
@@ -19,19 +19,19 @@ Copper, an element that has been part of human progress since the dawn of civili
 
 Open-pit mining is the most common method to extract copper ore near the earth's surface. The process involves excavating a pit in the ground and removing ore-bearing rock.
 
-![Open Pit Mining](https://galena.es/assets/images/Open_Pit_Mining.png)
+![Open Pit Mining](https://www.galena.es/assets/images/Open_Pit_Mining.png)
 
 ## Underground Mining
 
 When copper deposits occur deep below the surface, the underground mining method is employed. This involves sinking shafts and tunnels to reach the ore, which is then cut and brought to the surface.
 
-![Underground Mining](https://galena.es/assets/images/Underground_Mining.png)
+![Underground Mining](https://www.galena.es/assets/images/Underground_Mining.png)
 
 ## Hydrometallurgical Process
 
 In the hydrometallurgical process, the ore is crushed and leached with sulfuric acid to dissolve the copper. The solution is then treated to extract the copper.
 
-![Hydrometallurgical Process](https://galena.es/assets/images/Hydrometallurgical_Process.png)
+![Hydrometallurgical Process](https://www.galena.es/assets/images/Hydrometallurgical_Process.png)
 
 ## Comparison of Techniques
 

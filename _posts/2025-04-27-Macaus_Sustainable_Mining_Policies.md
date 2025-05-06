@@ -2,12 +2,12 @@
 layout: post
 title: "Macau's Commitment to Sustainable Mining"
 subtitle: "A deep dive into Macau's progressive and eco-friendly mining practices."
-excerpt_image: https://galena.es/assets/images/Macaus_Sustainable_Mining_Policies.png
+excerpt_image: https://www.galena.es/assets/images/Macaus_Sustainable_Mining_Policies.png
 categories: [Sustainability, Mining]
 tags: [Macau, Sustainable Mining, Green Policies, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Macaus_Sustainable_Mining_Policies.png "Infographic illustrating Macau's sustainable mining policies, featuring key statistics and practices that promote eco-friendly mineral extraction, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Macaus_Sustainable_Mining_Policies.png "Infographic illustrating Macau's sustainable mining policies, featuring key statistics and practices that promote eco-friendly mineral extraction, aimed at geology enthusiasts and educators.")
 
 # Macau's Commitment to Sustainable Mining
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Dutch Sustainable Mining: Pioneering Green Initiatives"
 subtitle: "Unearthing the Netherlands' commitment to sustainable mining and its role in revolutionizing the industry"
-excerpt_image: https://galena.es/assets/images/Dutch_Sustainable_Mining_Initiatives.png
+excerpt_image: https://www.galena.es/assets/images/Dutch_Sustainable_Mining_Initiatives.png
 categories: [Sustainability, Mining]
 tags: [Dutch Mining, Sustainable Practices, Green Mining, Eco-Friendly]
 ---
 
-![banner](https://galena.es/assets/images/Dutch_Sustainable_Mining_Initiatives.png) _Infographic showcasing Dutch sustainable mining initiatives, highlighting investments in eco-friendly mineral extraction and gemstone sourcing practices. The design includes illustrations of minerals, mining equipment, and green technologies._
+![banner](https://www.galena.es/assets/images/Dutch_Sustainable_Mining_Initiatives.png) _Infographic showcasing Dutch sustainable mining initiatives, highlighting investments in eco-friendly mineral extraction and gemstone sourcing practices. The design includes illustrations of minerals, mining equipment, and green technologies._
 
 # Introduction
 

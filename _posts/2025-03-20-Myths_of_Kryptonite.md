@@ -2,12 +2,12 @@
 layout: post
 title: "Myths of Kryptonite: A Cultural Phenomenon"
 subtitle: "Exploring the cultural impact of Kryptonite beyond the realm of Superman comics."
-excerpt_image: https://galena.es/assets/images/Myths_of_Kryptonite.png
+excerpt_image: https://www.galena.es/assets/images/Myths_of_Kryptonite.png
 categories: [Pop Culture, Earth Science]
 tags: [Kryptonite, Superman, Comics, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Myths_of_Kryptonite.png "An artistic representation of Kryptonite, featuring a glowing green crystal surrounded by geological elements like rocks and minerals, symbolizing its cultural significance beyond Superman comics, appealing to geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Myths_of_Kryptonite.png "An artistic representation of Kryptonite, featuring a glowing green crystal surrounded by geological elements like rocks and minerals, symbolizing its cultural significance beyond Superman comics, appealing to geology enthusiasts and earth science readers.")
 
 ## Introduction
 

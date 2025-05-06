@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mysteries of Hibonite: A Deep Dive into its Discovery and Mining"
 subtitle: "A comprehensive exploration into the discovery, mining, and fascinating aspects of the rare mineral, Hibonite" 
-excerpt_image: https://galena.es/assets/images/Hibonite_Mineral_Discoveries.png
+excerpt_image: https://www.galena.es/assets/images/Hibonite_Mineral_Discoveries.png
 categories: [Geology, Minerals]
 tags: [Hibonite, Mineral Discovery, Mining, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Hibonite_Mineral_Discoveries.png)
+![banner](https://www.galena.es/assets/images/Hibonite_Mineral_Discoveries.png)
 
 # Introduction
 

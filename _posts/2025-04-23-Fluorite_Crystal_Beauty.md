@@ -2,12 +2,12 @@
 layout: post
 title: "The Fascinating World of Fluorite Crystals"
 subtitle: "Unveiling the beauty and allure of fluorite crystals, a gemstone collector's delight."
-excerpt_image: https://galena.es/assets/images/Fluorite_Crystal_Beauty.png
+excerpt_image: https://www.galena.es/assets/images/Fluorite_Crystal_Beauty.png
 categories: [Mineralogy, Gemstones]
 tags: [Fluorite, Crystal, Geology, Collector's favorite]
 ---
 
-![banner](https://galena.es/assets/images/Fluorite_Crystal_Beauty.png "Close-up of a vibrant green fluorite crystal showcasing its unique cubic structure and clarity, highlighting the mineral's beauty and appeal to collectors.")
+![banner](https://www.galena.es/assets/images/Fluorite_Crystal_Beauty.png "Close-up of a vibrant green fluorite crystal showcasing its unique cubic structure and clarity, highlighting the mineral's beauty and appeal to collectors.")
 
 # Introduction
 

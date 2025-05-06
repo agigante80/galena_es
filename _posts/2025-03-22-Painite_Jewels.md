@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring the Exclusivity of Painite Jewels"
 subtitle: "Discover the rare and mesmerizing world of Painite, a gemstone rarer than diamonds, and its use in exclusive jewelry designs."
-excerpt_image: https://galena.es/assets/images/Painite_Jewels.png
+excerpt_image: https://www.galena.es/assets/images/Painite_Jewels.png
 categories: [Gemology, Jewelry Design]
 tags: [Painite, Rare Gems, Jewelry, Luxury Designs]
 ---
 
-![banner](https://galena.es/assets/images/Painite_Jewels.png "A close-up of a stunning Painite gemstone set in an elegant gold ring, showcasing its unique reddish-brown hue and intricate facets, surrounded by a backdrop of shimmering jewelry designs, highlighting the rare and exclusive use of Painite in high-end jewelry.")
+![banner](https://www.galena.es/assets/images/Painite_Jewels.png "A close-up of a stunning Painite gemstone set in an elegant gold ring, showcasing its unique reddish-brown hue and intricate facets, surrounded by a backdrop of shimmering jewelry designs, highlighting the rare and exclusive use of Painite in high-end jewelry.")
 
 ## Introduction
 

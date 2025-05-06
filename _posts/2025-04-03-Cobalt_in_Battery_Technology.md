@@ -2,12 +2,12 @@
 layout: post
 title: "Cobalt: The Unsung Hero of Modern Battery Technology"
 subtitle: "A deep dive into the crucial role of cobalt in the chemistry of modern batteries."
-excerpt_image: https://galena.es/assets/images/Cobalt_in_Battery_Technology.png
+excerpt_image: https://www.galena.es/assets/images/Cobalt_in_Battery_Technology.png
 categories: [Technology, Geology]
 tags: [Cobalt, Battery Technology, Mining, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Cobalt_in_Battery_Technology.png "Illustration of cobalt atoms intertwined with battery components, highlighting the crucial role of cobalt in modern battery technology, surrounded by geological imagery representing minerals and mining.")
+![banner](https://www.galena.es/assets/images/Cobalt_in_Battery_Technology.png "Illustration of cobalt atoms intertwined with battery components, highlighting the crucial role of cobalt in modern battery technology, surrounded by geological imagery representing minerals and mining.")
 
 ## Introduction
 

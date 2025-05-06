@@ -2,12 +2,12 @@
 layout: post
 title: "Salt: More Than Just a Kitchen Staple"
 subtitle: "Exploring the diverse uses of salt beyond the culinary world - from industrial applications to health benefits."
-excerpt_image: https://galena.es/assets/images/Uses_of_Salt_Beyond_Cooking.png
+excerpt_image: https://www.galena.es/assets/images/Uses_of_Salt_Beyond_Cooking.png
 categories: [Geology, Health]
 tags: [Salt, Industrial Uses, Health Benefits, Minerals]
 ---
 
-![banner](https://galena.es/assets/images/Uses_of_Salt_Beyond_Cooking.png ""Infographic illustrating the diverse uses of salt beyond cooking, highlighting its industrial applications in chemical production, water treatment, and de-icing, as well as its health benefits in mineral supplements and therapeutic uses, catering to geology enthusiasts and earth science readers."")
+![banner](https://www.galena.es/assets/images/Uses_of_Salt_Beyond_Cooking.png ""Infographic illustrating the diverse uses of salt beyond cooking, highlighting its industrial applications in chemical production, water treatment, and de-icing, as well as its health benefits in mineral supplements and therapeutic uses, catering to geology enthusiasts and earth science readers."")
 
 # Introduction
 

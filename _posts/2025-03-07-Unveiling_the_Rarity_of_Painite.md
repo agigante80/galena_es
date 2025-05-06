@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Rarity of Painite"
 subtitle: "An exploration into what makes Painite one of the rarest and most coveted minerals on Earth"
-excerpt_image: https://galena.es/assets/images/Unveiling_the_Rarity_of_Painite.png
+excerpt_image: https://www.galena.es/assets/images/Unveiling_the_Rarity_of_Painite.png
 categories: [Minerals, Geology]
 tags: [Painite, Rare Minerals, Earth Sciences, Gemstones]
 ---
 
-![banner](https://galena.es/assets/images/Unveiling_the_Rarity_of_Painite.png "Image showcasing Painite, one of the rarest and most coveted minerals on Earth, highlighting its unique properties and geological significance.")
+![banner](https://www.galena.es/assets/images/Unveiling_the_Rarity_of_Painite.png "Image showcasing Painite, one of the rarest and most coveted minerals on Earth, highlighting its unique properties and geological significance.")
 
 ## Introduction
 

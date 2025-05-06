@@ -2,12 +2,12 @@
 layout: post
 title: "Titanium in Aerospace: The Unseen Hero"
 subtitle: "Discover how titanium, an unassuming silver metal, has revolutionized the aerospace industry."
-excerpt_image: https://galena.es/assets/images/Titanium_in_Aerospace.png
+excerpt_image: https://www.galena.es/assets/images/Titanium_in_Aerospace.png
 categories: [Aerospace Engineering, Earth Sciences]
 tags: [Titanium, Aerospace, Minerals, Engineering]
 ---
 
-![banner](https://galena.es/assets/images/Titanium_in_Aerospace.png "A sleek titanium aircraft wing against a blue sky, highlighting the importance of titanium in aerospace engineering for its strength and lightweight properties.")
+![banner](https://www.galena.es/assets/images/Titanium_in_Aerospace.png "A sleek titanium aircraft wing against a blue sky, highlighting the importance of titanium in aerospace engineering for its strength and lightweight properties.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "The Lustrous Tale of Topaz: From Mythology to Dazzling Jewelry"
 subtitle: "Unravel the historical and cultural significance of topaz gemstone, exploring its roots in mythology and its resplendent journey in the world of jewelry."
-excerpt_image: https://galena.es/assets/images/Topaz_in_Myth_and_Jewelry.png
+excerpt_image: https://www.galena.es/assets/images/Topaz_in_Myth_and_Jewelry.png
 categories: [Gemology, History]
 tags: [Topaz, Mythology, Jewelry, Cultural Significance]
 ---
 
-![banner](https://galena.es/assets/images/Topaz_in_Myth_and_Jewelry.png "Image exploring the historical and cultural significance of topaz, from its roots in mythology to its dazzling journey in the world of jewelry.")
+![banner](https://www.galena.es/assets/images/Topaz_in_Myth_and_Jewelry.png "Image exploring the historical and cultural significance of topaz, from its roots in mythology to its dazzling journey in the world of jewelry.")
 
 # The Lustrous Tale of Topaz: From Mythology to Dazzling Jewelry
 

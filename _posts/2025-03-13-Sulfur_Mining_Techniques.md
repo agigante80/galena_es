@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing Yellow Gold: Techniques of Sulfur Mining"
 subtitle: "Exploring the evolution of sulfur mining from traditional to modern extraction methods."
-excerpt_image: https://galena.es/assets/images/Sulfur_Mining_Techniques.png
+excerpt_image: https://www.galena.es/assets/images/Sulfur_Mining_Techniques.png
 categories: [Minerals, Mining]
 tags: [Sulfur Mining, Extraction Techniques, Industrial Revolution, Modern Mining]
 ---
 
-![banner](https://galena.es/assets/images/Sulfur_Mining_Techniques.png "A split image showcasing traditional sulfur mining techniques on the left, featuring workers extracting sulfur from volcanic deposits, and modern sulfur extraction methods on the right, highlighting industrial machinery in a mining operation.")
+![banner](https://www.galena.es/assets/images/Sulfur_Mining_Techniques.png "A split image showcasing traditional sulfur mining techniques on the left, featuring workers extracting sulfur from volcanic deposits, and modern sulfur extraction methods on the right, highlighting industrial machinery in a mining operation.")
 
 # Unearthing Yellow Gold: Techniques of Sulfur Mining
 

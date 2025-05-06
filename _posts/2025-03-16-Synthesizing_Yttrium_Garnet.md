@@ -2,12 +2,12 @@
 layout: post
 title: "Synthesizing Yttrium Garnet: A Journey into Crystal Engineering"
 subtitle: "A deep dive into the synthesis of Yttrium Garnet, a critical mineral in a variety of technological applications."
-excerpt_image: https://galena.es/assets/images/Synthesizing_Yttrium_Garnet.png
+excerpt_image: https://www.galena.es/assets/images/Synthesizing_Yttrium_Garnet.png
 categories: [Crystal Engineering, Mineral Synthesis]
 tags: [Yttrium Garnet, Synthesis, Geology, Technology]
 ---
 
-![banner](https://galena.es/assets/images/Synthesizing_Yttrium_Garnet.png "A laboratory setup showcasing the synthesis of Yttrium Garnet, featuring equipment such as a furnace, chemical precursors, and crystalline structures. The image illustrates the intricate processes involved in creating this mineral, highlighting its significance in geology and various industrial applications.")
+![banner](https://www.galena.es/assets/images/Synthesizing_Yttrium_Garnet.png "A laboratory setup showcasing the synthesis of Yttrium Garnet, featuring equipment such as a furnace, chemical precursors, and crystalline structures. The image illustrates the intricate processes involved in creating this mineral, highlighting its significance in geology and various industrial applications.")
 
 # Introduction
 

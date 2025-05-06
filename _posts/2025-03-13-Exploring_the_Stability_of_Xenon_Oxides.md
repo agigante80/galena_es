@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mysteries of Xenon Oxides"
 subtitle: "Dive into the fascinating world of xenon oxides and explore their unique stability conditions."
-excerpt_image: https://galena.es/assets/images/Exploring_the_Stability_of_Xenon_Oxides.png
+excerpt_image: https://www.galena.es/assets/images/Exploring_the_Stability_of_Xenon_Oxides.png
 categories: [Geology, Chemistry]
 tags: [Xenon Oxides, Stability, Noble Gases, Compounds]
 ---
 
-![banner](https://galena.es/assets/images/Exploring_the_Stability_of_Xenon_Oxides.png "A close-up image of various xenon oxide crystals displayed on a geological specimen background, illustrating the unique structures and colors of these rare compounds, with labels highlighting their stability conditions.")
+![banner](https://www.galena.es/assets/images/Exploring_the_Stability_of_Xenon_Oxides.png "A close-up image of various xenon oxide crystals displayed on a geological specimen background, illustrating the unique structures and colors of these rare compounds, with labels highlighting their stability conditions.")
 
 # Introduction
 Xenon, a noble gas, known for its reluctance to partake in chemical reactions, presents an intriguing exception in the form of xenon oxides. These unusual compounds challenge the traditional understanding of xenon's inert nature and present a fascinating area of exploration in the world of minerals and gemstones. This article delves into the intriguing world of xenon oxides, examining their unique stability conditions.

@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Optical Mysteries of Calcite"
 subtitle: "Embark on an enlightening exploration into the fascinating optical properties of the mineral calcite."
-excerpt_image: https://galena.es/assets/images/Unique_Properties_of_Calcite.png
+excerpt_image: https://www.galena.es/assets/images/Unique_Properties_of_Calcite.png
 categories: [Minerals, Earth Sciences]
 tags: [Calcite, Optical Properties, Geology, Refraction]
 ---
 
-![banner](https://galena.es/assets/images/Unique_Properties_of_Calcite.png "A close-up image of a clear calcite crystal, showcasing its distinctive optical properties, including double refraction and light dispersion, set against a dark background to highlight its clarity and structure.")
+![banner](https://www.galena.es/assets/images/Unique_Properties_of_Calcite.png "A close-up image of a clear calcite crystal, showcasing its distinctive optical properties, including double refraction and light dispersion, set against a dark background to highlight its clarity and structure.")
 
 # Introduction
 

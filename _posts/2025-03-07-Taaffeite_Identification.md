@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mystique of Taaffeite Identification"
 subtitle: "Your comprehensive guide to identifying and verifying authentic Taaffeite gemstones."
-excerpt_image: https://galena.es/assets/images/Taaffeite_Identification.png
+excerpt_image: https://www.galena.es/assets/images/Taaffeite_Identification.png
 categories: [Gemology, Earth Science]
 tags: [Taaffeite, Gem Identification, Mineralogy, Gemstones]
 ---
 
-![banner](https://galena.es/assets/images/Taaffeite_Identification.png "Image depicting the process of identifying and verifying authentic Taaffeite gemstones, focusing on the unique characteristics and methods used in gemology.")
+![banner](https://www.galena.es/assets/images/Taaffeite_Identification.png "Image depicting the process of identifying and verifying authentic Taaffeite gemstones, focusing on the unique characteristics and methods used in gemology.")
 
 # Unveiling the Mystique of Taaffeite Identification
 Discovering an authentic Taaffeite gemstone is not only a rare find, but a rewarding one for both gem enthusiasts and geologists alike. Named after gemologist Richard Taaffe, who first discovered it, Taaffeite is considered one of the rarest and most desirable gemstones in the world.

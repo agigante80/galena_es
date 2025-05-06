@@ -2,12 +2,12 @@
 layout: post
 title: "Safety Protocols in Uranium Mining"
 subtitle: "A comprehensive guide to the safety measures and procedures in uranium extraction"
-excerpt_image: https://galena.es/assets/images/Safety_in_Uranium_Mining.png
+excerpt_image: https://www.galena.es/assets/images/Safety_in_Uranium_Mining.png
 categories: [Mining, Safety]
 tags: [uranium, mining, safety, radon]
 ---
 
-![banner](https://galena.es/assets/images/Safety_in_Uranium_Mining.png "Infographic illustrating safety protocols in uranium mining, featuring protective gear, radiation monitoring, and environmental safeguards, aimed at educating geology enthusiasts and the general public about safe extraction practices.")
+![banner](https://www.galena.es/assets/images/Safety_in_Uranium_Mining.png "Infographic illustrating safety protocols in uranium mining, featuring protective gear, radiation monitoring, and environmental safeguards, aimed at educating geology enthusiasts and the general public about safe extraction practices.")
 
 ## Introduction
 

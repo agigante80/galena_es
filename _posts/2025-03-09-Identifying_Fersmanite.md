@@ -2,12 +2,12 @@
 layout: post
 title: "A Detailed Guide to Identifying Fersmanite"
 subtitle: "Discover how to distinguish Fersmanite from similar minerals in this comprehensive guide."
-excerpt_image: https://galena.es/assets/images/Identifying_Fersmanite.png
+excerpt_image: https://www.galena.es/assets/images/Identifying_Fersmanite.png
 categories: [Geology, Mineralogy]
 tags: [Fersmanite, Mineral Identification, Earth Sciences, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Identifying_Fersmanite.png "A close-up image of Fersmanite mineral, showcasing its distinctive dark color and crystal structure, accompanied by comparison samples of similar minerals for identification purposes. Ideal for geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Identifying_Fersmanite.png "A close-up image of Fersmanite mineral, showcasing its distinctive dark color and crystal structure, accompanied by comparison samples of similar minerals for identification purposes. Ideal for geology enthusiasts and educators.")
 
 # Introduction
 

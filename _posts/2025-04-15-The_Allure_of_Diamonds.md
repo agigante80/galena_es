@@ -2,12 +2,12 @@
 layout: post
 title: "The Unique Allure of Diamonds"
 subtitle: "Discover the fascinating properties that make diamonds the world's most sought-after gemstones."
-excerpt_image: https://galena.es/assets/images/The_Allure_of_Diamonds.png
+excerpt_image: https://www.galena.es/assets/images/The_Allure_of_Diamonds.png
 categories: [Gemology, Earth Sciences]
 tags: [Diamonds, Mining, Geology, Gemstones]
 ---
 
-![banner](https://galena.es/assets/images/The_Allure_of_Diamonds.png "Close-up image of a sparkling diamond showcasing its brilliant facets and clarity, symbolizing the unique properties that make diamonds highly desirable in the world of gemstones.")
+![banner](https://www.galena.es/assets/images/The_Allure_of_Diamonds.png "Close-up image of a sparkling diamond showcasing its brilliant facets and clarity, symbolizing the unique properties that make diamonds highly desirable in the world of gemstones.")
 
 # Introduction
 

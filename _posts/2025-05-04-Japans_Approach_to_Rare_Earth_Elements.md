@@ -2,12 +2,12 @@
 layout: post
 title: "Japan's Strategic Approach to Rare Earth Elements"
 subtitle: "A deep dive into Japan's strategic initiatives to secure rare earth elements for its thriving tech industry."
-excerpt_image: https://galena.es/assets/images/Japans_Approach_to_Rare_Earth_Elements.png
+excerpt_image: https://www.galena.es/assets/images/Japans_Approach_to_Rare_Earth_Elements.png
 categories: [Geology, Mining]
 tags: [Japan, Rare Earth Elements, Tech Industry, Mining]
 ---
 
-![banner](https://galena.es/assets/images/Japans_Approach_to_Rare_Earth_Elements.png "A map of Japan highlighting key regions for rare earth element mining, with icons representing technology manufacturing and mineral resources, illustrating Japan's strategic efforts to secure essential materials for the tech industry.")
+![banner](https://www.galena.es/assets/images/Japans_Approach_to_Rare_Earth_Elements.png "A map of Japan highlighting key regions for rare earth element mining, with icons representing technology manufacturing and mineral resources, illustrating Japan's strategic efforts to secure essential materials for the tech industry.")
 
 # Introduction
 

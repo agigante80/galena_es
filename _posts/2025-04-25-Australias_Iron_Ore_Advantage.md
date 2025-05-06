@@ -2,12 +2,12 @@
 layout: post
 title: "Australia's Iron Ore Advantage: A Global Powerhouse"
 subtitle: "Exploring Australia's pivotal role as a leading global supplier of iron ore."
-excerpt_image: https://galena.es/assets/images/Australias_Iron_Ore_Advantage.png
+excerpt_image: https://www.galena.es/assets/images/Australias_Iron_Ore_Advantage.png
 categories: [Mining, Geology]
 tags: [Australia, Iron Ore, Mining, Global Supplier]
 ---
 
-![Map of Australia highlighting major iron ore mining regions, showcasing the country's extensive mineral resources and its position as a leading global supplier of iron ore.](https://galena.es/assets/images/Australias_Iron_Ore_Advantage.png)
+![Map of Australia highlighting major iron ore mining regions, showcasing the country's extensive mineral resources and its position as a leading global supplier of iron ore.](https://www.galena.es/assets/images/Australias_Iron_Ore_Advantage.png)
 
 # Introduction
 
@@ -19,7 +19,7 @@ Australia, the land Down Under, has long been recognized for its diverse natural
 
 Australia's iron ore journey began in the 1960s in the Pilbara region of Western Australia. Since then, the country has become the world's leading exporter of iron ore, a title it has held for over a decade.
 
-![Iron ore mine in Western Australia](https://galena.es/assets/images/iron_ore_mine.png)
+![Iron ore mine in Western Australia](https://www.galena.es/assets/images/iron_ore_mine.png)
 
 The country's iron ore advantage can be attributed to several factors. Firstly, Australia is home to vast iron ore reserves, estimated at 48 billion tonnes, which account for approximately a quarter of the world's known reserves. These reserves, primarily located in Western Australia and South Australia, ensure a steady supply of iron ore that can meet global demand.
 

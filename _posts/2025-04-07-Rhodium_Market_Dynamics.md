@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring Rhodium Market Dynamics"
 subtitle: "Uncover the intriguing world of rhodium market dynamics and the factors that dictate its pricing."
-excerpt_image: https://galena.es/assets/images/Rhodium_Market_Dynamics.png
+excerpt_image: https://www.galena.es/assets/images/Rhodium_Market_Dynamics.png
 categories: [minerals, market analysis]
 tags: [rhodium, mining, market dynamics, pricing]
 ---
 
-![Rhodium Market Dynamics](https://galena.es/assets/images/Rhodium_Market_Dynamics.png "Infographic illustrating the key factors influencing rhodium market dynamics, including supply and demand trends, mining production data, and pricing fluctuations, aimed at geology enthusiasts and earth science readers.")
+![Rhodium Market Dynamics](https://www.galena.es/assets/images/Rhodium_Market_Dynamics.png "Infographic illustrating the key factors influencing rhodium market dynamics, including supply and demand trends, mining production data, and pricing fluctuations, aimed at geology enthusiasts and earth science readers.")
 
 # Exploring Rhodium Market Dynamics
 

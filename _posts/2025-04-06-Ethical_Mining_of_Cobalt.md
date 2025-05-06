@@ -2,12 +2,12 @@
 layout: post
 title: "Ethical Challenges in Cobalt Mining"
 subtitle: "Exploring the Complexities of Ethically Mining Cobalt, a Crucial Mineral"
-excerpt_image: https://galena.es/assets/images/Ethical_Mining_of_Cobalt.png
+excerpt_image: https://www.galena.es/assets/images/Ethical_Mining_of_Cobalt.png
 categories: [Mining, Ethics]
 tags: [Cobalt, Ethical Mining, Geology, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Ethical_Mining_of_Cobalt.png "An infographic illustrating the ethical challenges of cobalt mining, featuring images of cobalt ore, mining sites, and statistics on environmental and social impacts, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Ethical_Mining_of_Cobalt.png "An infographic illustrating the ethical challenges of cobalt mining, featuring images of cobalt ore, mining sites, and statistics on environmental and social impacts, aimed at geology enthusiasts and educators.")
 
 # Introduction
 

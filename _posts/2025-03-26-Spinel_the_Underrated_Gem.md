@@ -2,12 +2,12 @@
 layout: post
 title: "Spinel - The Underrated Gem in the Jewellery World"
 subtitle: "Unearth the beauty and significance of spinel, a gem often overlooked in the world of jewelry."
-excerpt_image: https://galena.es/assets/images/Spinel_the_Underrated_Gem.png
+excerpt_image: https://www.galena.es/assets/images/Spinel_the_Underrated_Gem.png
 categories: [Jewelry, Geology]
 tags: [Spinel, Gemstones, Jewelry, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Spinel_the_Underrated_Gem.png "Close-up image of vibrant spinel gemstones in various colors, showcasing their brilliance and clarity, set against a natural stone background, emphasizing their beauty and potential in jewelry.")
+![banner](https://www.galena.es/assets/images/Spinel_the_Underrated_Gem.png "Close-up image of vibrant spinel gemstones in various colors, showcasing their brilliance and clarity, set against a natural stone background, emphasizing their beauty and potential in jewelry.")
 
 # Spinel - The Underrated Gem in the Jewellery World
 

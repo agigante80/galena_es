@@ -2,12 +2,12 @@
 layout: post
 title: "Sulfur: The Unsung Hero of Industry"
 subtitle: "Exploring the essential role of sulfur in chemical manufacturing and agriculture"
-excerpt_image: https://galena.es/assets/images/Sulfur_in_Industry.png
+excerpt_image: https://www.galena.es/assets/images/Sulfur_in_Industry.png
 categories: [Minerals, Industry]
 tags: [sulfur, industry, agriculture, chemicals]
 ---
 
-![banner](https://galena.es/assets/images/Sulfur_in_Industry.png "Infographic illustrating the essential uses of sulfur in industry, highlighting its roles in chemical manufacturing and agriculture, with visuals of sulfur crystals, fertilizers, and industrial processes, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Sulfur_in_Industry.png "Infographic illustrating the essential uses of sulfur in industry, highlighting its roles in chemical manufacturing and agriculture, with visuals of sulfur crystals, fertilizers, and industrial processes, aimed at geology enthusiasts and educators.")
 
 # Introduction
 We often underrate the importance of sulfur, one of nature's fundamental elements. Its vibrant yellow crystals are a common sight in mineral collections, yet its significance stretches far beyond the aesthetic. This article aims to shine a light on sulfur's essential role in industry, particularly in chemical manufacturing and agriculture.

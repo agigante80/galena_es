@@ -2,12 +2,12 @@
 layout: post
 title: "The Secrets Behind Copper's Electrical Conductivity"
 subtitle: "Exploring why copper is a preferred choice for electrical wiring due to its superior conductivity"
-excerpt_image: https://galena.es/assets/images/Coppers_Electrical_Conductivity.png
+excerpt_image: https://www.galena.es/assets/images/Coppers_Electrical_Conductivity.png
 categories: [Earth Sciences, Geology]
 tags: [Copper, Electrical Conductivity, Mining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Coppers_Electrical_Conductivity.png "Close-up image of copper wires showcasing their shiny, reddish-brown surface, highlighting copper's excellent electrical conductivity, a key reason for its popularity in electrical wiring."")
+![banner](https://www.galena.es/assets/images/Coppers_Electrical_Conductivity.png "Close-up image of copper wires showcasing their shiny, reddish-brown surface, highlighting copper's excellent electrical conductivity, a key reason for its popularity in electrical wiring."")
 
 # Introduction
 Copper, a naturally occurring element, has been recognized for its unique properties since ancient times. It's not just the characteristic reddish-brown color that makes it distinctive; copper's electrical conductivity is a trait that has propelled it to the forefront of modern electrical systems. Let's delve into why copper is often the first choice when it comes to electrical wiring.

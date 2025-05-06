@@ -2,12 +2,12 @@
 layout: post
 title: "Platinum: More Than Just a Precious Metal"
 subtitle: "Exploring the diverse uses of platinum in industrial applications beyond its well-known usage in jewelry."
-excerpt_image: https://galena.es/assets/images/Platinum_in_Industry.png
+excerpt_image: https://www.galena.es/assets/images/Platinum_in_Industry.png
 categories: [Mining, Industrial Minerals]
 tags: [platinum, industry, automotive, catalytic converters]
 ---
 
-![banner](https://galena.es/assets/images/Platinum_in_Industry.png "A close-up image of platinum metal bars and industrial tools, highlighting the diverse applications of platinum in various industries beyond jewelry, such as electronics, automotive, and chemical processing.")
+![banner](https://www.galena.es/assets/images/Platinum_in_Industry.png "A close-up image of platinum metal bars and industrial tools, highlighting the diverse applications of platinum in various industries beyond jewelry, such as electronics, automotive, and chemical processing.")
 
 # Introduction
 

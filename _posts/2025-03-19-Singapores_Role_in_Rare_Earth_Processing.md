@@ -2,12 +2,12 @@
 layout: post
 title: "Singapore's Pivotal Role in Rare Earth Processing"
 subtitle: "Exploring the Lion City's significant contribution in the global rare earth industry."
-excerpt_image: https://galena.es/assets/images/Singapores_Role_in_Rare_Earth_Processing.png
+excerpt_image: https://www.galena.es/assets/images/Singapores_Role_in_Rare_Earth_Processing.png
 categories: [Rare Earth Processing, Global Trade]
 tags: [Singapore, Rare Earth Elements, Mining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Singapores_Role_in_Rare_Earth_Processing.png "Aerial view of Singapore's industrial landscape showcasing rare earth processing facilities, with shipping containers and cranes symbolizing the city's role in global trade of rare earth elements.")
+![banner](https://www.galena.es/assets/images/Singapores_Role_in_Rare_Earth_Processing.png "Aerial view of Singapore's industrial landscape showcasing rare earth processing facilities, with shipping containers and cranes symbolizing the city's role in global trade of rare earth elements.")
 
 # Introduction
 

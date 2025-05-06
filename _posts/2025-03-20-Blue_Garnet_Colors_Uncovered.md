@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mystique of Blue Garnets"
 subtitle: "A fascinating journey into the color-changing world of Blue Garnets"
-excerpt_image: https://galena.es/assets/images/Blue_Garnet_Colors_Uncovered.png
+excerpt_image: https://www.galena.es/assets/images/Blue_Garnet_Colors_Uncovered.png
 categories: [Geology, Gemstones]
 tags: [Blue Garnet, Color Change, Gemology, Minerals]
 ---
 
-![Blue Garnet](https://galena.es/assets/images/Blue_Garnet_Colors_Uncovered.png "A close-up of a blue garnet gemstone showcasing its vibrant color, with a scientific diagram illustrating the color-changing properties of blue garnets under different lighting conditions, surrounded by mineral samples and geological tools.")
+![Blue Garnet](https://www.galena.es/assets/images/Blue_Garnet_Colors_Uncovered.png "A close-up of a blue garnet gemstone showcasing its vibrant color, with a scientific diagram illustrating the color-changing properties of blue garnets under different lighting conditions, surrounded by mineral samples and geological tools.")
 
 # Introduction
 

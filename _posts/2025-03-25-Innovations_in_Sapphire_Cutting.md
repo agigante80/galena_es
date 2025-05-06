@@ -2,12 +2,12 @@
 layout: post
 title: "Innovations in Sapphire Cutting: Shaping the Gem of the Future"
 subtitle: "Exploring modern techniques in enhancing sapphire gem quality through cutting-edge technologies."
-excerpt_image: https://galena.es/assets/images/Innovations_in_Sapphire_Cutting.png
+excerpt_image: https://www.galena.es/assets/images/Innovations_in_Sapphire_Cutting.png
 categories: [Gemology, Technology]
 tags: [sapphire, gem cutting, innovations, gemology]
 ---
 
-![banner](https://galena.es/assets/images/Innovations_in_Sapphire_Cutting.png "A close-up image of a skilled gem cutter using advanced machinery to enhance the quality of a sapphire gemstone, showcasing modern techniques in sapphire cutting.")
+![banner](https://www.galena.es/assets/images/Innovations_in_Sapphire_Cutting.png "A close-up image of a skilled gem cutter using advanced machinery to enhance the quality of a sapphire gemstone, showcasing modern techniques in sapphire cutting.")
 
 ## Introduction
 

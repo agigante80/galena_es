@@ -2,12 +2,12 @@
 layout: post
 title: "Nickel: Powering Up the Future of Battery Production"
 subtitle: "Exploring the crucial role of nickel in advancing battery technology and its impact in the mining and minerals industry."
-excerpt_image: https://galena.es/assets/images/Nickel_in_Battery_Production.png
+excerpt_image: https://www.galena.es/assets/images/Nickel_in_Battery_Production.png
 categories: [Battery Technology, Mining and Minerals]
 tags: [Nickel, Battery Production, Mining, Renewable Energy]
 ---
 
-![banner](https://galena.es/assets/images/Nickel_in_Battery_Production.png ""Close-up image of nickel ore with a backdrop of battery cells, illustrating the critical role of nickel in modern battery technology and its significance in the mining and minerals industry."")
+![banner](https://www.galena.es/assets/images/Nickel_in_Battery_Production.png ""Close-up image of nickel ore with a backdrop of battery cells, illustrating the critical role of nickel in modern battery technology and its significance in the mining and minerals industry."")
 
 ## Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Environmental Impact of Lithium Mining"
 subtitle: "A comprehensive exploration of the environmental consequences of lithium mining, a key component in the technology and electric vehicle revolution."
-excerpt_image: https://galena.es/assets/images/Environmental_Impact_of_Lithium_Mining.png
+excerpt_image: https://www.galena.es/assets/images/Environmental_Impact_of_Lithium_Mining.png
 categories: [Ecology, Mining]
 tags: [Lithium, Mining, Environmental Impact, Sustainability]
 ---
 
-![banner](https://galena.es/assets/images/Environmental_Impact_of_Lithium_Mining.png "Aerial view of a lithium mining site, showcasing large open pits and tailings ponds, with surrounding natural landscapes. The image highlights the environmental disruption caused by mining activities, including deforestation and habitat loss, emphasizing the ecological concerns associated with lithium extraction.")
+![banner](https://www.galena.es/assets/images/Environmental_Impact_of_Lithium_Mining.png "Aerial view of a lithium mining site, showcasing large open pits and tailings ponds, with surrounding natural landscapes. The image highlights the environmental disruption caused by mining activities, including deforestation and habitat loss, emphasizing the ecological concerns associated with lithium extraction.")
 
 # Unveiling the Environmental Impact of Lithium Mining
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Luxembourg's Leap into Space Mining"
 subtitle: "An exploration into Luxembourg's ambitious venture into the cosmic realm of space mining"
-excerpt_image: https://galena.es/assets/images/Luxembourgs_Investment_in_Space_Mining.png
+excerpt_image: https://www.galena.es/assets/images/Luxembourgs_Investment_in_Space_Mining.png
 categories: [Space Mining, Earth Sciences]
 tags: [Luxembourg, Space Mining, Geology, Mineral Resource]
 ---
 
-![banner](https://galena.es/assets/images/Luxembourgs_Investment_in_Space_Mining.png "An infographic illustrating Luxembourg's investment in space mining, featuring images of asteroids, mining equipment, and minerals. The design highlights the country's ambitions to explore and extract valuable resources from celestial bodies, appealing to geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Luxembourgs_Investment_in_Space_Mining.png "An infographic illustrating Luxembourg's investment in space mining, featuring images of asteroids, mining equipment, and minerals. The design highlights the country's ambitions to explore and extract valuable resources from celestial bodies, appealing to geology enthusiasts and earth science readers.")
 
 ## Introduction
 

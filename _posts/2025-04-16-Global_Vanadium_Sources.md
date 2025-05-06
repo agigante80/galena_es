@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Veil of Vanadium: Global Sources and Mining Strategies"
 subtitle: "An in-depth exploration of the world's leading vanadium producers and their unique mining methods."
-excerpt_image: https://galena.es/assets/images/Global_Vanadium_Sources.png
+excerpt_image: https://www.galena.es/assets/images/Global_Vanadium_Sources.png
 categories: [Earth Sciences, Minerals and Mining]
 tags: [Vanadium, Mining, Geology, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Global_Vanadium_Sources.png ""A world map highlighting the top vanadium producing countries, with icons representing various mining methods, showcasing the global distribution of vanadium resources for geology enthusiasts and earth science readers."")
+![banner](https://www.galena.es/assets/images/Global_Vanadium_Sources.png ""A world map highlighting the top vanadium producing countries, with icons representing various mining methods, showcasing the global distribution of vanadium resources for geology enthusiasts and earth science readers."")
 
 ## Introduction
 

@@ -2,11 +2,11 @@
 layout: post
 title: "Emeralds Green Allure: A Gemstone's Vibrant Journey"
 subtitle: "Unearth the vibrant allure of emeralds, their geographic origins, and why they are so cherished."
-excerpt_image: https://galena.es/assets/images/Emeralds_Green_Allure.png
+excerpt_image: https://www.galena.es/assets/images/Emeralds_Green_Allure.png
 categories: [Gemstones, Geology]
 tags: [Emeralds, Mining, Geology, Gemstones]
 ---
-![banner](https://galena.es/assets/images/Emeralds_Green_Allure.png "Image highlighting the vibrant allure of emeralds, showcasing their geographic origins and the reasons behind their cherished status as one of the most beloved gemstones in both mining and geology.")
+![banner](https://www.galena.es/assets/images/Emeralds_Green_Allure.png "Image highlighting the vibrant allure of emeralds, showcasing their geographic origins and the reasons behind their cherished status as one of the most beloved gemstones in both mining and geology.")
 
 ## Introduction
 Emeralds, known for their vibrant green color and tantalizing allure, have captivated the hearts of gem enthusiasts for centuries. Uncover the geological mechanisms behind the formation of these natural wonders, explore their primary geographic origins, and understand why emeralds are so cherished in the world of gemstones.

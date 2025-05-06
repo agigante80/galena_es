@@ -2,12 +2,12 @@
 layout: post
 title: "Uncovering the Glittering Treasures of Canada's Diamond Mines"
 subtitle: "A deep dive into the fascinating world of Canada's diamond mines in the Northwest Territories."
-excerpt_image: https://galena.es/assets/images/Canadas_Diamond_Mines.png
+excerpt_image: https://www.galena.es/assets/images/Canadas_Diamond_Mines.png
 categories: [Geology, Mining]
 tags: [Diamond Mines, Canada, Northwest Territories, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Canadas_Diamond_Mines.png "Map highlighting Canada's Northwest Territories, showcasing the locations of significant diamond mines, with visuals of diamonds and mining equipment, aimed at geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Canadas_Diamond_Mines.png "Map highlighting Canada's Northwest Territories, showcasing the locations of significant diamond mines, with visuals of diamonds and mining equipment, aimed at geology enthusiasts and earth science readers.")
 
 ## Introduction
 

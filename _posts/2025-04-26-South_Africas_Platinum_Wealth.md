@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing South Africa's Platinum Dominance"
 subtitle: "A comprehensive journey into South Africa's global leadership in platinum production and its implications."
-excerpt_image: https://galena.es/assets/images/South_Africas_Platinum_Wealth.png
+excerpt_image: https://www.galena.es/assets/images/South_Africas_Platinum_Wealth.png
 categories: [Mining, Geology]
 tags: [South Africa, Platinum, Mining, Global Production]
 ---
 
-![banner](https://galena.es/assets/images/South_Africas_Platinum_Wealth.png "Aerial view of South Africa's platinum mines, showcasing expansive mining operations and the surrounding landscape, highlighting the country's key role in global platinum production.")
+![banner](https://www.galena.es/assets/images/South_Africas_Platinum_Wealth.png "Aerial view of South Africa's platinum mines, showcasing expansive mining operations and the surrounding landscape, highlighting the country's key role in global platinum production.")
 
 # Introduction
 

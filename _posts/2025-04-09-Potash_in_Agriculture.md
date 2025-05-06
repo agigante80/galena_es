@@ -2,12 +2,12 @@
 layout: post
 title: "The Essential Role of Potash in Agriculture"
 subtitle: "Discover the crucial role of potash in enhancing agricultural productivity and crop health."
-excerpt_image: https://galena.es/assets/images/Potash_in_Agriculture.png
+excerpt_image: https://www.galena.es/assets/images/Potash_in_Agriculture.png
 categories: [Agriculture, Minerals]
 tags: [Potash, Agriculture, Soil Nutrition, Crop productivity]
 ---
 
-![banner](https://galena.es/assets/images/Potash_in_Agriculture.png "A vibrant field of crops thriving under the sun, with a close-up of potash granules scattered on the soil, illustrating the essential role of potash in boosting agricultural productivity.")
+![banner](https://www.galena.es/assets/images/Potash_in_Agriculture.png "A vibrant field of crops thriving under the sun, with a close-up of potash granules scattered on the soil, illustrating the essential role of potash in boosting agricultural productivity.")
 
 ## Introduction
 

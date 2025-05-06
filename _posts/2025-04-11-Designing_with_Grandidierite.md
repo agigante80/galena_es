@@ -2,12 +2,12 @@
 layout: post
 title: "Designing with Grandidierite: Unveiling the Beauty of an Exquisite Gemstone"
 subtitle: "A deep dive into the use of Grandidierite in jewelry design, a gemstone prized for its rarity and captivating beauty."
-excerpt_image: https://galena.es/assets/images/Designing_with_Grandidierite.png
+excerpt_image: https://www.galena.es/assets/images/Designing_with_Grandidierite.png
 categories: [Gemstones, Jewelry Design]
 tags: [Grandidierite, Jewelry Design, Rare Gemstones, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Designing_with_Grandidierite.png "A close-up of a stunning grandidierite gemstone, showcasing its vibrant blue-green hues and unique transparency, surrounded by tools and sketches used by jewelers in the design process.")
+![banner](https://www.galena.es/assets/images/Designing_with_Grandidierite.png "A close-up of a stunning grandidierite gemstone, showcasing its vibrant blue-green hues and unique transparency, surrounded by tools and sketches used by jewelers in the design process.")
 
 ## Introduction
 

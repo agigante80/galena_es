@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Power of Osmium in Alloys"
 subtitle: "Discover the role of the densest naturally occurring element, osmium, in enhancing the hardness of specialized alloys."
-excerpt_image: https://galena.es/assets/images/Osmium_in_Alloys.png
+excerpt_image: https://www.galena.es/assets/images/Osmium_in_Alloys.png
 categories: [Geology, Metallurgy]
 tags: [Osmium, Alloys, Hardness, Metallurgy]
 ---
 
-![banner](https://galena.es/assets/images/Osmium_in_Alloys.png "Close-up image of osmium metal pieces alongside various alloy samples, illustrating the role of osmium in enhancing hardness. The background features geological tools and mineral specimens, emphasizing the connection between osmium and earth sciences.")
+![banner](https://www.galena.es/assets/images/Osmium_in_Alloys.png "Close-up image of osmium metal pieces alongside various alloy samples, illustrating the role of osmium in enhancing hardness. The background features geological tools and mineral specimens, emphasizing the connection between osmium and earth sciences.")
 
 ## Introduction
 

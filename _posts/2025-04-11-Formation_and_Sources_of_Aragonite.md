@@ -2,12 +2,12 @@
 layout: post
 title: "Unraveling the Mysteries of Aragonite"
 subtitle: "Delve into the fascinating world of Aragonite, understanding its unique formation process and global sources."
-excerpt_image: https://galena.es/assets/images/Formation_and_Sources_of_Aragonite.png
+excerpt_image: https://www.galena.es/assets/images/Formation_and_Sources_of_Aragonite.png
 categories: [Geology, Minerals]
 tags: [Aragonite, Mineral Formation, Earth Science, Mining]
 ---
 
-![banner](https://galena.es/assets/images/Formation_and_Sources_of_Aragonite.png "Illustration depicting the formation of aragonite, showcasing its crystal structure and natural environments where it is commonly found, such as marine settings and mineral deposits, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Formation_and_Sources_of_Aragonite.png "Illustration depicting the formation of aragonite, showcasing its crystal structure and natural environments where it is commonly found, such as marine settings and mineral deposits, aimed at geology enthusiasts and educators.")
 
 # Unraveling the Mysteries of Aragonite
 

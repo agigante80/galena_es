@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Past: The Chronicles of Lead Mining"
 subtitle: "A deep dive into the rich history and evolution of lead mining and its diverse applications"
-excerpt_image: https://galena.es/assets/images/Historic_Lead_Mining_and_Usage.png
+excerpt_image: https://www.galena.es/assets/images/Historic_Lead_Mining_and_Usage.png
 categories: [Geology, Mining History]
 tags: [Lead Mining, Earth Science, Historical Geology, Mineral Extraction]
 ---
 
-![banner](https://galena.es/assets/images/Historic_Lead_Mining_and_Usage.png "An informative infographic illustrating the history of lead mining, featuring key milestones, mining techniques, and historical usage of lead in various applications, designed for geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Historic_Lead_Mining_and_Usage.png "An informative infographic illustrating the history of lead mining, featuring key milestones, mining techniques, and historical usage of lead in various applications, designed for geology enthusiasts and educators.")
 
 # Introduction
 From the annals of antiquity to the industrial revolution, lead has been an integral part of human civilization. This dense, malleable, and corrosion-resistant metal has been extracted and utilized for more than 8,000 years, making it one of the first metals to be smelted by humans. This article delves into the fascinating history and development of lead mining and usage.

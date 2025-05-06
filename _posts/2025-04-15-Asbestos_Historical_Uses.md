@@ -2,12 +2,12 @@
 layout: post
 title: "Asbestos: A Journey Through Its Historical Uses"
 subtitle: "Explore the historical uses of asbestos and how its application declined over time due to health concerns."
-excerpt_image: https://galena.es/assets/images/Asbestos_Historical_Uses.png
+excerpt_image: https://www.galena.es/assets/images/Asbestos_Historical_Uses.png
 categories: [History, Health]
 tags: [Asbestos, Mining, Geology, Health]
 ---
 
-![banner](https://galena.es/assets/images/Asbestos_Historical_Uses.png "An infographic illustrating the historical uses of asbestos in construction, automotive, and insulation industries, highlighting its decline due to health risks, with images of asbestos-containing products and a timeline of regulations.")
+![banner](https://www.galena.es/assets/images/Asbestos_Historical_Uses.png "An infographic illustrating the historical uses of asbestos in construction, automotive, and insulation industries, highlighting its decline due to health risks, with images of asbestos-containing products and a timeline of regulations.")
 
 # Introduction
 

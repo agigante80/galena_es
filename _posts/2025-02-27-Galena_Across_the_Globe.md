@@ -2,12 +2,12 @@
 layout: post
 title: "Galena Across the Globe"
 subtitle: "Uncover the major Galena deposits worldwide and their mining statuses"
-excerpt_image: https://galena.es/assets/images/Galena_Across_the_Globe.png
+excerpt_image: https://www.galena.es/assets/images/Galena_Across_the_Globe.png
 categories: [Mining, Earth Sciences]
 tags: [Galena, Mining, Geology, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Galena_Across_the_Globe.png "Image showcasing major Galena deposits around the world, highlighting the global mining operations and geographical distribution of this vital mineral in Earth sciences and mining.")
+![banner](https://www.galena.es/assets/images/Galena_Across_the_Globe.png "Image showcasing major Galena deposits around the world, highlighting the global mining operations and geographical distribution of this vital mineral in Earth sciences and mining.")
 
 # Introduction
 

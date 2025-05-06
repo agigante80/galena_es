@@ -2,12 +2,12 @@
 layout: post
 title: "The Environmental Challenges of Cement Production"
 subtitle: "Unearthing the environmental impact of one of the world's most widely used materials"
-excerpt_image: https://galena.es/assets/images/Environmental_Impact_of_Cement_Production.png
+excerpt_image: https://www.galena.es/assets/images/Environmental_Impact_of_Cement_Production.png
 categories: [Environment, Industry]
 tags: [cement production, carbon emissions, mining, sustainability]
 ---
 
-![banner](https://galena.es/assets/images/Environmental_Impact_of_Cement_Production.png "Image depicting the environmental impact of cement production, featuring industrial facilities, emissions, and sustainable practices aimed at reducing carbon footprints.")
+![banner](https://www.galena.es/assets/images/Environmental_Impact_of_Cement_Production.png "Image depicting the environmental impact of cement production, featuring industrial facilities, emissions, and sustainable practices aimed at reducing carbon footprints.")
 
 ## Introduction
 

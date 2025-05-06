@@ -2,12 +2,12 @@
 layout: post
 title: "Scientific Studies on Itqiy: A Meteoritic Mineral Marvel"
 subtitle: "Unravel the mysteries and scientific significance of Itqiy, a rare meteoritic mineral, through in-depth studies and research."
-excerpt_image: https://galena.es/assets/images/Scientific_Studies_on_Itqiy.png
+excerpt_image: https://www.galena.es/assets/images/Scientific_Studies_on_Itqiy.png
 categories: [Geology, Meteoritics]
 tags: [Itqiy, Meteorite Minerals, Earth Science, Geological Research]
 ---
 
-![banner](https://galena.es/assets/images/Scientific_Studies_on_Itqiy.png "A researcher examining mineral samples in a laboratory, with charts and graphs illustrating scientific studies on Itqiy, highlighting its geological significance and relevance in the field of earth sciences.")
+![banner](https://www.galena.es/assets/images/Scientific_Studies_on_Itqiy.png "A researcher examining mineral samples in a laboratory, with charts and graphs illustrating scientific studies on Itqiy, highlighting its geological significance and relevance in the field of earth sciences.")
 
 # Introduction
 The mineral world in all its glory never ceases to amaze us, with its myriad of wonders and mysteries waiting to be unraveled. One such fascinating marvel of the mineral kingdom is Itqiy, a rare meteoritic mineral with an enigmatic origin and a unique geological significance. This article delves into the scientific studies conducted on Itqiy, exploring its relevance in the field of earth science. 

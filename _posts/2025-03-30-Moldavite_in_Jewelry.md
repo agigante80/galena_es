@@ -2,12 +2,12 @@
 layout: post
 title: "Mastering Moldavite: The Challenges and Techniques in Jewelry Making"
 subtitle: "An in-depth exploration of the unique challenges and techniques involved in creating stunning pieces of jewelry with the ethereal green gemstone, Moldavite."
-excerpt_image: https://galena.es/assets/images/Moldavite_in_Jewelry.png
+excerpt_image: https://www.galena.es/assets/images/Moldavite_in_Jewelry.png
 categories: [Gemstones, Jewelry Making]
 tags: [Moldavite, Jewelry Making, Gem Cutting, Geological Wonders]
 ---
 
-![banner](https://galena.es/assets/images/Moldavite_in_Jewelry.png "A close-up of a stunning moldavite gemstone set in an intricately designed piece of jewelry, showcasing its unique green color and natural textures, with tools and materials for jewelry making in the background, highlighting the challenges and techniques involved in crafting moldavite jewelry.")
+![banner](https://www.galena.es/assets/images/Moldavite_in_Jewelry.png "A close-up of a stunning moldavite gemstone set in an intricately designed piece of jewelry, showcasing its unique green color and natural textures, with tools and materials for jewelry making in the background, highlighting the challenges and techniques involved in crafting moldavite jewelry.")
 
 # Introduction
 

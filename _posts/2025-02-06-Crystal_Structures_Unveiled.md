@@ -2,12 +2,12 @@
 layout: post
 title: "Crystal Structures Unveiled"
 subtitle: "An in-depth exploration into the unique structures of crystals and how they shape their properties."
-excerpt_image: https://galena.es/assets/images/Crystal_Structures_Unveiled.png
+excerpt_image: https://www.galena.es/assets/images/Crystal_Structures_Unveiled.png
 categories: [Crystallography, Geology]
 tags: [crystals, crystal structure, minerals, geology]
 ---
 
-![banner](https://galena.es/assets/images/Crystal_Structures_Unveiled.png "Image exploring the unique structures of crystals, showcasing how these formations determine the properties and characteristics of minerals in the fascinating field of crystallography and geology.")
+![banner](https://www.galena.es/assets/images/Crystal_Structures_Unveiled.png "Image exploring the unique structures of crystals, showcasing how these formations determine the properties and characteristics of minerals in the fascinating field of crystallography and geology.")
 
 # Crystal Structures Unveiled
 

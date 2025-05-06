@@ -2,12 +2,12 @@
 layout: post
 title: "Thallium: A Hidden Gem in Electronics"
 subtitle: "Unearth the fascinating role of thallium in modern electronics and its intriguing properties."
-excerpt_image: https://galena.es/assets/images/Thallium_in_Electronics.png
+excerpt_image: https://www.galena.es/assets/images/Thallium_in_Electronics.png
 categories: [Geology, Electronics]
 tags: [Thallium, Electronics, Minerals, Technology]
 ---
 
-![banner](https://galena.es/assets/images/Thallium_in_Electronics.png "Illustration of thallium's applications in electronic devices, showcasing its role in semiconductors and photoelectric cells, with a backdrop of mining activities and geological elements.")
+![banner](https://www.galena.es/assets/images/Thallium_in_Electronics.png "Illustration of thallium's applications in electronic devices, showcasing its role in semiconductors and photoelectric cells, with a backdrop of mining activities and geological elements.")
 
 # Introduction
 

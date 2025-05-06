@@ -2,12 +2,12 @@
 layout: post
 title: "Ruthenium in Electronics: A Game Changer in the Field of Technology"
 subtitle: "Discover the significance of ruthenium in electronics, its role in electrical contacts and resistors, and how it's shaping the future of technology."
-excerpt_image: https://galena.es/assets/images/Ruthenium_in_Electronics.png
+excerpt_image: https://www.galena.es/assets/images/Ruthenium_in_Electronics.png
 categories: [Minerals in Technology, Electronic Components]
 tags: [Ruthenium, Electronics, Electrical Contacts, Resistors]
 ---
 
-![banner](https://galena.es/assets/images/Ruthenium_in_Electronics.png "Close-up of ruthenium metal pieces, highlighting their shiny surface, alongside electrical contacts and resistors, illustrating the mineral's significance in electronics.")
+![banner](https://www.galena.es/assets/images/Ruthenium_in_Electronics.png "Close-up of ruthenium metal pieces, highlighting their shiny surface, alongside electrical contacts and resistors, illustrating the mineral's significance in electronics.")
 
 # Introduction
 

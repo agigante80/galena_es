@@ -2,12 +2,12 @@
 layout: post
 title: "Innovative Use of Tugtupite in Jewelry"
 subtitle: "Exploring the incredible blend of geology and artistry in the use of Tugtupite gemstones in jewelry designs."
-excerpt_image: https://galena.es/assets/images/Uses_of_Tugtupite_in_Jewelry.png
+excerpt_image: https://www.galena.es/assets/images/Uses_of_Tugtupite_in_Jewelry.png
 categories: [Geology, Jewelry Design]
 tags: [Tugtupite, Jewelry, Gemstones, Innovation]
 ---
 
-![banner](https://galena.es/assets/images/Uses_of_Tugtupite_in_Jewelry.png "A close-up image of a stunning Tugtupite gemstone set in an elegant silver ring, showcasing its vibrant pink and red hues, surrounded by intricate jewelry designs that highlight the innovative use of this unique mineral in contemporary accessories.")
+![banner](https://www.galena.es/assets/images/Uses_of_Tugtupite_in_Jewelry.png "A close-up image of a stunning Tugtupite gemstone set in an elegant silver ring, showcasing its vibrant pink and red hues, surrounded by intricate jewelry designs that highlight the innovative use of this unique mineral in contemporary accessories.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Impact Resistance of Iron Tetraboride"
 subtitle: "Discover the remarkable properties of Iron Tetraboride and its potential in materials science."
-excerpt_image: https://galena.es/assets/images/Impact_Resistance_of_Iron_Tetraboride.png
+excerpt_image: https://www.galena.es/assets/images/Impact_Resistance_of_Iron_Tetraboride.png
 categories: [Materials Science, Earth Sciences]
 tags: [Iron Tetraboride, Impact Resistance, Mining, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Impact_Resistance_of_Iron_Tetraboride.png "Close-up image of Iron Tetraboride crystals showcasing their unique structure, highlighting their potential for impact resistance in materials science. The background features geological tools and minerals, appealing to geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Impact_Resistance_of_Iron_Tetraboride.png "Close-up image of Iron Tetraboride crystals showcasing their unique structure, highlighting their potential for impact resistance in materials science. The background features geological tools and minerals, appealing to geology enthusiasts and educators.")
 
 # Introduction
 Iron Tetraboride, a complex intermetallic compound with a unique crystalline structure, has garnered significant attention in the materials science field. Its exceptional hardness and resistance to wear and tear make it a promising candidate for various industrial applications.

@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Secrets of Dolomite Extraction"
 subtitle: "A deep dive into the fascinating world of dolomite extraction, from mining to processing."
-excerpt_image: https://galena.es/assets/images/Dolomite_Extraction_Processes.png
+excerpt_image: https://www.galena.es/assets/images/Dolomite_Extraction_Processes.png
 categories: [Mining, Minerals]
 tags: [Dolomite, Extraction, Process, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Dolomite_Extraction_Processes.png "An infographic illustrating various dolomite extraction processes, including open-pit mining, crushing, and milling, with labeled diagrams and images of mining equipment and dolomite rock formations, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Dolomite_Extraction_Processes.png "An infographic illustrating various dolomite extraction processes, including open-pit mining, crushing, and milling, with labeled diagrams and images of mining equipment and dolomite rock formations, aimed at geology enthusiasts and educators.")
 
 # **Unearthing the Secrets of Dolomite Extraction**
 

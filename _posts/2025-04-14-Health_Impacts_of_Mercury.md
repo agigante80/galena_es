@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Health Impacts of Mercury"
 subtitle: "A deep dive into the environmental and health risks associated with mercury use"
-excerpt_image: https://galena.es/assets/images/Health_Impacts_of_Mercury.png
+excerpt_image: https://www.galena.es/assets/images/Health_Impacts_of_Mercury.png
 categories: [Health, Environment]
 tags: [mercury, health risks, environment, mining]
 ---
 
-![banner](https://galena.es/assets/images/Health_Impacts_of_Mercury.png "Infographic illustrating the health impacts of mercury exposure, featuring icons representing environmental pollution, neurological effects, and safety measures, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Health_Impacts_of_Mercury.png "Infographic illustrating the health impacts of mercury exposure, featuring icons representing environmental pollution, neurological effects, and safety measures, aimed at geology enthusiasts and educators.")
 
 # Unveiling the Health Impacts of Mercury
 

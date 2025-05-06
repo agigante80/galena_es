@@ -2,12 +2,12 @@
 layout: post
 title: "Predictive Models of Magnesium Silicophosphate in Earth’s Lower Mantle"
 subtitle: "Unraveling the mysteries of Earth’s lower mantle through the predictions of Magnesium Silicophosphate behavior and influence."
-excerpt_image: https://galena.es/assets/images/Magnesium_Silicophosphate_Predictions.png
+excerpt_image: https://www.galena.es/assets/images/Magnesium_Silicophosphate_Predictions.png
 categories: [Geology, Earth Science]
 tags: [Magnesium Silicophosphate, Lower Mantle, Predictive Models, Earth's Core]
 ---
 
-![banner](https://galena.es/assets/images/Magnesium_Silicophosphate_Predictions.png "Illustration depicting the molecular structure of Magnesium Silicophosphate, with a geological background representing Earth's lower mantle, emphasizing predictions about its properties and behavior in this deep Earth environment.")
+![banner](https://www.galena.es/assets/images/Magnesium_Silicophosphate_Predictions.png "Illustration depicting the molecular structure of Magnesium Silicophosphate, with a geological background representing Earth's lower mantle, emphasizing predictions about its properties and behavior in this deep Earth environment.")
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Exploring the Intriguing Properties of Narsarsukite"
 subtitle: "A deep dive into the chemical and physical properties of the unique mineral, Narsarsukite."
-excerpt_image: https://galena.es/assets/images/Narsarsukite_Properties.png
+excerpt_image: https://www.galena.es/assets/images/Narsarsukite_Properties.png
 categories: [Minerals, Earth Sciences]
 tags: [Narsarsukite, Mineralogy, Geology, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Narsarsukite_Properties.png "Close-up image of Narsarsukite crystals showcasing their unique physical properties, including distinct color variations and crystal structure, set against a neutral background. The image highlights the mineral's texture and clarity, appealing to geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Narsarsukite_Properties.png "Close-up image of Narsarsukite crystals showcasing their unique physical properties, including distinct color variations and crystal structure, set against a neutral background. The image highlights the mineral's texture and clarity, appealing to geology enthusiasts and educators.")
 
 # Unveiling the Secrets of Narsarsukite
 

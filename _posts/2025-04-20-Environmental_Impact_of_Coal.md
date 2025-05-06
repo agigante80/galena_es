@@ -2,12 +2,12 @@
 layout: post
 title: "The Environmental Impact of Coal Mining"
 subtitle: "Exploring the environmental challenges and consequences of coal extraction."
-excerpt_image: https://galena.es/assets/images/Environmental_Impact_of_Coal.png
+excerpt_image: https://www.galena.es/assets/images/Environmental_Impact_of_Coal.png
 categories: ['Environment', 'Mining']
 tags: ['coal', 'mining', 'environmental impact', 'sustainability']
 ---
 
-![banner](https://galena.es/assets/images/Environmental_Impact_of_Coal.png "Aerial view of a coal mine, showcasing the extensive landscape disruption caused by mining activities, with exposed earth, large machinery, and nearby vegetation loss, highlighting the environmental challenges associated with coal extraction.")
+![banner](https://www.galena.es/assets/images/Environmental_Impact_of_Coal.png "Aerial view of a coal mine, showcasing the extensive landscape disruption caused by mining activities, with exposed earth, large machinery, and nearby vegetation loss, highlighting the environmental challenges associated with coal extraction.")
 
 # The Environmental Impact of Coal Mining
 

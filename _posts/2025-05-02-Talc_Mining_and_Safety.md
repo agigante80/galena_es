@@ -2,12 +2,12 @@
 layout: post
 title: "Delving into Talc: Mining Processes and Safety Measures"
 subtitle: "A comprehensive look at the extraction and safety precautions of talc mining"
-excerpt_image: https://galena.es/assets/images/Talc_Mining_and_Safety.png
+excerpt_image: https://www.galena.es/assets/images/Talc_Mining_and_Safety.png
 categories: [Mining, Earth Sciences]
 tags: [Talc, Mining, Safety, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Talc_Mining_and_Safety.png "An informative infographic illustrating the talc mining process, highlighting key safety measures and equipment used to ensure worker safety in mineral extraction. The design features diagrams of mining techniques, safety gear, and environmental considerations, aimed at geology enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Talc_Mining_and_Safety.png "An informative infographic illustrating the talc mining process, highlighting key safety measures and equipment used to ensure worker safety in mineral extraction. The design features diagrams of mining techniques, safety gear, and environmental considerations, aimed at geology enthusiasts and educators.")
 
 # Introduction
 

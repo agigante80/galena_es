@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Cement Making Process"
 subtitle: "Delve into the intricate steps taken to transform raw materials into the vital construction component - cement."
-excerpt_image: https://galena.es/assets/images/Cement_Making_Process.png
+excerpt_image: https://www.galena.es/assets/images/Cement_Making_Process.png
 categories: [Geology, Industry]
 tags: [Cement Production, Raw Materials, Industrial Processes, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Cement_Making_Process.png "Infographic illustrating the cement making process, detailing the steps from raw material extraction to the final product, with labeled stages including crushing, blending, heating in a kiln, and grinding.")
+![banner](https://www.galena.es/assets/images/Cement_Making_Process.png "Infographic illustrating the cement making process, detailing the steps from raw material extraction to the final product, with labeled stages including crushing, blending, heating in a kiln, and grinding.")
 
 ## Introduction
 

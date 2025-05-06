@@ -2,12 +2,12 @@
 layout: post
 title: "Bentonite: The Unseen Hero of Drilling Operations"
 subtitle: "Discover the vital role of bentonite clay in the fascinating world of drilling operations."
-excerpt_image: https://galena.es/assets/images/Bentonite_in_Drilling_Fluids.png
+excerpt_image: https://www.galena.es/assets/images/Bentonite_in_Drilling_Fluids.png
 categories: [minerals, drilling operations]
 tags: [bentonite, drilling, geology, earth sciences]
 ---
 
-![banner](https://galena.es/assets/images/Bentonite_in_Drilling_Fluids.png "Image illustrating the essential role of bentonite clay in drilling operations, showcasing its use in drilling fluids for stabilizing boreholes, enhancing mud properties, and supporting efficient drilling processes.")
+![banner](https://www.galena.es/assets/images/Bentonite_in_Drilling_Fluids.png "Image illustrating the essential role of bentonite clay in drilling operations, showcasing its use in drilling fluids for stabilizing boreholes, enhancing mud properties, and supporting efficient drilling processes.")
 
 # Introduction
 

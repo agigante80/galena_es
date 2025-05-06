@@ -2,12 +2,12 @@
 layout: post
 title: "Singapore: A Pioneer in E-Waste Recycling"
 subtitle: "Unveiling the remarkable efforts of Singapore in the recovery of precious minerals from e-waste."
-excerpt_image: https://galena.es/assets/images/Singapores_E-Waste_Recycling_Efforts.png
+excerpt_image: https://www.galena.es/assets/images/Singapores_E-Waste_Recycling_Efforts.png
 categories: [Environment, Technology]
 tags: [e-waste, recycling, Singapore, minerals]
 ---
 
-![banner](https://galena.es/assets/images/Singapores_E-Waste_Recycling_Efforts.png ""Infographic illustrating Singapore's e-waste recycling initiatives, highlighting the process of recovering valuable minerals from discarded electronics, with a focus on sustainability and environmental impact."")
+![banner](https://www.galena.es/assets/images/Singapores_E-Waste_Recycling_Efforts.png ""Infographic illustrating Singapore's e-waste recycling initiatives, highlighting the process of recovering valuable minerals from discarded electronics, with a focus on sustainability and environmental impact."")
 
 ## Introduction
 

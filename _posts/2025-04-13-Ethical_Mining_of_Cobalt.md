@@ -2,12 +2,12 @@
 layout: post
 title: "The Imperative of Ethical Cobalt Mining"
 subtitle: "Exploring the importance and benefits of ethical mining practices in the extraction of cobalt."
-excerpt_image: https://galena.es/assets/images/Ethical_Mining_of_Cobalt.png
+excerpt_image: https://www.galena.es/assets/images/Ethical_Mining_of_Cobalt.png
 categories: [Mining, Sustainability]
 tags: [Cobalt, Ethical Mining, Sustainable Practices, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Ethical_Mining_of_Cobalt.png "A geologist examines cobalt ore in a sustainable mining site, highlighting the importance of ethical mining practices for cobalt extraction. The image showcases a vibrant landscape with miners using safe and environmentally friendly techniques.")
+![banner](https://www.galena.es/assets/images/Ethical_Mining_of_Cobalt.png "A geologist examines cobalt ore in a sustainable mining site, highlighting the importance of ethical mining practices for cobalt extraction. The image showcases a vibrant landscape with miners using safe and environmentally friendly techniques.")
 
 # Introduction
 

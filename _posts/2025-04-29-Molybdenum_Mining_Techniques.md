@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Secrets of Molybdenum Mining"
 subtitle: "A deep dive into the techniques and processes used in molybdenum mining."
-excerpt_image: https://galena.es/assets/images/Molybdenum_Mining_Techniques.png
+excerpt_image: https://www.galena.es/assets/images/Molybdenum_Mining_Techniques.png
 categories: [Mining Techniques, Mineralogy]
 tags: [molybdenum, mining, geology, earth sciences]
 ---
 
-![banner](https://galena.es/assets/images/Molybdenum_Mining_Techniques.png "An infographic illustrating various molybdenum mining techniques, including open-pit and underground mining methods, with diagrams and key facts about the processes involved in extracting this essential mineral.")
+![banner](https://www.galena.es/assets/images/Molybdenum_Mining_Techniques.png "An infographic illustrating various molybdenum mining techniques, including open-pit and underground mining methods, with diagrams and key facts about the processes involved in extracting this essential mineral.")
 
 ## Introduction
 

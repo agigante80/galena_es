@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Role of Phosphate Rock in Fertilizer Production"
 subtitle: "Dive into the fascinating journey of phosphate rock from mine to crop, and discover its vital role in global food production."
-excerpt_image: https://galena.es/assets/images/Phosphate_Rock_in_Fertilizers.png
+excerpt_image: https://www.galena.es/assets/images/Phosphate_Rock_in_Fertilizers.png
 categories: [Geology, Agriculture]
 tags: [Phosphate Rock, Fertilizers, Mining, Food Production]
 ---
 
-![banner](https://galena.es/assets/images/Phosphate_Rock_in_Fertilizers.png)
+![banner](https://www.galena.es/assets/images/Phosphate_Rock_in_Fertilizers.png)
 
 # Introduction
 

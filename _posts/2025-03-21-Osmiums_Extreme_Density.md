@@ -2,12 +2,12 @@
 layout: post
 title: "Osmium: The Unparalleled Density of Earth's Heaviest Element"
 subtitle: "A deep dive into the world of osmium, its extreme density and significant applications in industry and research."
-excerpt_image: https://galena.es/assets/images/Osmiums_Extreme_Density.png
+excerpt_image: https://www.galena.es/assets/images/Osmiums_Extreme_Density.png
 categories: [Minerals, Industrial Applications]
 tags: [osmium, density, mineral, industry]
 ---
 
-![banner](https://galena.es/assets/images/Osmiums_Extreme_Density.png "Close-up image of osmium crystals showcasing their metallic luster, highlighting the element's extreme density. The background features mining equipment and geological tools, symbolizing its industrial and research applications.")
+![banner](https://www.galena.es/assets/images/Osmiums_Extreme_Density.png "Close-up image of osmium crystals showcasing their metallic luster, highlighting the element's extreme density. The background features mining equipment and geological tools, symbolizing its industrial and research applications.")
 
 # Introduction
 

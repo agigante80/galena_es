@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mysteries of Weloganite"
 subtitle: "Exploring the unique and captivating properties of the rare mineral Weloganite."
-excerpt_image: https://galena.es/assets/images/Weloganite_Unique_Features.png
+excerpt_image: https://www.galena.es/assets/images/Weloganite_Unique_Features.png
 categories: [Minerals, Geology]
 tags: [Weloganite, Mineralogy, Rare Minerals, Crystallography]
 ---
 
-![banner](https://galena.es/assets/images/Weloganite_Unique_Features.png "Close-up image of Weloganite crystals showcasing their unique hexagonal structure and vibrant color variations, highlighting the mineral's rare properties and geological significance for enthusiasts and educators.")
+![banner](https://www.galena.es/assets/images/Weloganite_Unique_Features.png "Close-up image of Weloganite crystals showcasing their unique hexagonal structure and vibrant color variations, highlighting the mineral's rare properties and geological significance for enthusiasts and educators.")
 
 # Introduction
 

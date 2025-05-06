@@ -2,12 +2,12 @@
 layout: post
 title: "The Ancient Art of Copper Mining"
 subtitle: "Exploring the historical techniques and locations of copper mining"
-excerpt_image: https://galena.es/assets/images/Historical_Copper_Mining.png
+excerpt_image: https://www.galena.es/assets/images/Historical_Copper_Mining.png
 categories: [Geology, History]
 tags: [Copper Mining, Ancient Techniques, Historical Locations, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Historical_Copper_Mining.png "An ancient copper mine site showcasing traditional mining techniques, with stone tools and remnants of early mining structures, set against a rugged landscape. This image highlights the historical significance of copper mining in geology and earth sciences.")
+![banner](https://www.galena.es/assets/images/Historical_Copper_Mining.png "An ancient copper mine site showcasing traditional mining techniques, with stone tools and remnants of early mining structures, set against a rugged landscape. This image highlights the historical significance of copper mining in geology and earth sciences.")
 
 # The Ancient Art of Copper Mining
 

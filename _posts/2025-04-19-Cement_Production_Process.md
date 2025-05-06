@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Cement Production Process"
 subtitle: "A detailed look into the intricacies of producing one of the world's most used materials: cement."
-excerpt_image: https://galena.es/assets/images/Cement_Production_Process.png
+excerpt_image: https://www.galena.es/assets/images/Cement_Production_Process.png
 categories: [Geology, Mineralogy]
 tags: [cement production, geology, minerals, earth science]
 ---
 
-![banner](https://galena.es/assets/images/Cement_Production_Process.png "Infographic illustrating the cement production process, featuring key steps such as raw material extraction, crushing, grinding, heating in a kiln, and final product packaging, aimed at educating geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Cement_Production_Process.png "Infographic illustrating the cement production process, featuring key steps such as raw material extraction, crushing, grinding, heating in a kiln, and final product packaging, aimed at educating geology enthusiasts and earth science readers.")
 
 # Introduction
 Cement is the key ingredient in the creation of concrete, the most widely used construction material in the world. Despite its prevalence, the process behind its production remains a mystery to many. This article aims to shed light on the intricate process of cement production, from the raw material extraction to the final product packaging.

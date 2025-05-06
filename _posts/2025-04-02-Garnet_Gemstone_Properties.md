@@ -2,12 +2,12 @@
 layout: post
 title: "Unraveling the Mystique of Garnet: A Gemstone Extraordinaire"
 subtitle: "Dive deep into the fascinating world of garnets, exploring the unique properties that make them cherished gemstones."
-excerpt_image: https://galena.es/assets/images/Garnet_Gemstone_Properties.png
+excerpt_image: https://www.galena.es/assets/images/Garnet_Gemstone_Properties.png
 categories: [Geology, Gemology]
 tags: [Garnet, Gemstone, Minerals, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Garnet_Gemstone_Properties.png "Close-up of a deep red garnet gemstone showcasing its crystalline structure and natural facets, highlighting the unique properties that make garnet a favored choice among gem enthusiasts and collectors.")
+![banner](https://www.galena.es/assets/images/Garnet_Gemstone_Properties.png "Close-up of a deep red garnet gemstone showcasing its crystalline structure and natural facets, highlighting the unique properties that make garnet a favored choice among gem enthusiasts and collectors.")
 
 # Introduction
 
@@ -40,7 +40,7 @@ Garnets possess a vitreous luster that imparts a glass-like shine, especially wh
 
 There are six main varieties of garnet, each with its unique properties and colors. These include almandine, pyrope, spessartine, grossular, andradite, and uvarovite.
 
-![garnet_varieties](https://galena.es/assets/images/Garnet_Varieties.png "Six main varieties of garnet, each displaying a unique array of colors and properties.")
+![garnet_varieties](https://www.galena.es/assets/images/Garnet_Varieties.png "Six main varieties of garnet, each displaying a unique array of colors and properties.")
 
 To learn more about the different varieties of garnet and their unique properties, you can refer to [The International Gem Society's comprehensive guide](https://www.gemsociety.org/article/garnet-species/).
 

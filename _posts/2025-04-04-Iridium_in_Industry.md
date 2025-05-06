@@ -2,12 +2,12 @@
 layout: post
 title: "Harnessing the Potential: Iridium in Industrial Applications"
 subtitle: "Unravel the multifaceted uses of iridium in various industries, from electronics to medicine."
-excerpt_image: https://galena.es/assets/images/Iridium_in_Industry.png
+excerpt_image: https://www.galena.es/assets/images/Iridium_in_Industry.png
 categories: [Minerals, Industry]
 tags: [Iridium, Electronics, Medicine, Geology]
 ---
 
-![banner](https://galena.es/assets/images/Iridium_in_Industry.png "An infographic illustrating the diverse industrial applications of iridium, featuring icons representing electronics, medical devices, and other technologies, with a background of mining and geological elements.")
+![banner](https://www.galena.es/assets/images/Iridium_in_Industry.png "An infographic illustrating the diverse industrial applications of iridium, featuring icons representing electronics, medical devices, and other technologies, with a background of mining and geological elements.")
 
 # Introduction
 

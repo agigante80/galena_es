@@ -2,12 +2,12 @@
 layout: post
 title: "The Quest for Ethical Sourcing of Neodymium"
 subtitle: "Exploring the challenges and solutions in the ethical sourcing of neodymium, a critical element for modern technology."
-excerpt_image: https://galena.es/assets/images/Sourcing_Neodymium_Ethically.png
+excerpt_image: https://www.galena.es/assets/images/Sourcing_Neodymium_Ethically.png
 categories: [Environment, Technology]
 tags: [neodymium, ethical sourcing, mining, sustainability]
 ---
 
-![banner](https://galena.es/assets/images/Sourcing_Neodymium_Ethically.png ""Infographic illustrating the challenges and solutions in ethically sourcing neodymium, featuring images of mining sites, neodymium crystals, and sustainable practices, aimed at geology enthusiasts and earth science readers."")
+![banner](https://www.galena.es/assets/images/Sourcing_Neodymium_Ethically.png ""Infographic illustrating the challenges and solutions in ethically sourcing neodymium, featuring images of mining sites, neodymium crystals, and sustainable practices, aimed at geology enthusiasts and earth science readers."")
 
 ## Introduction
 

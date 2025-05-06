@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling Qatar's Hidden Treasure: Its LNG Reserves"
 subtitle: "Discover how Qatar's vast natural gas reserves have become a pillar of its economy and a tool for global influence."
-excerpt_image: https://galena.es/assets/images/Qatars_LNG_Reserves.png
+excerpt_image: https://www.galena.es/assets/images/Qatars_LNG_Reserves.png
 categories: [Geology, Economics]
 tags: [Qatar, LNG, Natural Gas, Geopolitics]
 ---
 
-![Qatar LNG Reserves](https://galena.es/assets/images/Qatars_LNG_Reserves.png "Map of Qatar highlighting its extensive LNG reserves, illustrating the country's strategic role in the global natural gas market and its economic influence.")
+![Qatar LNG Reserves](https://www.galena.es/assets/images/Qatars_LNG_Reserves.png "Map of Qatar highlighting its extensive LNG reserves, illustrating the country's strategic role in the global natural gas market and its economic influence.")
 
 ## Introduction
 

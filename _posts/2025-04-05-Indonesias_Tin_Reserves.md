@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Wealth: Indonesia's Tin Reserves"
 subtitle: "Exploring Indonesia's vast tin reserves and their significant contribution to the nation's economic growth."
-excerpt_image: https://galena.es/assets/images/Indonesias_Tin_Reserves.png
+excerpt_image: https://www.galena.es/assets/images/Indonesias_Tin_Reserves.png
 categories: [Geology, Economics]
 tags: [Tin, Mining, Indonesia, Economic Growth]
 ---
 
-![banner](https://galena.es/assets/images/Indonesias_Tin_Reserves.png "Aerial view of Indonesia's tin mining operations showcasing expansive mining sites and machinery, highlighting the country's significant tin reserves and their role in economic development.")
+![banner](https://www.galena.es/assets/images/Indonesias_Tin_Reserves.png "Aerial view of Indonesia's tin mining operations showcasing expansive mining sites and machinery, highlighting the country's significant tin reserves and their role in economic development.")
 
 ## Introduction
 

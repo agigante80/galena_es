@@ -2,12 +2,12 @@
 layout: post
 title: "Granite: The Crown Jewel of Modern Kitchens"
 subtitle: "Discover why granite is the go-to material for contemporary kitchen countertops."
-excerpt_image: https://galena.es/assets/images/Granite_in_Modern_Kitchens.png
+excerpt_image: https://www.galena.es/assets/images/Granite_in_Modern_Kitchens.png
 categories: [Kitchen Design, Geology]
 tags: [granite, kitchen countertops, modern design, geology]
 ---
 
-![banner](https://galena.es/assets/images/Granite_in_Modern_Kitchens.png ""A sleek modern kitchen featuring elegant granite countertops, showcasing the stone's natural patterns and textures, highlighting its popularity in contemporary design for durability and aesthetic appeal."")
+![banner](https://www.galena.es/assets/images/Granite_in_Modern_Kitchens.png ""A sleek modern kitchen featuring elegant granite countertops, showcasing the stone's natural patterns and textures, highlighting its popularity in contemporary design for durability and aesthetic appeal."")
 
 # Introduction
 

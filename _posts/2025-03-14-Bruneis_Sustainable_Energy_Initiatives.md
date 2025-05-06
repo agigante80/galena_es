@@ -2,12 +2,12 @@
 layout: post
 title: "Brunei's Leap Towards Sustainable Energy"
 subtitle: "An in-depth exploration into Brunei's efforts to diversify its energy sources and embrace sustainable practices."
-excerpt_image: https://galena.es/assets/images/Bruneis_Sustainable_Energy_Initiatives.png
+excerpt_image: https://www.galena.es/assets/images/Bruneis_Sustainable_Energy_Initiatives.png
 categories: [Sustainable Energy, Geology]
 tags: [Brunei, Renewable Energy, Diversification, Minerals]
 ---
 
-![Brunei's Sustainable Energy Initiatives](https://galena.es/assets/images/Bruneis_Sustainable_Energy_Initiatives.png "Infographic showcasing Brunei's sustainable energy initiatives, highlighting the country's efforts to diversify its energy sources with a focus on renewable technologies and mineral resources. Ideal for geology enthusiasts and educators exploring the intersection of earth sciences and sustainable practices.")
+![Brunei's Sustainable Energy Initiatives](https://www.galena.es/assets/images/Bruneis_Sustainable_Energy_Initiatives.png "Infographic showcasing Brunei's sustainable energy initiatives, highlighting the country's efforts to diversify its energy sources with a focus on renewable technologies and mineral resources. Ideal for geology enthusiasts and educators exploring the intersection of earth sciences and sustainable practices.")
 
 # Brunei's Leap Towards Sustainable Energy
 

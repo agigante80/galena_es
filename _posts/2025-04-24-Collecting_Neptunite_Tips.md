@@ -2,12 +2,12 @@
 layout: post
 title: "Mastering the Art of Collecting Neptunite"
 subtitle: "A comprehensive guide to identifying and collecting the unique mineral Neptunite for gemstone enthusiasts"
-excerpt_image: https://galena.es/assets/images/Collecting_Neptunite_Tips.png
+excerpt_image: https://www.galena.es/assets/images/Collecting_Neptunite_Tips.png
 categories: [Gemstones, Collecting]
 tags: [Neptunite, Collecting, Identification, Gemstones]
 ---
 
-![banner](https://galena.es/assets/images/Collecting_Neptunite_Tips.png "A close-up image of Neptunite crystals showcasing their distinctive deep black color and red streaks, accompanied by a hand holding a rock hammer and a notepad with tips for identifying and collecting Neptunite, aimed at gemstone enthusiasts.")
+![banner](https://www.galena.es/assets/images/Collecting_Neptunite_Tips.png "A close-up image of Neptunite crystals showcasing their distinctive deep black color and red streaks, accompanied by a hand holding a rock hammer and a notepad with tips for identifying and collecting Neptunite, aimed at gemstone enthusiasts.")
 
 # Introduction
 

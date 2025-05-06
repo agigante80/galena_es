@@ -2,12 +2,12 @@
 layout: post
 title: "United States' Black Gold: An Economic Powerhouse"
 subtitle: "An exploration of the role of oil, dubbed 'Black Gold,' in shaping the U.S. economy."
-excerpt_image: https://galena.es/assets/images/United_States_Black_Gold.png
+excerpt_image: https://www.galena.es/assets/images/United_States_Black_Gold.png
 categories: [Economic Geology, Mineral Resources]
 tags: [Oil industry, US Economy, Black Gold, Mineral Wealth]
 ---
 
-![banner](https://galena.es/assets/images/United_States_Black_Gold.png "An infographic illustrating the impact of oil, often referred to as 'Black Gold,' on the United States economy, featuring key statistics, historical milestones, and visual representations of oil production and its significance in the mineral and mining sectors.")
+![banner](https://www.galena.es/assets/images/United_States_Black_Gold.png "An infographic illustrating the impact of oil, often referred to as 'Black Gold,' on the United States economy, featuring key statistics, historical milestones, and visual representations of oil production and its significance in the mineral and mining sectors.")
 
 # United States' Black Gold: An Economic Powerhouse
 

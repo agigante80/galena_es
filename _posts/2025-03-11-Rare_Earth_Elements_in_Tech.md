@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Role of Rare Earth Elements in Modern Technology"
 subtitle: "Explore the indispensable role of rare earth elements in shaping today's tech-driven world."
-excerpt_image: https://galena.es/assets/images/Rare_Earth_Elements_in_Tech.png
+excerpt_image: https://www.galena.es/assets/images/Rare_Earth_Elements_in_Tech.png
 categories: [Technology, Geology]
 tags: [rare earth elements, modern technology, geology, mining]
 ---
 
-![banner](https://galena.es/assets/images/Rare_Earth_Elements_in_Tech.png "A close-up image of rare earth elements, including minerals like neodymium and dysprosium, arranged alongside modern technology gadgets such as smartphones and electric vehicles, highlighting their essential role in advancing technology.")
+![banner](https://www.galena.es/assets/images/Rare_Earth_Elements_in_Tech.png "A close-up image of rare earth elements, including minerals like neodymium and dysprosium, arranged alongside modern technology gadgets such as smartphones and electric vehicles, highlighting their essential role in advancing technology.")
 
 # Introduction
 Over the past few decades, we’ve seen an exponential growth in technology. From smartphones to electric vehicles, and green technologies, the advancements are nothing short of revolutionary. Yet, few of us are aware that these modern miracles owe their existence, in large part, to a group of 17 elements tucked away in the periodic table – the Rare Earth Elements (REEs). This article delves deep into the world of these incredible elements and their indispensable role in shaping our tech-driven world.

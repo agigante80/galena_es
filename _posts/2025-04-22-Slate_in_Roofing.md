@@ -2,12 +2,12 @@
 layout: post
 title: "Slate: The Timeless Choice for Roofing"
 subtitle: "Exploring the unique characteristics of slate that make it an enduring favorite for roofing materials."
-excerpt_image: https://galena.es/assets/images/Slate_in_Roofing.png
+excerpt_image: https://www.galena.es/assets/images/Slate_in_Roofing.png
 categories: [Geology, Construction]
 tags: [Slate, Roofing, Durability, Aesthetics]
 ---
 
-![Close-up of a slate roof showcasing its natural texture and rich colors, highlighting the durability and aesthetic appeal of slate as a roofing material, relevant to geology and earth sciences.](https://galena.es/assets/images/Slate_in_Roofing.png)
+![Close-up of a slate roof showcasing its natural texture and rich colors, highlighting the durability and aesthetic appeal of slate as a roofing material, relevant to geology and earth sciences.](https://www.galena.es/assets/images/Slate_in_Roofing.png)
 
 # Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "India's Mineral Wealth: A Treasure Trove Beneath The Surface"
 subtitle: "An in-depth exploration into the diverse and economically significant mineral resources found within India."
-excerpt_image: https://galena.es/assets/images/Indias_Mineral_Wealth.png
+excerpt_image: https://www.galena.es/assets/images/Indias_Mineral_Wealth.png
 categories: [Geology, Economy]
 tags: [Minerals, India, Mining, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Indias_Mineral_Wealth.png "A detailed infographic showcasing India's diverse mineral resources, highlighting key minerals such as coal, iron ore, bauxite, and gemstones, along with their economic significance and distribution across the country.")
+![banner](https://www.galena.es/assets/images/Indias_Mineral_Wealth.png "A detailed infographic showcasing India's diverse mineral resources, highlighting key minerals such as coal, iron ore, bauxite, and gemstones, along with their economic significance and distribution across the country.")
 
 ## Introduction
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Investing in Gold: A Golden Opportunity"
 subtitle: "Delve into the world of gold investments and understand the benefits and risks associated with different forms of gold."
-excerpt_image: https://galena.es/assets/images/Investing_in_Gold.png
+excerpt_image: https://www.galena.es/assets/images/Investing_in_Gold.png
 categories: [Investing, Geology]
 tags: [gold, investing, geology, minerals]
 ---
 
-![banner](https://galena.es/assets/images/Investing_in_Gold.png "A visually appealing infographic illustrating the benefits and risks of investing in gold, featuring various forms of gold investment such as bullion, coins, and ETFs, with geological imagery in the background to engage geology enthusiasts.")
+![banner](https://www.galena.es/assets/images/Investing_in_Gold.png "A visually appealing infographic illustrating the benefits and risks of investing in gold, featuring various forms of gold investment such as bullion, coins, and ETFs, with geological imagery in the background to engage geology enthusiasts.")
 
 # Introduction
 

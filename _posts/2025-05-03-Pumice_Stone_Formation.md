@@ -2,12 +2,12 @@
 layout: post
 title: "The Incredible Formation of Pumice Stone"
 subtitle: "Discover how the remarkable pumice stone is formed through volcanic activity."
-excerpt_image: https://galena.es/assets/images/Pumice_Stone_Formation.png
+excerpt_image: https://www.galena.es/assets/images/Pumice_Stone_Formation.png
 categories: [Geology, Earth Science]
 tags: [Pumice Stone, Volcanic Activity, Earth Sciences, Rock Formation]
 ---
 
-![banner](https://galena.es/assets/images/Pumice_Stone_Formation.png ""Illustration depicting the formation of pumice stone through volcanic activity, showcasing the explosive eruption of lava that cools rapidly, trapping gas bubbles to create the lightweight, porous rock. Ideal for geology enthusiasts and educators."")
+![banner](https://www.galena.es/assets/images/Pumice_Stone_Formation.png ""Illustration depicting the formation of pumice stone through volcanic activity, showcasing the explosive eruption of lava that cools rapidly, trapping gas bubbles to create the lightweight, porous rock. Ideal for geology enthusiasts and educators."")
 
 # Introduction
 Pumice stone, a rock so light it floats on water, is a fascinating subject of study for geology enthusiasts and educators alike. Its unique properties and formation process offer valuable insights into the dynamic and explosive nature of our planet's geology.

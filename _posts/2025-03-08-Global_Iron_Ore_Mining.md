@@ -2,12 +2,12 @@
 layout: post
 title: "Unearthing the Giants: Global Iron Ore Mining"
 subtitle: "Dive into the fascinating world of iron ore mining, exploring the top producers globally."
-excerpt_image: https://galena.es/assets/images/Global_Iron_Ore_Mining.png
+excerpt_image: https://www.galena.es/assets/images/Global_Iron_Ore_Mining.png
 categories: [Geology, Mining]
 tags: [Iron Ore, Mining, Global Producers, Earth Science]
 ---
 
-![banner](https://galena.es/assets/images/Global_Iron_Ore_Mining.png ""A world map highlighting the top iron ore producing regions, including Australia, Brazil, and China, with colorful markers indicating major mining sites, aimed at geology enthusiasts and earth science readers.")
+![banner](https://www.galena.es/assets/images/Global_Iron_Ore_Mining.png ""A world map highlighting the top iron ore producing regions, including Australia, Brazil, and China, with colorful markers indicating major mining sites, aimed at geology enthusiasts and earth science readers.")
 
 # **Introduction**
 

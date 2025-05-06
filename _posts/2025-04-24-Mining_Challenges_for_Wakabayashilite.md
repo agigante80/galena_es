@@ -2,12 +2,12 @@
 layout: post
 title: "Unveiling the Mining Challenges for Wakabayashilite"
 subtitle: "A deep dive into the complexities and difficulties in mining and processing Wakabayashilite."
-excerpt_image: https://galena.es/assets/images/Mining_Challenges_for_Wakabayashilite.png
+excerpt_image: https://www.galena.es/assets/images/Mining_Challenges_for_Wakabayashilite.png
 categories: [Mining, Geology]
 tags: [Wakabayashilite, Mining Challenges, Mineral Processing, Earth Sciences]
 ---
 
-![banner](https://galena.es/assets/images/Mining_Challenges_for_Wakabayashilite.png "A geologist examining a rough specimen of Wakabayashilite in a mining site, highlighting the challenges of extraction and processing, surrounded by rocky terrain and mining equipment.")
+![banner](https://www.galena.es/assets/images/Mining_Challenges_for_Wakabayashilite.png "A geologist examining a rough specimen of Wakabayashilite in a mining site, highlighting the challenges of extraction and processing, surrounded by rocky terrain and mining equipment.")
 
 # Introduction
 

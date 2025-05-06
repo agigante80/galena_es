@@ -2,12 +2,12 @@
 layout: post
 title: "The Rich Legacy of New Zealand's Unique Jade"
 subtitle: "A deep dive into the cultural and economic significance of New Zealand's jade, a gem embedded in the heart of the nation."
-excerpt_image: https://galena.es/assets/images/New_Zealands_Unique_Jade.png
+excerpt_image: https://www.galena.es/assets/images/New_Zealands_Unique_Jade.png
 categories: [Gemstones, Culture]
 tags: [New Zealand, Jade, Mining, Maori Culture]
 ---
 
-![banner](https://galena.es/assets/images/New_Zealands_Unique_Jade.png "A close-up view of New Zealand jade, showcasing its rich green hues and intricate textures, symbolizing its cultural and economic importance in Maori heritage and the gemstone market.")
+![banner](https://www.galena.es/assets/images/New_Zealands_Unique_Jade.png "A close-up view of New Zealand jade, showcasing its rich green hues and intricate textures, symbolizing its cultural and economic importance in Maori heritage and the gemstone market.")
 
 # Introduction
 

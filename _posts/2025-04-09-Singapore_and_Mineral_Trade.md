@@ -2,12 +2,12 @@
 layout: post
 title: "Singapore: The Global Hub for Mineral Trade"
 subtitle: "Exploring how Singapore leverages its strategic location in the international mineral trade market."
-excerpt_image: https://galena.es/assets/images/Singapore_and_Mineral_Trade.png
+excerpt_image: https://www.galena.es/assets/images/Singapore_and_Mineral_Trade.png
 categories: [Mineral Trade, Global Markets]
 tags: [Singapore, Mineral Trade, Strategic Location, Global Markets]
 ---
 
-![banner](https://galena.es/assets/images/Singapore_and_Mineral_Trade.png "Aerial view of Singapore's bustling port, showcasing cargo ships and containers, symbolizing the city's strategic role in the global mineral trade.")
+![banner](https://www.galena.es/assets/images/Singapore_and_Mineral_Trade.png "Aerial view of Singapore's bustling port, showcasing cargo ships and containers, symbolizing the city's strategic role in the global mineral trade.")
 
 # Introduction
 Singapore, a tiny yet robust city-state, is a powerhouse in the global mineral trade. Its strategic location, coupled with a strong economy, makes it a hub for mineral exchange. This article delves into how Singapore leverages its geographical advantage to thrive in the mineral trade.
