@@ -1,0 +1,25 @@
+Objective: Generate a compelling topic idea and a concise description for an affiliate product related to the website {WEBSITE_TITLE} ({WEBSITE_URL}).
+
+Instructions:
+
+- Analyze the provided product information and identify its key features and benefits.
+- Create a topic idea that is engaging, relevant to the target audience ({WEBSITE_AUDIENCE}), and highlights a specific aspect of the product.
+- Write a brief description that summarizes the product and its value proposition.
+- Ensure the content aligns with the website's focus: {WEBSITE_DESCRIPTION}.
+- Use relevant keywords from: {WEBSITE_KEYWORDS}.
+- Respond in {WEBSITE_LANGUAGE}.
+
+Format:
+
+"topic_idea","description"
+
+Constraints:
+
+- The topic idea should be concise (under 60 characters) and attention-grabbing.
+- The description should be brief (under 150 characters) and informative.
+- Avoid overly promotional language or hype.
+- Focus on the benefits and value the product offers to the customer.
+
+Example:
+
+"Unlock Your Potential with XYZ Smartwatch","Track fitness, monitor sleep, and stay connected with the XYZ Smartwatch. Your ultimate

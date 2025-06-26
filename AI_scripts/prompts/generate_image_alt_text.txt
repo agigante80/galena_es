@@ -1,0 +1,15 @@
+Create a concise and descriptive alt text for the image.
+
+The image is related to the following:
+Topic Idea: {topic_idea}
+Description: {description}
+
+The blog {WEBSITE_TITLE} ({WEBSITE_URL}) focuses on {WEBSITE_DESCRIPTION}.
+The audience includes {WEBSITE_AUDIENCE}.
+Use relevant keywords: {WEBSITE_KEYWORDS}.
+Respond in {WEBSITE_LANGUAGE}.
+
+Focus on the key objects and context of the image.
+Keep the alt text under 100 characters.
+
+ONLY provide the alt text as a plain sentence without any labels, prefixes.

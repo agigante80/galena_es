@@ -107,3 +107,85 @@ class TestMyScript(unittest.TestCase):
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
     unittest.main()
+
+
+# following code is for manual testing purposes
+
+    """
+    #TESTING THE TOPICS GENERATION 
+    logging.info("🔄 TESTING CREATE TOPICS...")
+    get_topics_create_csv_and_notify(
+        OPENAI_API_KEY,
+        FILE_PATH_NEW_TOPICS,
+        TELEGRAM_BOT_TOKEN,
+        TELEGRAM_CHAT_ID
+    )
+    """
+
+    """# Test only fetch_topic_and_description
+    logging.info("🔄 TESTING fetch_topic_and_description...")
+
+    # Call the function directly
+    topic, description, content_type, ID = fetch_topic_and_description()
+    
+    # Print the fetched topic and description
+    print(f"Topic: {topic}")
+    print(f"Description: {description}")
+    print(f"Content Type: {content_type}")
+    print(f"ID: {ID}")"""
+    
+
+    """# TESTING CREATION IMAGE
+    # Example test inputs
+    test_topic_idea = "Errores comunes en radioaficion"
+    test_description = "Evita los fallos tipicos al iniciar tu camino en la radioaficion"
+
+    logging.info("🔄 TESTING get_image_create_file_and_notify...")
+
+    image_path = get_image_create_file_and_notify(test_topic_idea, test_description)
+
+    if image_path:
+        print(f"Image generated and saved at: {image_path}")
+        logging.info(f"✅ Image generated and saved at: {image_path}")
+    else:
+        print("Image generation failed.")
+        logging.error("❌ Image generation failed.")
+
+    logging.info("✅ Test completed.")"""
+
+    """# TEST GENERATE ALT FOR AN IMAGE
+    # Example test inputs
+    test_topic_idea = "Errores comunes en radioaficion"
+    test_description = "Evita los fallos tipicos al iniciar tu camino en la radioaficion"
+    test_image_path = "assets/images/2025-06-21-21-15_Errores_comunes_en_radioaficion.png"  
+
+    logging.info("🔄 TESTING generate_image_alt_text...")
+
+    alt_text = generate_image_alt_text(test_topic_idea, test_description, test_image_path)
+
+    print(f"Generated alt text: {alt_text}")
+    logging.info(f"✅ Generated alt text: {alt_text}")"""
+
+
+    """
+    # TESTING THE CREATION OF ARTICLE
+    # Example test inputs
+    test_topic_idea = "Errores comunes en radioaficion"
+    test_description = "Evita los fallos tipicos al iniciar tu camino en la radioaficion"
+    test_image_path = "assets/images/2025-06-21-21-15_Errores_comunes_en_radioaficion.png"  
+    test_content_type = "article"  
+    test_ID = None  
+
+    logging.info("🔄 TESTING get_article_content...")
+
+    article_path = get_article_content(test_topic_idea, test_description, test_image_path, test_content_type, test_ID)
+
+    if article_path:
+        print(f"Article generated and saved at: {article_path}")
+        logging.info(f"✅ Article generated and saved at: {article_path}")
+    else:
+        print("Article generation failed.")
+        logging.error("❌ Article generation failed.")
+    """
+
+

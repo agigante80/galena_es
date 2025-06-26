@@ -1,0 +1,21 @@
+Task:
+Create an attractive illustration for a blog article on our website that visually captures the essence of the given topic.
+
+Details:
+
+* **Topic Idea**: {topic_idea}
+* **Description**: {description}
+
+Requirements:
+
+* **Focus**: Highlight the global connection and technology relevant to the website {WEBSITE_TITLE} ({WEBSITE_URL}), emphasizing unique aspects of the subject.
+* **Visual Style**: Use a vibrant and educational style that draws attention.
+* **Audience**: Designed for {WEBSITE_AUDIENCE}.
+* **Digital Quality**: Optimized for digital screens and print, without any guiding text.
+* **No Text**: Keep the image free of text, captions, and watermarks.
+
+Website context:
+
+- Description: {WEBSITE_DESCRIPTION}
+- Keywords: {WEBSITE_KEYWORDS}
+- Language: {WEBSITE_LANGUAGE}

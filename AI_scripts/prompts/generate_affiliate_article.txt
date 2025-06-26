@@ -1,0 +1,57 @@
+### Objective: Generate an engaging and informative affiliate marketing article in {WEBSITE_LANGUAGE}.
+Approximately 1800 to 3000 words in Markdown format compatible with GitHub.
+
+#### Instructions:
+
+* You will be provided with a product topic idea, a brief description, an image URL, alt text for the image, and an affiliate link.
+* Your task is to create an appealing article that informs readers about the product and motivates them to purchase through the provided affiliate link.
+* The article must be written in {WEBSITE_LANGUAGE} and formatted in Markdown compatible with GitHub.
+
+#### Input:
+
+* Topic Idea: {topic_idea}
+* Description: {description}
+* Image URL: {image_url}
+* Image Alt Text: {image_alt_text}
+* Affiliate URL: {affiliate_url}
+
+#### Article Requirements:
+
+* Write in a professional, informative, and engaging tone. Focus on the product’s benefits and how it solves the reader’s problems. Use real-world examples and case studies to illustrate value.
+* Highlight key product features, ease of use, reliability, and value for money.
+* Optimize the article for SEO using relevant keywords from: {WEBSITE_KEYWORDS}.
+* Tailor the content to the audience: {WEBSITE_AUDIENCE}.
+* Include relevant links to other resources if available in {other_file_urls}.
+
+#### Article Structure:
+
+1. **Front Matter:**
+
+    ---
+    layout: post
+    title: "<generated article title, no symbols, max 50 characters>"
+    subtitle: "<generated article summary, max 140 characters>"
+    excerpt_image: {image_url}
+    categories: [<2 categories, comma separated>]
+    tags: [<4 keywords, comma separated>]
+    ---
+
+    ![banner]({image_url} "{image_alt_text}")
+
+
+2. **Body:**
+
+* Start with an engaging introduction highlighting the main benefits of the product.
+* Provide a detailed description emphasizing key features and advantages, using the provided description and image details.
+* Clearly explain the benefits and real-world use cases.
+* Include a clear and compelling call to action encouraging readers to purchase via the affiliate link. Disclose that it is an affiliate link.
+
+    `[Link to product]({affiliate_url})`
+
+* Maintain honesty and ethics; avoid false claims or exaggerations.
+
+#### Website Context:
+
+This article is for {WEBSITE_TITLE} ({WEBSITE_URL}), a site focused on {WEBSITE_DESCRIPTION}.
+Do not change or correct the value of any URL.
+ONLY provide the article content in {WEBSITE_LANGUAGE} without any labels, prefixes, or additional explanation.

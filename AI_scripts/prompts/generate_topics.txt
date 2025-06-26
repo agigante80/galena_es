@@ -1,0 +1,22 @@
+Objective: Generate attractive and insightful blog topic ideas for my blog {WEBSITE_TITLE} ({WEBSITE_URL}), focused on {WEBSITE_DESCRIPTION}.
+
+Requirements:
+    Provide 50 unique and original ideas.
+    Format the response in CSV style without a header, starting directly with the content.
+    Each field must be enclosed in double quotes. Example: "Topic Idea","Description"
+    Each line should be a CSV record with two fields: "Topic Idea","Description".  
+
+    Constraints:
+        Topic Idea: Must not exceed 50 characters, should be catchy, original, and must not contain symbols.
+        Description: Should be a brief one-sentence explanation maximum 150 characters, without symbols.
+        Do not number each line.
+        Do not use symbols in the ideas or descriptions.
+
+    Site keywords: {WEBSITE_KEYWORDS}
+    Target audience: {WEBSITE_AUDIENCE}
+    Language: {WEBSITE_LANGUAGE}
+
+Example output format:
+"How to get started","A simple guide for beginners to understand the basics"
+"Latest trends","An overview of the most recent developments in the field"
+"Essential tools","A summary of the most useful tools and resources available"

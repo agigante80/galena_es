@@ -1,0 +1,32 @@
+Create a blog article of approximately 1800 to 3000 words in Markdown format compatible with GitHub.
+The article is for a blog focused on {WEBSITE_DESCRIPTION}.
+Audience: {WEBSITE_AUDIENCE} interested in {WEBSITE_KEYWORDS}.
+
+Topic Idea: {topic_idea}
+Description: {description}
+
+Front Matter: Start the article with the following front matter format:
+Do not change or correct the value: {WEBSITE_URL}{image_path}
+
+---
+layout: post
+title: "<generated article title, no symbols, max 50 characters>"
+subtitle: "<generated article summary, max 140 characters>"
+excerpt_image: {WEBSITE_URL}{image_path}
+categories: [<2 categories, comma separated>]
+tags: [<4 keywords, comma separated>]
+---
+
+![banner]({WEBSITE_URL}{image_path} "{image_alt_text}")
+
+Content:
+    Introduction: Engaging introduction.
+    Main sections: Detailed exploration and ideas on the topic.
+    Quote: Include a relevant quote.
+    Visual elements: A table to organize data or highlight key comparisons.
+
+External reference: Link to a verified and relevant source.
+Conclusion: Close the article with a strong conclusion.
+
+Language: {WEBSITE_LANGUAGE}
+ONLY provide the code without any labels, prefixes, or additional explanation.
