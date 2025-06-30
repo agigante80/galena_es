@@ -29,4 +29,9 @@ External reference: Link to a verified and relevant source.
 Conclusion: Close the article with a strong conclusion.
 
 Language: {WEBSITE_LANGUAGE}
+
+Make sure the generated title and subtitle text are enclosed in double quotes exactly as shown:
+title: "<generated article title, no symbols, max 50 characters>"
+subtitle: "<generated article summary, max 140 characters>"
+
 ONLY provide the code without any labels, prefixes, or additional explanation.

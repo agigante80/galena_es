@@ -41,17 +41,26 @@ Approximately 1800 to 3000 words in Markdown format compatible with GitHub.
 
 2. **Body:**
 
-* Start with an engaging introduction highlighting the main benefits of the product.
-* Provide a detailed description emphasizing key features and advantages, using the provided description and image details.
-* Clearly explain the benefits and real-world use cases.
-* Include a clear and compelling call to action encouraging readers to purchase via the affiliate link. Disclose that it is an affiliate link.
+Content:
+    Introduction: Engaging introduction highlighting the main benefits of the product.
+    Main sections: 
+        * Detailed exploration and ideas on the topic.
+        * Provide a detailed description emphasizing key features and advantages, using the provided description and image details.
+        * Clearly explain the benefits and real-world use cases.
+    Visual elements: A table to organize data or highlight key comparisons.
+
+* Include a clear and compelling call to action encouraging readers to purchase via the affiliate link. 
+Place it twice in the article, one after the first paragraph and one before the conclusion. Disclose that it is an affiliate link.
 
     `[Link to product]({affiliate_url})`
 
-* Maintain honesty and ethics; avoid false claims or exaggerations.
+Conclusion: Close the article with a strong conclusion.
+
 
 #### Website Context:
 
+Maintain honesty and ethics; avoid false claims or exaggerations.
 This article is for {WEBSITE_TITLE} ({WEBSITE_URL}), a site focused on {WEBSITE_DESCRIPTION}.
 Do not change or correct the value of any URL.
-ONLY provide the article content in {WEBSITE_LANGUAGE} without any labels, prefixes, or additional explanation.
+Language: {WEBSITE_LANGUAGE}
+ONLY provide the code without any labels, prefixes, or additional explanation.
